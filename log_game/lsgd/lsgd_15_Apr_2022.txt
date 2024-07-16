@@ -1,0 +1,28 @@
+
+Name : hacthien giao dịch với gmpwgt || Time : 2022-04-15 10:40:14 || Item chuyển : [] Xu giao dịch :199999999 || Item Nhận :[ 312 Số lượng : 1; ] Xu nhận :0
+
+Name : gmpwgt giao dịch với hacthien || Time : 2022-04-15 10:40:14 || Item chuyển : [ 312 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :199999999
+
+Name : hacthien giao dịch với lem0nk || Time : 2022-04-15 13:41:45 || Item chuyển : [545 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 553 Số lượng : 1;  312 Số lượng : 1;  559 Số lượng : 1; ] Xu nhận :0
+
+Name : lem0nk giao dịch với hacthien || Time : 2022-04-15 13:41:45 || Item chuyển : [ 553 Số lượng : 1;  312 Số lượng : 1;  559 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[545 Số lượng : 1;] Xu nhận :0
+
+Name : nam2k9 giao dịch với kimlong || Time : 2022-04-15 19:49:45 || Item chuyển : [743 Số lượng : 133;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : kimlong giao dịch với nam2k9 || Time : 2022-04-15 19:49:45 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[743 Số lượng : 133;] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-15 20:23:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 575 Số lượng : 112;  576 Số lượng : 101;  574 Số lượng : 129;  577 Số lượng : 107;  578 Số lượng : 100;  573 Số lượng : 130; ] Xu nhận :200000000
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-15 20:23:51 || Item chuyển : [ 575 Số lượng : 112;  576 Số lượng : 101;  574 Số lượng : 129;  577 Số lượng : 107;  578 Số lượng : 100;  573 Số lượng : 130; ] Xu giao dịch :200000000 || Item Nhận :[] Xu nhận :0
+
+Name : horamau giao dịch với Đông Phương Công || Time : 2022-04-15 20:29:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 746 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  844 Số lượng : 1; ] Xu nhận :0
+
+Name : Đông Phương Công giao dịch với horamau || Time : 2022-04-15 20:29:59 || Item chuyển : [ 746 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  844 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với kimlong || Time : 2022-04-15 22:26:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 743 Số lượng : 133; ] Xu nhận :0
+
+Name : kimlong giao dịch với taochaphet || Time : 2022-04-15 22:26:34 || Item chuyển : [ 743 Số lượng : 133; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với Đông Phương Công || Time : 2022-04-15 22:59:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 427 Số lượng : 1;  420 Số lượng : 1; ] Xu nhận :0
+
+Name : Đông Phương Công giao dịch với kimlong || Time : 2022-04-15 22:59:50 || Item chuyển : [ 427 Số lượng : 1;  420 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

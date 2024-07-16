@@ -1,0 +1,18 @@
+
+ Name : babybosss đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-15 14:45:34
+
+ Name : 0ptimus đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-15 18:43:51
+
+ Name : tuoilonsanhvai đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 9390 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 9370 và 20|| Thời gian tách : 2022-05-15 21:24:44
+
+ Name : testgame đã tách vật phẩm || Vật phẩm tách: 868 || Số lượng vật phẩm ban đầu 10000 || Số lượng tách: 4000 || Số lượng vật phẩm sau khi tách: 6000 và 4000|| Thời gian tách : 2022-05-15 22:24:19
+
+ Name : testgame đã tách vật phẩm || Vật phẩm tách: 868 || Số lượng vật phẩm ban đầu 6000 || Số lượng tách: 2000 || Số lượng vật phẩm sau khi tách: 4000 và 2000|| Thời gian tách : 2022-05-15 22:24:22
+
+ Name : dbrrvcl1 đã tách vật phẩm || Vật phẩm tách: 874 || Số lượng vật phẩm ban đầu 140 || Số lượng tách: 125 || Số lượng vật phẩm sau khi tách: 15 và 125|| Thời gian tách : 2022-05-15 22:36:44
+
+ Name : testgame đã tách vật phẩm || Vật phẩm tách: 596 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-05-15 23:21:55
+
+ Name : testgame đã tách vật phẩm || Vật phẩm tách: 596 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-05-15 23:21:57
+
+ Name : minato đã tách vật phẩm || Vật phẩm tách: 948 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-15 23:34:38

@@ -1,0 +1,6 @@
+
+ Name : nhincaigi đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 499 || Số lượng tách: 199 || Số lượng vật phẩm sau khi tách: 300 và 199|| Thời gian tách : 2022-04-15 12:52:41
+
+ Name : nhincaigi đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 300 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 270 và 30|| Thời gian tách : 2022-04-15 12:53:22
+
+ Name : nhincaigi đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 270 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 250 và 20|| Thời gian tách : 2022-04-15 12:53:47

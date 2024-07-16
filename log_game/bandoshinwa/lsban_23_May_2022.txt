@@ -1,0 +1,20 @@
+
+Name : bomaycantattt bán đồ vào Shinwa   || Time : 2022-05-23 09:41:55 || Giá bán :10000000 || Vật phẩm bán :584 || Số lượng vật phẩm bán : 3
+
+Name : kakakuri bán đồ vào Shinwa   || Time : 2022-05-23 11:08:14 || Giá bán :5000000 || Vật phẩm bán :588 || Số lượng vật phẩm bán : 1
+
+Name : dungloinua bán đồ vào Shinwa   || Time : 2022-05-23 20:23:09 || Giá bán :2000000 || Vật phẩm bán :584 || Số lượng vật phẩm bán : 32
+
+Name : dungloinua bán đồ vào Shinwa   || Time : 2022-05-23 20:23:22 || Giá bán :2000000 || Vật phẩm bán :587 || Số lượng vật phẩm bán : 20
+
+Name : truongdeptrai bán đồ vào Shinwa   || Time : 2022-05-23 20:23:41 || Giá bán :5000000 || Vật phẩm bán :598 || Số lượng vật phẩm bán : 1269
+
+Name : torann bán đồ vào Shinwa   || Time : 2022-05-23 20:31:26 || Giá bán :2000000 || Vật phẩm bán :383 || Số lượng vật phẩm bán : 1
+
+Name : torann bán đồ vào Shinwa   || Time : 2022-05-23 20:31:53 || Giá bán :1000000 || Vật phẩm bán :366 || Số lượng vật phẩm bán : 1
+
+Name : torann bán đồ vào Shinwa   || Time : 2022-05-23 20:31:55 || Giá bán :2000000 || Vật phẩm bán :383 || Số lượng vật phẩm bán : 1
+
+Name : torann bán đồ vào Shinwa   || Time : 2022-05-23 20:31:57 || Giá bán :2000000 || Vật phẩm bán :383 || Số lượng vật phẩm bán : 1
+
+Name : torann bán đồ vào Shinwa   || Time : 2022-05-23 20:31:59 || Giá bán :2000000 || Vật phẩm bán :383 || Số lượng vật phẩm bán : 1

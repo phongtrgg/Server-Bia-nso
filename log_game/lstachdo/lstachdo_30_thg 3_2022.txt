@@ -1,0 +1,28 @@
+
+ Name : 1dapvelang đã tách vật phẩm || Vật phẩm tách: 647 || Số lượng vật phẩm ban đầu 6753 || Số lượng tách: 2500 || Số lượng vật phẩm sau khi tách: 4253 và 2500|| Thời gian tách : 2022-03-30 04:24:50
+
+ Name : aichickemhok đã tách vật phẩm || Vật phẩm tách: 644 || Số lượng vật phẩm ban đầu 1290 || Số lượng tách: 290 || Số lượng vật phẩm sau khi tách: 1000 và 290|| Thời gian tách : 2022-03-30 06:31:04
+
+ Name : aichickemhok đã tách vật phẩm || Vật phẩm tách: 644 || Số lượng vật phẩm ban đầu 1000 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 800 và 200|| Thời gian tách : 2022-03-30 06:31:37
+
+ Name : aichickemhok đã tách vật phẩm || Vật phẩm tách: 644 || Số lượng vật phẩm ban đầu 800 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 600 và 200|| Thời gian tách : 2022-03-30 06:31:45
+
+ Name : aichickemhok đã tách vật phẩm || Vật phẩm tách: 644 || Số lượng vật phẩm ban đầu 600 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 400 và 200|| Thời gian tách : 2022-03-30 06:31:52
+
+ Name : aichickemhok đã tách vật phẩm || Vật phẩm tách: 644 || Số lượng vật phẩm ban đầu 400 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 200 và 200|| Thời gian tách : 2022-03-30 06:32:00
+
+ Name : ngocanh đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 10361 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 361 và 10000|| Thời gian tách : 2022-03-30 08:42:14
+
+ Name : ngocanh đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 10076 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 76 và 10000|| Thời gian tách : 2022-03-30 08:42:20
+
+ Name : helloo đã tách vật phẩm || Vật phẩm tách: 456 || Số lượng vật phẩm ban đầu 9835 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9834 và 1|| Thời gian tách : 2022-03-30 09:11:02
+
+ Name : helloo đã tách vật phẩm || Vật phẩm tách: 456 || Số lượng vật phẩm ban đầu 9834 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9833 và 1|| Thời gian tách : 2022-03-30 09:11:23
+
+ Name : helloo đã tách vật phẩm || Vật phẩm tách: 456 || Số lượng vật phẩm ban đầu 9833 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9832 và 1|| Thời gian tách : 2022-03-30 09:11:40
+
+ Name : myl0ve3 đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 68 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 38 và 30|| Thời gian tách : 2022-03-30 09:15:47
+
+ Name : anh38k1 đã tách vật phẩm || Vật phẩm tách: 575 || Số lượng vật phẩm ban đầu 7734 || Số lượng tách: 833 || Số lượng vật phẩm sau khi tách: 6901 và 833|| Thời gian tách : 2022-03-30 10:55:51
+
+ Name : anh38k1 đã tách vật phẩm || Vật phẩm tách: 575 || Số lượng vật phẩm ban đầu 7734 || Số lượng tách: 834 || Số lượng vật phẩm sau khi tách: 6900 và 834|| Thời gian tách : 2022-03-30 10:56:28

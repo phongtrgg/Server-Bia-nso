@@ -1,0 +1,136 @@
+
+Name : admin7 giao dịch với spiderman || Time : 2022-11-03 00:20:16 || Item chuyển : [770 Số lượng : 40001;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : spiderman giao dịch với admin7 || Time : 2022-11-03 00:20:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 40001;] Xu nhận :0
+
+Name : langson1 giao dịch với langson || Time : 2022-11-03 08:36:25 || Item chuyển : [] Xu giao dịch :400000000 || Item Nhận :[] Xu nhận :0
+
+Name : langson giao dịch với langson1 || Time : 2022-11-03 08:36:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :400000000
+
+Name : langson2 giao dịch với langson || Time : 2022-11-03 08:39:56 || Item chuyển : [] Xu giao dịch :400000000 || Item Nhận :[] Xu nhận :0
+
+Name : langson giao dịch với langson2 || Time : 2022-11-03 08:39:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :400000000
+
+Name : langson giao dịch với xxxxxx || Time : 2022-11-03 08:42:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :400000000
+
+Name : xxxxxx giao dịch với langson || Time : 2022-11-03 08:42:07 || Item chuyển : [] Xu giao dịch :400000000 || Item Nhận :[] Xu nhận :0
+
+Name : langson giao dịch với zzzzzzz || Time : 2022-11-03 08:44:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :400000000
+
+Name : zzzzzzz giao dịch với langson || Time : 2022-11-03 08:44:30 || Item chuyển : [] Xu giao dịch :400000000 || Item Nhận :[] Xu nhận :0
+
+Name : langson2 giao dịch với langson || Time : 2022-11-03 10:02:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 420 Số lượng : 1;  188 Số lượng : 1; ] Xu nhận :0
+
+Name : langson giao dịch với langson2 || Time : 2022-11-03 10:02:50 || Item chuyển : [ 420 Số lượng : 1;  188 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : langson2 giao dịch với langson || Time : 2022-11-03 10:03:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 17; ] Xu nhận :0
+
+Name : langson giao dịch với langson2 || Time : 2022-11-03 10:03:18 || Item chuyển : [ 993 Số lượng : 17; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : langson giao dịch với langson1 || Time : 2022-11-03 10:08:03 || Item chuyển : [420 Số lượng : 1;149 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : langson1 giao dịch với langson || Time : 2022-11-03 10:08:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[420 Số lượng : 1;149 Số lượng : 1;] Xu nhận :0
+
+Name : langson2 giao dịch với langson || Time : 2022-11-03 10:36:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 748;  868 Số lượng : 121;  868 Số lượng : 2000; ] Xu nhận :0
+
+Name : langson giao dịch với langson2 || Time : 2022-11-03 10:36:27 || Item chuyển : [ 907 Số lượng : 748;  868 Số lượng : 121;  868 Số lượng : 2000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 12:20:32 || Item chuyển : [868 Số lượng : 1000;868 Số lượng : 1000;639 Số lượng : 160;642 Số lượng : 158;641 Số lượng : 154;638 Số lượng : 173;987 Số lượng : 160;577 Số lượng : 217;38 Số lượng : 3485;454 Số lượng : 31;770 Số lượng : 1075;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 12:20:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[868 Số lượng : 1000;868 Số lượng : 1000;639 Số lượng : 160;642 Số lượng : 158;641 Số lượng : 154;638 Số lượng : 173;987 Số lượng : 160;577 Số lượng : 217;38 Số lượng : 3485;454 Số lượng : 31;770 Số lượng : 1075;] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 12:21:29 || Item chuyển : [907 Số lượng : 873;578 Số lượng : 194;576 Số lượng : 224;] Xu giao dịch :0 || Item Nhận :[ 365 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1; ] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 12:21:29 || Item chuyển : [ 365 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 873;578 Số lượng : 194;576 Số lượng : 224;] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 13:38:33 || Item chuyển : [868 Số lượng : 2000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 13:38:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[868 Số lượng : 2000;] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 13:45:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 868 Số lượng : 500; ] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 13:45:12 || Item chuyển : [ 868 Số lượng : 500; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : l3oy81l0v3 giao dịch với l3oy81love || Time : 2022-11-03 14:17:00 || Item chuyển : [987 Số lượng : 621;907 Số lượng : 1763;770 Số lượng : 2363;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : l3oy81love giao dịch với l3oy81l0v3 || Time : 2022-11-03 14:17:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[987 Số lượng : 621;907 Số lượng : 1763;770 Số lượng : 2363;] Xu nhận :0
+
+Name : hahahahs giao dịch với hellokittyz || Time : 2022-11-03 15:34:02 || Item chuyển : [454 Số lượng : 16;457 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với hahahahs || Time : 2022-11-03 15:34:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 16;457 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+
+Name : hellokittyz giao dịch với thajbjnh1st || Time : 2022-11-03 15:36:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  454 Số lượng : 13;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : thajbjnh1st giao dịch với hellokittyz || Time : 2022-11-03 15:36:12 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  454 Số lượng : 13;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thajbjnh1st giao dịch với hellokittyz || Time : 2022-11-03 15:53:56 || Item chuyển : [454 Số lượng : 4;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thajbjnh1st || Time : 2022-11-03 15:53:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 4;] Xu nhận :0
+
+Name : duydangbuon giao dịch với trumsvlau || Time : 2022-11-03 16:14:07 || Item chuyển : [152 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : trumsvlau giao dịch với duydangbuon || Time : 2022-11-03 16:14:07 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[152 Số lượng : 1;] Xu nhận :0
+
+Name : l3oy81l0v3 giao dịch với l3oy81love || Time : 2022-11-03 19:33:45 || Item chuyển : [647 Số lượng : 4042;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : l3oy81love giao dịch với l3oy81l0v3 || Time : 2022-11-03 19:33:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 4042;] Xu nhận :0
+
+Name : topsever giao dịch với l3oy81love || Time : 2022-11-03 19:39:15 || Item chuyển : [647 Số lượng : 3578;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : l3oy81love giao dịch với topsever || Time : 2022-11-03 19:39:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 3578;] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 20:48:40 || Item chuyển : [907 Số lượng : 330;38 Số lượng : 2411;641 Số lượng : 285;638 Số lượng : 311;639 Số lượng : 255;642 Số lượng : 301;987 Số lượng : 286;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 20:48:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 330;38 Số lượng : 2411;641 Số lượng : 285;638 Số lượng : 311;639 Số lượng : 255;642 Số lượng : 301;987 Số lượng : 286;] Xu nhận :0
+
+Name : meoxinh giao dịch với meobuff || Time : 2022-11-03 20:50:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 640 Số lượng : 200;  770 Số lượng : 640; ] Xu nhận :0
+
+Name : meobuff giao dịch với meoxinh || Time : 2022-11-03 20:50:55 || Item chuyển : [ 640 Số lượng : 200;  770 Số lượng : 640; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kienchienthan giao dịch với player || Time : 2022-11-03 20:56:30 || Item chuyển : [201 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 584 Số lượng : 1; ] Xu nhận :0
+
+Name : player giao dịch với kienchienthan || Time : 2022-11-03 20:56:30 || Item chuyển : [ 584 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[201 Số lượng : 1;] Xu nhận :0
+
+Name : player giao dịch với samurai || Time : 2022-11-03 21:16:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 168 Số lượng : 1;  173 Số lượng : 1;  134 Số lượng : 1;  443 Số lượng : 1;  195 Số lượng : 1; ] Xu nhận :0
+
+Name : samurai giao dịch với player || Time : 2022-11-03 21:16:09 || Item chuyển : [ 168 Số lượng : 1;  173 Số lượng : 1;  134 Số lượng : 1;  443 Số lượng : 1;  195 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : meoxinh giao dịch với chinhpro || Time : 2022-11-03 21:28:48 || Item chuyển : [584 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1600000000
+
+Name : chinhpro giao dịch với meoxinh || Time : 2022-11-03 21:28:48 || Item chuyển : [] Xu giao dịch :1600000000 || Item Nhận :[584 Số lượng : 1;] Xu nhận :0
+
+Name : player giao dịch với samurai || Time : 2022-11-03 21:45:20 || Item chuyển : [524 Số lượng : 1;524 Số lượng : 1;524 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : samurai giao dịch với player || Time : 2022-11-03 21:45:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[524 Số lượng : 1;524 Số lượng : 1;524 Số lượng : 1;] Xu nhận :0
+
+Name : player giao dịch với samurai || Time : 2022-11-03 21:46:35 || Item chuyển : [134 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : samurai giao dịch với player || Time : 2022-11-03 21:46:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[134 Số lượng : 1;] Xu nhận :0
+
+Name : chinhpro giao dịch với meosama || Time : 2022-11-03 22:09:58 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[ 587 Số lượng : 1;  524 Số lượng : 1; ] Xu nhận :0
+
+Name : meosama giao dịch với chinhpro || Time : 2022-11-03 22:09:58 || Item chuyển : [ 587 Số lượng : 1;  524 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : poloarudin giao dịch với lcrazyl || Time : 2022-11-03 23:09:15 || Item chuyển : [133 Số lượng : 1;131 Số lượng : 1;907 Số lượng : 336;769 Số lượng : 709;770 Số lượng : 710;603 Số lượng : 54;38 Số lượng : 37;] Xu giao dịch :0 || Item Nhận :[ 96 Số lượng : 1; ] Xu nhận :0
+
+Name : lcrazyl giao dịch với poloarudin || Time : 2022-11-03 23:09:15 || Item chuyển : [ 96 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[133 Số lượng : 1;131 Số lượng : 1;907 Số lượng : 336;769 Số lượng : 709;770 Số lượng : 710;603 Số lượng : 54;38 Số lượng : 37;] Xu nhận :0
+
+Name : samurai giao dịch với player || Time : 2022-11-03 23:09:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 370 Số lượng : 1; ] Xu nhận :0
+
+Name : player giao dịch với samurai || Time : 2022-11-03 23:09:57 || Item chuyển : [ 370 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thajbjnh1st giao dịch với hellokittyz || Time : 2022-11-03 23:50:58 || Item chuyển : [770 Số lượng : 1582;907 Số lượng : 936;38 Số lượng : 6168;642 Số lượng : 607;639 Số lượng : 587;641 Số lượng : 644;638 Số lượng : 693;987 Số lượng : 729;769 Số lượng : 209;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thajbjnh1st || Time : 2022-11-03 23:50:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 1582;907 Số lượng : 936;38 Số lượng : 6168;642 Số lượng : 607;639 Số lượng : 587;641 Số lượng : 644;638 Số lượng : 693;987 Số lượng : 729;769 Số lượng : 209;] Xu nhận :0
+
+Name : hellokittyz giao dịch với hahahah || Time : 2022-11-03 23:52:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 38 Số lượng : 15761;  987 Số lượng : 635;  641 Số lượng : 794;  907 Số lượng : 2933;  769 Số lượng : 2847;  770 Số lượng : 3551;  638 Số lượng : 743;  639 Số lượng : 767;  642 Số lượng : 736; ] Xu nhận :0
+
+Name : hahahah giao dịch với hellokittyz || Time : 2022-11-03 23:52:11 || Item chuyển : [ 38 Số lượng : 15761;  987 Số lượng : 635;  641 Số lượng : 794;  907 Số lượng : 2933;  769 Số lượng : 2847;  770 Số lượng : 3551;  638 Số lượng : 743;  639 Số lượng : 767;  642 Số lượng : 736; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với hahahahs || Time : 2022-11-03 23:53:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 2432;  907 Số lượng : 1984;  38 Số lượng : 10034;  769 Số lượng : 1848;  987 Số lượng : 570;  638 Số lượng : 596;  639 Số lượng : 582;  642 Số lượng : 591;  641 Số lượng : 577; ] Xu nhận :0
+
+Name : hahahahs giao dịch với hellokittyz || Time : 2022-11-03 23:53:02 || Item chuyển : [ 770 Số lượng : 2432;  907 Số lượng : 1984;  38 Số lượng : 10034;  769 Số lượng : 1848;  987 Số lượng : 570;  638 Số lượng : 596;  639 Số lượng : 582;  642 Số lượng : 591;  641 Số lượng : 577; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thanksst || Time : 2022-11-03 23:54:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 1958;  987 Số lượng : 826;  907 Số lượng : 1149;  642 Số lượng : 939;  641 Số lượng : 763;  638 Số lượng : 813;  769 Số lượng : 962;  38 Số lượng : 7591;  639 Số lượng : 807; ] Xu nhận :0
+
+Name : thanksst giao dịch với hellokittyz || Time : 2022-11-03 23:54:44 || Item chuyển : [ 770 Số lượng : 1958;  987 Số lượng : 826;  907 Số lượng : 1149;  642 Số lượng : 939;  641 Số lượng : 763;  638 Số lượng : 813;  769 Số lượng : 962;  38 Số lượng : 7591;  639 Số lượng : 807; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

@@ -1,0 +1,50 @@
+
+ Name : 1 đã tách vật phẩm || Vật phẩm tách: 869 || Số lượng vật phẩm ban đầu 9993 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9992 và 1|| Thời gian tách : 2022-04-11 02:06:53
+
+ Name : 1 đã tách vật phẩm || Vật phẩm tách: 869 || Số lượng vật phẩm ban đầu 9992 || Số lượng tách: 99 || Số lượng vật phẩm sau khi tách: 9893 và 99|| Thời gian tách : 2022-04-11 02:09:53
+
+ Name : makiem đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 94 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 64 và 30|| Thời gian tách : 2022-04-11 05:11:48
+
+ Name : tuthanvutru đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 2162 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 2142 và 20|| Thời gian tách : 2022-04-11 06:32:09
+
+ Name : thufuho đã tách vật phẩm || Vật phẩm tách: 838 || Số lượng vật phẩm ban đầu 41 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 40 và 1|| Thời gian tách : 2022-04-11 10:51:04
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 45 || Số lượng tách: 2 || Số lượng vật phẩm sau khi tách: 43 và 2|| Thời gian tách : 2022-04-11 11:03:14
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 43 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 39 và 4|| Thời gian tách : 2022-04-11 11:14:21
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 39 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 35 và 4|| Thời gian tách : 2022-04-11 11:15:26
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 221 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 171 và 50|| Thời gian tách : 2022-04-11 11:55:12
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 171 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 121 và 50|| Thời gian tách : 2022-04-11 11:55:14
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 121 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 71 và 50|| Thời gian tách : 2022-04-11 11:55:17
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 150 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 100 và 50|| Thời gian tách : 2022-04-11 11:55:47
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 100 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 50 và 50|| Thời gian tách : 2022-04-11 11:56:14
+
+ Name : vipkoae đã tách vật phẩm || Vật phẩm tách: 437 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-04-11 16:48:30
+
+ Name : vipkoae đã tách vật phẩm || Vật phẩm tách: 576 || Số lượng vật phẩm ban đầu 500 || Số lượng tách: 136 || Số lượng vật phẩm sau khi tách: 364 và 136|| Thời gian tách : 2022-04-11 19:35:26
+
+ Name : snow2002 đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 38 || Số lượng tách: 8 || Số lượng vật phẩm sau khi tách: 30 và 8|| Thời gian tách : 2022-04-11 20:43:48
+
+ Name : nam2k9 đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 53 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 23 và 30|| Thời gian tách : 2022-04-11 20:49:26
+
+ Name : ltsuki đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-04-11 21:46:50
+
+ Name : 280297 đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 25 || Số lượng tách: 15 || Số lượng vật phẩm sau khi tách: 10 và 15|| Thời gian tách : 2022-04-11 21:56:02
+
+ Name : horamau đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 1000 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 999 và 1|| Thời gian tách : 2022-04-11 22:08:41
+
+ Name : horamau đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 998 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 997 và 1|| Thời gian tách : 2022-04-11 22:09:08
+
+ Name : horamau đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 997 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 996 và 1|| Thời gian tách : 2022-04-11 22:09:11
+
+ Name : horamau đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 996 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 995 và 1|| Thời gian tách : 2022-04-11 22:09:15
+
+ Name : giamsattinhhe đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 1416 || Số lượng tách: 130 || Số lượng vật phẩm sau khi tách: 1286 và 130|| Thời gian tách : 2022-04-11 23:19:48
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 838 || Số lượng vật phẩm ban đầu 42 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 41 và 1|| Thời gian tách : 2022-04-11 23:42:50

@@ -1,0 +1,114 @@
+
+Name : satoru bán đồ vào Shinwa   || Time : 2022-06-02 05:26:39 || Giá bán :3000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 34
+
+Name : kenchin bán đồ vào Shinwa   || Time : 2022-06-02 17:37:28 || Giá bán :10000000 || Vật phẩm bán :743 || Số lượng vật phẩm bán : 2
+
+Name : hakaishin bán đồ vào Shinwa   || Time : 2022-06-02 18:05:15 || Giá bán :5000000 || Vật phẩm bán :993 || Số lượng vật phẩm bán : 154
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 19:19:34 || Giá bán :200000 || Vật phẩm bán :485 || Số lượng vật phẩm bán : 1
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 19:20:10 || Giá bán :5000000 || Vật phẩm bán :578 || Số lượng vật phẩm bán : 506
+
+Name : yamato bán đồ vào Shinwa   || Time : 2022-06-02 19:57:50 || Giá bán :15000000 || Vật phẩm bán :578 || Số lượng vật phẩm bán : 1225
+
+Name : yamato bán đồ vào Shinwa   || Time : 2022-06-02 19:58:10 || Giá bán :10000000 || Vật phẩm bán :577 || Số lượng vật phẩm bán : 1292
+
+Name : yamato bán đồ vào Shinwa   || Time : 2022-06-02 19:58:31 || Giá bán :10000000 || Vật phẩm bán :576 || Số lượng vật phẩm bán : 1226
+
+Name : yamato bán đồ vào Shinwa   || Time : 2022-06-02 19:58:49 || Giá bán :10000000 || Vật phẩm bán :573 || Số lượng vật phẩm bán : 1028
+
+Name : yamato bán đồ vào Shinwa   || Time : 2022-06-02 19:59:27 || Giá bán :10000000 || Vật phẩm bán :574 || Số lượng vật phẩm bán : 1014
+
+Name : kenchin bán đồ vào Shinwa   || Time : 2022-06-02 20:10:15 || Giá bán :10000000 || Vật phẩm bán :743 || Số lượng vật phẩm bán : 2
+
+Name : kenchin bán đồ vào Shinwa   || Time : 2022-06-02 20:36:24 || Giá bán :9000000 || Vật phẩm bán :743 || Số lượng vật phẩm bán : 2
+
+Name : kenchin bán đồ vào Shinwa   || Time : 2022-06-02 20:59:06 || Giá bán :16000000 || Vật phẩm bán :743 || Số lượng vật phẩm bán : 5
+
+Name : kenchin bán đồ vào Shinwa   || Time : 2022-06-02 21:01:21 || Giá bán :16000000 || Vật phẩm bán :743 || Số lượng vật phẩm bán : 5
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:22:23 || Giá bán :5000000 || Vật phẩm bán :420 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:23:23 || Giá bán :5000000 || Vật phẩm bán :420 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:23:41 || Giá bán :5000000 || Vật phẩm bán :420 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:23:53 || Giá bán :5000000 || Vật phẩm bán :420 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:24:06 || Giá bán :5000000 || Vật phẩm bán :420 || Số lượng vật phẩm bán : 1
+
+Name : satoru bán đồ vào Shinwa   || Time : 2022-06-02 21:25:05 || Giá bán :500000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : satoru bán đồ vào Shinwa   || Time : 2022-06-02 21:25:58 || Giá bán :4000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 39
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 21:30:11 || Giá bán :150000 || Vật phẩm bán :485 || Số lượng vật phẩm bán : 1
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 21:30:28 || Giá bán :2000000 || Vật phẩm bán :632 || Số lượng vật phẩm bán : 1
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 21:30:50 || Giá bán :2000000 || Vật phẩm bán :576 || Số lượng vật phẩm bán : 664
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 21:31:10 || Giá bán :1000000 || Vật phẩm bán :636 || Số lượng vật phẩm bán : 1
+
+Name : magaming bán đồ vào Shinwa   || Time : 2022-06-02 21:38:27 || Giá bán :1500000 || Vật phẩm bán :577 || Số lượng vật phẩm bán : 636
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:53:22 || Giá bán :5000000 || Vật phẩm bán :384 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:53:33 || Giá bán :5000000 || Vật phẩm bán :384 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:53:45 || Giá bán :5000000 || Vật phẩm bán :384 || Số lượng vật phẩm bán : 1
+
+Name : badgirl bán đồ vào Shinwa   || Time : 2022-06-02 21:53:58 || Giá bán :5000000 || Vật phẩm bán :384 || Số lượng vật phẩm bán : 1
+
+Name : satoru bán đồ vào Shinwa   || Time : 2022-06-02 22:14:03 || Giá bán :200000 || Vật phẩm bán :907 || Số lượng vật phẩm bán : 1
+
+Name : satoru bán đồ vào Shinwa   || Time : 2022-06-02 22:14:14 || Giá bán :3000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 24
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:23:54 || Giá bán :400000 || Vật phẩm bán :829 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:25:10 || Giá bán :400000 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:25:21 || Giá bán :400000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:25:33 || Giá bán :400000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:25:44 || Giá bán :400000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:25:55 || Giá bán :400000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:05 || Giá bán :400000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:17 || Giá bán :400000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:27 || Giá bán :400000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:37 || Giá bán :400000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:47 || Giá bán :400000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:26:57 || Giá bán :400000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:27:07 || Giá bán :400000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:27:17 || Giá bán :400000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:27:32 || Giá bán :400000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:27:42 || Giá bán :400000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:27:51 || Giá bán :400000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:28:00 || Giá bán :400000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:28:14 || Giá bán :400000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:28:25 || Giá bán :400000 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:28:37 || Giá bán :400000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:28:46 || Giá bán :400000 || Vật phẩm bán :488 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:29:03 || Giá bán :100000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:29:14 || Giá bán :100000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : nguthichet bán đồ vào Shinwa   || Time : 2022-06-02 22:29:23 || Giá bán :400000 || Vật phẩm bán :829 || Số lượng vật phẩm bán : 1

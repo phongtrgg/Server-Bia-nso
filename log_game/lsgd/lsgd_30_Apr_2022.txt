@@ -1,0 +1,396 @@
+
+Name : main09 giao dịch với napgan10ty || Time : 2022-04-30 00:02:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 743 Số lượng : 100; ] Xu nhận :0
+
+Name : napgan10ty giao dịch với main09 || Time : 2022-04-30 00:02:37 || Item chuyển : [ 743 Số lượng : 100; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bochapcaserver giao dịch với laviem || Time : 2022-04-30 00:14:15 || Item chuyển : [967 Số lượng : 29;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : laviem giao dịch với bochapcaserver || Time : 2022-04-30 00:14:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 29;] Xu nhận :0
+
+Name : laviem giao dịch với bochapcaserver || Time : 2022-04-30 00:16:02 || Item chuyển : [742 Số lượng : 10;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bochapcaserver giao dịch với laviem || Time : 2022-04-30 00:16:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[742 Số lượng : 10;] Xu nhận :0
+
+Name : bochapcaserver giao dịch với muahoano || Time : 2022-04-30 00:18:41 || Item chuyển : [949 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : muahoano giao dịch với bochapcaserver || Time : 2022-04-30 00:18:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[949 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 01:21:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 967 Số lượng : 13; ] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 01:21:48 || Item chuyển : [ 967 Số lượng : 13; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 01:25:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  967 Số lượng : 2; ] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 01:25:29 || Item chuyển : [ 742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  967 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 01:29:54 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;958 Số lượng : 42;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 01:29:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;958 Số lượng : 42;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 01:30:18 || Item chuyển : [869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 01:30:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 01:30:40 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 01:30:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:03:10 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:03:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:03:32 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:03:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:03:51 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:03:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:04:12 || Item chuyển : [869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:04:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:04:34 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:04:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:04:54 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:04:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:05:17 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:05:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:20:59 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:20:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:21:28 || Item chuyển : [869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:21:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 02:22:59 || Item chuyển : [869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 02:22:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-30 05:46:44 || Item chuyển : [907 Số lượng : 3;839 Số lượng : 6;959 Số lượng : 9;958 Số lượng : 9;862 Số lượng : 2;874 Số lượng : 3;603 Số lượng : 15;276 Số lượng : 3;] Xu giao dịch :0 || Item Nhận :[ 967 Số lượng : 5; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-30 05:46:44 || Item chuyển : [ 967 Số lượng : 5; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 3;839 Số lượng : 6;959 Số lượng : 9;958 Số lượng : 9;862 Số lượng : 2;874 Số lượng : 3;603 Số lượng : 15;276 Số lượng : 3;] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-30 05:48:02 || Item chuyển : [742 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-30 05:48:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[742 Số lượng : 1;] Xu nhận :0
+
+Name : zznunuzz giao dịch với kimlong || Time : 2022-04-30 05:59:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 553 Số lượng : 1;  312 Số lượng : 1;  376 Số lượng : 1; ] Xu nhận :0
+
+Name : kimlong giao dịch với zznunuzz || Time : 2022-04-30 05:59:35 || Item chuyển : [ 553 Số lượng : 1;  312 Số lượng : 1;  376 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chapcasv giao dịch với giggles || Time : 2022-04-30 08:58:23 || Item chuyển : [968 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;967 Số lượng : 33;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giggles giao dịch với chapcasv || Time : 2022-04-30 08:58:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[968 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;948 Số lượng : 1;967 Số lượng : 33;] Xu nhận :0
+
+Name : giggles giao dịch với chapcasv || Time : 2022-04-30 09:01:35 || Item chuyển : [742 Số lượng : 10;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chapcasv giao dịch với giggles || Time : 2022-04-30 09:01:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[742 Số lượng : 10;] Xu nhận :0
+
+Name : napgan10ty giao dịch với tuthanvutru || Time : 2022-04-30 10:28:01 || Item chuyển : [967 Số lượng : 8;] Xu giao dịch :0 || Item Nhận :[ 408 Số lượng : 1; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với napgan10ty || Time : 2022-04-30 10:28:01 || Item chuyển : [ 408 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 8;] Xu nhận :0
+
+Name : napgan10ty giao dịch với ltsuki || Time : 2022-04-30 10:38:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 667;  959 Số lượng : 230;  682 Số lượng : 2125; ] Xu nhận :0
+
+Name : ltsuki giao dịch với napgan10ty || Time : 2022-04-30 10:38:47 || Item chuyển : [ 907 Số lượng : 667;  959 Số lượng : 230;  682 Số lượng : 2125; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : napgan10ty giao dịch với taochaphetsv3 || Time : 2022-04-30 10:42:15 || Item chuyển : [907 Số lượng : 28;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphetsv3 giao dịch với napgan10ty || Time : 2022-04-30 10:42:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 28;] Xu nhận :0
+
+Name : napgan10ty giao dịch với ngocduy || Time : 2022-04-30 10:57:35 || Item chuyển : [967 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy giao dịch với napgan10ty || Time : 2022-04-30 10:57:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 1;] Xu nhận :0
+
+Name : taochaphet giao dịch với napgan10ty || Time : 2022-04-30 11:18:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 967 Số lượng : 3; ] Xu nhận :0
+
+Name : napgan10ty giao dịch với taochaphet || Time : 2022-04-30 11:18:08 || Item chuyển : [ 967 Số lượng : 3; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:20:57 || Item chuyển : [869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:20:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:21:18 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:21:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:21:40 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:21:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:22:02 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:22:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:22:20 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:22:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : napgan10ty giao dịch với tuthanvutru || Time : 2022-04-30 11:29:29 || Item chuyển : [907 Số lượng : 350;] Xu giao dịch :0 || Item Nhận :[ 956 Số lượng : 1; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với napgan10ty || Time : 2022-04-30 11:29:29 || Item chuyển : [ 956 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 350;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:41:17 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:41:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:41:35 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:41:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:42:00 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:42:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:42:25 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:42:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:42:48 || Item chuyển : [869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:42:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:43:10 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:43:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:43:32 || Item chuyển : [457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:43:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 11:43:48 || Item chuyển : [869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 11:43:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;457 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : bochapcaserver giao dịch với taochaphet || Time : 2022-04-30 12:04:08 || Item chuyển : [742 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với bochapcaserver || Time : 2022-04-30 12:04:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[742 Số lượng : 1;] Xu nhận :0
+
+Name : taochaphetsv3 giao dịch với hacthien || Time : 2022-04-30 12:33:05 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : hacthien giao dịch với taochaphetsv3 || Time : 2022-04-30 12:33:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : bochapcaserver giao dịch với muahoano || Time : 2022-04-30 12:37:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 647 Số lượng : 1445; ] Xu nhận :0
+
+Name : muahoano giao dịch với bochapcaserver || Time : 2022-04-30 12:37:02 || Item chuyển : [ 647 Số lượng : 1445; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : muahoano giao dịch với bochapcaserver || Time : 2022-04-30 12:41:33 || Item chuyển : [] Xu giao dịch :10010000 || Item Nhận :[] Xu nhận :0
+
+Name : bochapcaserver giao dịch với muahoano || Time : 2022-04-30 12:41:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :10010000
+
+Name : bochapcaserver giao dịch với laviem || Time : 2022-04-30 12:45:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 548 Số lượng : 1; ] Xu nhận :0
+
+Name : laviem giao dịch với bochapcaserver || Time : 2022-04-30 12:45:14 || Item chuyển : [ 548 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-30 14:07:09 || Item chuyển : [967 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;843 Số lượng : 1;275 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 12;  907 Số lượng : 3;  959 Số lượng : 9;  874 Số lượng : 3;  862 Số lượng : 3;  958 Số lượng : 9;  659 Số lượng : 2;  657 Số lượng : 3;  682 Số lượng : 3;  656 Số lượng : 3;  658 Số lượng : 3;  276 Số lượng : 3; ] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-30 14:07:09 || Item chuyển : [ 603 Số lượng : 12;  907 Số lượng : 3;  959 Số lượng : 9;  874 Số lượng : 3;  862 Số lượng : 3;  958 Số lượng : 9;  659 Số lượng : 2;  657 Số lượng : 3;  682 Số lượng : 3;  656 Số lượng : 3;  658 Số lượng : 3;  276 Số lượng : 3; ] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;949 Số lượng : 1;843 Số lượng : 1;275 Số lượng : 2;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với pkdumcai || Time : 2022-04-30 14:40:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 559 Số lượng : 1; ] Xu nhận :0
+
+Name : pkdumcai giao dịch với phuongdzaisv3 || Time : 2022-04-30 14:40:57 || Item chuyển : [ 559 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuoigipk giao dịch với phuongdzaisv3 || Time : 2022-04-30 14:41:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 559 Số lượng : 1;  832 Số lượng : 1; ] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với tuoigipk || Time : 2022-04-30 14:41:46 || Item chuyển : [ 559 Số lượng : 1;  832 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với tuoigipk || Time : 2022-04-30 14:42:56 || Item chuyển : [832 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuoigipk giao dịch với phuongdzaisv3 || Time : 2022-04-30 14:42:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[832 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzai giao dịch với tuoigipk || Time : 2022-04-30 14:44:18 || Item chuyển : [28 Số lượng : 202;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuoigipk giao dịch với phuongdzai || Time : 2022-04-30 14:44:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[28 Số lượng : 202;] Xu nhận :0
+
+Name : tuthanvutru giao dịch với napgan1ty || Time : 2022-04-30 16:38:49 || Item chuyển : [959 Số lượng : 209;954 Số lượng : 5550;958 Số lượng : 321;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : napgan1ty giao dịch với tuthanvutru || Time : 2022-04-30 16:38:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[959 Số lượng : 209;954 Số lượng : 5550;958 Số lượng : 321;] Xu nhận :0
+
+Name : napgan1ty giao dịch với tuthanvutru || Time : 2022-04-30 16:39:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 949 Số lượng : 1;  839 Số lượng : 1834;  949 Số lượng : 1;  600 Số lượng : 1; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với napgan1ty || Time : 2022-04-30 16:39:31 || Item chuyển : [ 949 Số lượng : 1;  839 Số lượng : 1834;  949 Số lượng : 1;  600 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : condimm giao dịch với napgan1ty || Time : 2022-04-30 16:44:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 839 Số lượng : 500; ] Xu nhận :0
+
+Name : napgan1ty giao dịch với condimm || Time : 2022-04-30 16:44:00 || Item chuyển : [ 839 Số lượng : 500; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với tuoigipk || Time : 2022-04-30 17:00:17 || Item chuyển : [548 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuoigipk giao dịch với phuongdzai || Time : 2022-04-30 17:00:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[548 Số lượng : 1;] Xu nhận :0
+
+Name : nhatgrap giao dịch với napgan1ty || Time : 2022-04-30 17:02:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 839 Số lượng : 834;  485 Số lượng : 1; ] Xu nhận :0
+
+Name : napgan1ty giao dịch với nhatgrap || Time : 2022-04-30 17:02:32 || Item chuyển : [ 839 Số lượng : 834;  485 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-30 17:25:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-30 17:25:18 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-30 17:25:54 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-30 17:25:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-30 17:26:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-30 17:26:21 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-30 17:27:19 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-30 17:27:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 17:58:45 || Item chuyển : [743 Số lượng : 591;276 Số lượng : 1100;907 Số lượng : 216;862 Số lượng : 214;839 Số lượng : 1691;682 Số lượng : 1189;657 Số lượng : 211;658 Số lượng : 211;659 Số lượng : 211;656 Số lượng : 71;959 Số lượng : 256;958 Số lượng : 70;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 17:58:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 591;276 Số lượng : 1100;907 Số lượng : 216;862 Số lượng : 214;839 Số lượng : 1691;682 Số lượng : 1189;657 Số lượng : 211;658 Số lượng : 211;659 Số lượng : 211;656 Số lượng : 71;959 Số lượng : 256;958 Số lượng : 70;] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 17:59:07 || Item chuyển : [603 Số lượng : 104;601 Số lượng : 41;596 Số lượng : 42;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 17:59:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 104;601 Số lượng : 41;596 Số lượng : 42;] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:00:40 || Item chuyển : [596 Số lượng : 42;601 Số lượng : 41;603 Số lượng : 104;958 Số lượng : 70;959 Số lượng : 256;656 Số lượng : 71;659 Số lượng : 211;658 Số lượng : 211;657 Số lượng : 211;682 Số lượng : 1189;839 Số lượng : 1691;862 Số lượng : 214;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:00:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[596 Số lượng : 42;601 Số lượng : 41;603 Số lượng : 104;958 Số lượng : 70;959 Số lượng : 256;656 Số lượng : 71;659 Số lượng : 211;658 Số lượng : 211;657 Số lượng : 211;682 Số lượng : 1189;839 Số lượng : 1691;862 Số lượng : 214;] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:00:52 || Item chuyển : [743 Số lượng : 591;276 Số lượng : 1100;907 Số lượng : 216;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:00:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 591;276 Số lượng : 1100;907 Số lượng : 216;] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với phuongdzai || Time : 2022-04-30 18:02:54 || Item chuyển : [907 Số lượng : 397;743 Số lượng : 682;656 Số lượng : 377;659 Số lượng : 381;658 Số lượng : 382;657 Số lượng : 385;682 Số lượng : 433;603 Số lượng : 211;958 Số lượng : 477;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với phuongdzaisv3 || Time : 2022-04-30 18:02:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 397;743 Số lượng : 682;656 Số lượng : 377;659 Số lượng : 381;658 Số lượng : 382;657 Số lượng : 385;682 Số lượng : 433;603 Số lượng : 211;958 Số lượng : 477;] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:05:52 || Item chuyển : [743 Số lượng : 1864;907 Số lượng : 826;682 Số lượng : 2808;657 Số lượng : 804;658 Số lượng : 801;659 Số lượng : 800;656 Số lượng : 516;954 Số lượng : 1100;958 Số lượng : 608;603 Số lượng : 404;601 Số lượng : 76;596 Số lượng : 78;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:05:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 1864;907 Số lượng : 826;682 Số lượng : 2808;657 Số lượng : 804;658 Số lượng : 801;659 Số lượng : 800;656 Số lượng : 516;954 Số lượng : 1100;958 Số lượng : 608;603 Số lượng : 404;601 Số lượng : 76;596 Số lượng : 78;] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:06:33 || Item chuyển : [743 Số lượng : 1864;907 Số lượng : 826;682 Số lượng : 2808;657 Số lượng : 804;658 Số lượng : 801;659 Số lượng : 800;656 Số lượng : 516;954 Số lượng : 1100;958 Số lượng : 608;603 Số lượng : 404;601 Số lượng : 76;596 Số lượng : 78;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:06:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 1864;907 Số lượng : 826;682 Số lượng : 2808;657 Số lượng : 804;658 Số lượng : 801;659 Số lượng : 800;656 Số lượng : 516;954 Số lượng : 1100;958 Số lượng : 608;603 Số lượng : 404;601 Số lượng : 76;596 Số lượng : 78;] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:07:34 || Item chuyển : [743 Số lượng : 3728;907 Số lượng : 1652;682 Số lượng : 5616;657 Số lượng : 1608;658 Số lượng : 1602;659 Số lượng : 1600;656 Số lượng : 1032;958 Số lượng : 1216;954 Số lượng : 2200;603 Số lượng : 808;601 Số lượng : 152;596 Số lượng : 156;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:07:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 3728;907 Số lượng : 1652;682 Số lượng : 5616;657 Số lượng : 1608;658 Số lượng : 1602;659 Số lượng : 1600;656 Số lượng : 1032;958 Số lượng : 1216;954 Số lượng : 2200;603 Số lượng : 808;601 Số lượng : 152;596 Số lượng : 156;] Xu nhận :0
+
+Name : phuongdzai giao dịch với khongngan1ai || Time : 2022-04-30 18:09:07 || Item chuyển : [743 Số lượng : 3728;907 Số lượng : 1652;682 Số lượng : 5616;657 Số lượng : 1608;658 Số lượng : 1602;659 Số lượng : 1600;656 Số lượng : 1032;958 Số lượng : 1216;954 Số lượng : 2200;603 Số lượng : 808;601 Số lượng : 152;596 Số lượng : 156;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khongngan1ai giao dịch với phuongdzai || Time : 2022-04-30 18:09:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 3728;907 Số lượng : 1652;682 Số lượng : 5616;657 Số lượng : 1608;658 Số lượng : 1602;659 Số lượng : 1600;656 Số lượng : 1032;958 Số lượng : 1216;954 Số lượng : 2200;603 Số lượng : 808;601 Số lượng : 152;596 Số lượng : 156;] Xu nhận :0
+
+Name : khongngan1ai giao dịch với vcghfxx || Time : 2022-04-30 18:11:43 || Item chuyển : [743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với khongngan1ai || Time : 2022-04-30 18:11:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:15:03 || Item chuyển : [743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:15:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:17:01 || Item chuyển : [743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:17:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:17:38 || Item chuyển : [743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:17:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 7456;907 Số lượng : 3304;682 Số lượng : 11232;657 Số lượng : 3216;658 Số lượng : 3204;659 Số lượng : 3200;656 Số lượng : 2064;958 Số lượng : 2432;954 Số lượng : 4400;603 Số lượng : 1616;601 Số lượng : 304;596 Số lượng : 312;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:21:05 || Item chuyển : [743 Số lượng : 14912;907 Số lượng : 6608;657 Số lượng : 6432;658 Số lượng : 6408;659 Số lượng : 6400;656 Số lượng : 4128;958 Số lượng : 4864;954 Số lượng : 8800;603 Số lượng : 3232;601 Số lượng : 608;596 Số lượng : 624;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:21:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 14912;907 Số lượng : 6608;657 Số lượng : 6432;658 Số lượng : 6408;659 Số lượng : 6400;656 Số lượng : 4128;958 Số lượng : 4864;954 Số lượng : 8800;603 Số lượng : 3232;601 Số lượng : 608;596 Số lượng : 624;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:22:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6608;  657 Số lượng : 6432;  658 Số lượng : 6408;  659 Số lượng : 6400;  656 Số lượng : 4128;  958 Số lượng : 4864;  954 Số lượng : 8800;  603 Số lượng : 3232;  601 Số lượng : 608;  596 Số lượng : 624; ] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:22:22 || Item chuyển : [ 907 Số lượng : 6608;  657 Số lượng : 6432;  658 Số lượng : 6408;  659 Số lượng : 6400;  656 Số lượng : 4128;  958 Số lượng : 4864;  954 Số lượng : 8800;  603 Số lượng : 3232;  601 Số lượng : 608;  596 Số lượng : 624; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:23:30 || Item chuyển : [907 Số lượng : 13216;657 Số lượng : 12864;658 Số lượng : 12816;659 Số lượng : 12800;656 Số lượng : 8256;958 Số lượng : 9728;954 Số lượng : 17600;603 Số lượng : 6464;601 Số lượng : 1216;596 Số lượng : 1248;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:23:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 13216;657 Số lượng : 12864;658 Số lượng : 12816;659 Số lượng : 12800;656 Số lượng : 8256;958 Số lượng : 9728;954 Số lượng : 17600;603 Số lượng : 6464;601 Số lượng : 1216;596 Số lượng : 1248;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:35:05 || Item chuyển : [954 Số lượng : 8800;907 Số lượng : 6608;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:35:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[954 Số lượng : 8800;907 Số lượng : 6608;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:35:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 954 Số lượng : 8800;  907 Số lượng : 6608; ] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:35:35 || Item chuyển : [ 954 Số lượng : 8800;  907 Số lượng : 6608; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:36:10 || Item chuyển : [954 Số lượng : 17600;907 Số lượng : 13216;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:36:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[954 Số lượng : 17600;907 Số lượng : 13216;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:47:32 || Item chuyển : [603 Số lượng : 3232;954 Số lượng : 8800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:47:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 3232;954 Số lượng : 8800;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:54:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 3232;  954 Số lượng : 8800; ] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:54:12 || Item chuyển : [ 603 Số lượng : 3232;  954 Số lượng : 8800; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:55:09 || Item chuyển : [603 Số lượng : 6464;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:55:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 6464;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:55:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 6464; ] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:55:38 || Item chuyển : [ 603 Số lượng : 6464; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxxt giao dịch với vcghfxx || Time : 2022-04-30 18:56:50 || Item chuyển : [603 Số lượng : 12928;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vcghfxx giao dịch với vcghfxxt || Time : 2022-04-30 18:56:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 12928;] Xu nhận :0
+
+Name : 1 giao dịch với hoangbjp98 || Time : 2022-04-30 21:13:24 || Item chuyển : [427 Số lượng : 1;443 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với 1 || Time : 2022-04-30 21:13:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[427 Số lượng : 1;443 Số lượng : 1;] Xu nhận :0
+
+Name : phuongdzai giao dịch với chapcasv || Time : 2022-04-30 21:38:11 || Item chuyển : [907 Số lượng : 200;] Xu giao dịch :0 || Item Nhận :[ 742 Số lượng : 10; ] Xu nhận :0
+
+Name : chapcasv giao dịch với phuongdzai || Time : 2022-04-30 21:38:11 || Item chuyển : [ 742 Số lượng : 10; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 200;] Xu nhận :0
+
+Name : taochaphet giao dịch với kimlong || Time : 2022-04-30 21:39:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 742 Số lượng : 1; ] Xu nhận :0
+
+Name : kimlong giao dịch với taochaphet || Time : 2022-04-30 21:39:23 || Item chuyển : [ 742 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-30 21:43:02 || Item chuyển : [967 Số lượng : 4;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-30 21:43:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 4;] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-30 21:43:49 || Item chuyển : [907 Số lượng : 3;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-30 21:43:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 3;869 Số lượng : 1;869 Số lượng : 1;869 Số lượng : 1;] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-30 21:44:35 || Item chuyển : [967 Số lượng : 6;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-30 21:44:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 6;] Xu nhận :0
+
+Name : vcghfxx giao dịch với emanhphuong || Time : 2022-04-30 21:46:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1; ] Xu nhận :0
+
+Name : emanhphuong giao dịch với vcghfxx || Time : 2022-04-30 21:46:40 || Item chuyển : [ 742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1;  742 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chapcasv giao dịch với giggles || Time : 2022-04-30 21:46:46 || Item chuyển : [283 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giggles giao dịch với chapcasv || Time : 2022-04-30 21:46:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;] Xu nhận :0
+
+Name : vcghfxxt giao dịch với phuongdzaisv3 || Time : 2022-04-30 21:50:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 832 Số lượng : 40;  840 Số lượng : 107; ] Xu nhận :0
+
+Name : phuongdzaisv3 giao dịch với vcghfxxt || Time : 2022-04-30 21:50:37 || Item chuyển : [ 832 Số lượng : 40;  840 Số lượng : 107; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : khangnobet giao dịch với tuthanvutru || Time : 2022-04-30 23:27:05 || Item chuyển : [789 Số lượng : 20;789 Số lượng : 20;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : tuthanvutru giao dịch với khangnobet || Time : 2022-04-30 23:27:05 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[789 Số lượng : 20;789 Số lượng : 20;] Xu nhận :0
+
+Name : Đại Ka Tình Foxx giao dịch với khangnobet || Time : 2022-04-30 23:32:31 || Item chuyển : [] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+
+Name : khangnobet giao dịch với Đại Ka Tình Foxx || Time : 2022-04-30 23:32:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :10000000
+
+Name : Đại Ka Tình Foxx giao dịch với laviem || Time : 2022-04-30 23:33:51 || Item chuyển : [743 Số lượng : 100;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : laviem giao dịch với Đại Ka Tình Foxx || Time : 2022-04-30 23:33:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[743 Số lượng : 100;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;] Xu nhận :0
+
+Name : Đại Ka Tình Foxx giao dịch với laviem || Time : 2022-04-30 23:34:12 || Item chuyển : [967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : laviem giao dịch với Đại Ka Tình Foxx || Time : 2022-04-30 23:34:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;967 Số lượng : 1;] Xu nhận :0

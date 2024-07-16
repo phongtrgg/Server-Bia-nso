@@ -1,0 +1,20 @@
+
+Name : hieptapthe giao dịch với lanhhd || Time : 2022-06-11 00:55:12 || Item chuyển : [959 Số lượng : 45;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : lanhhd giao dịch với hieptapthe || Time : 2022-06-11 00:55:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[959 Số lượng : 45;] Xu nhận :0
+
+Name : caubeusau giao dịch với jgmtpmd || Time : 2022-06-11 15:15:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :29000000
+
+Name : jgmtpmd giao dịch với caubeusau || Time : 2022-06-11 15:15:25 || Item chuyển : [] Xu giao dịch :29000000 || Item Nhận :[] Xu nhận :0
+
+Name : trum1st giao dịch với zatast || Time : 2022-06-11 19:32:39 || Item chuyển : [560 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1;  584 Số lượng : 1; ] Xu nhận :0
+
+Name : zatast giao dịch với trum1st || Time : 2022-06-11 19:32:39 || Item chuyển : [ 283 Số lượng : 1;  584 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[560 Số lượng : 1;] Xu nhận :0
+
+Name : ehehejs giao dịch với cocainit || Time : 2022-06-11 20:25:15 || Item chuyển : [] Xu giao dịch :1500000000 || Item Nhận :[] Xu nhận :0
+
+Name : cocainit giao dịch với ehehejs || Time : 2022-06-11 20:25:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1500000000
+
+Name : 20cm1d30hiep giao dịch với hiepdamtapthe || Time : 2022-06-11 21:30:12 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :1510000000 || Item Nhận :[ 868 Số lượng : 120;  868 Số lượng : 45;  868 Số lượng : 7861; ] Xu nhận :0
+
+Name : hiepdamtapthe giao dịch với 20cm1d30hiep || Time : 2022-06-11 21:30:12 || Item chuyển : [ 868 Số lượng : 120;  868 Số lượng : 45;  868 Số lượng : 7861; ] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :1510000000

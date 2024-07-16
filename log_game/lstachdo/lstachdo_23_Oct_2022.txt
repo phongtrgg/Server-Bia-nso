@@ -1,0 +1,16 @@
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 18 || Số lượng vật phẩm ban đầu 60001 || Số lượng tách: 20000 || Số lượng vật phẩm sau khi tách: 40001 và 20000|| Thời gian tách : 2022-10-23 21:17:05
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 18 || Số lượng vật phẩm ban đầu 60001 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 50001 và 10000|| Thời gian tách : 2022-10-23 21:23:24
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 18 || Số lượng vật phẩm ban đầu 50001 || Số lượng tách: 2000 || Số lượng vật phẩm sau khi tách: 48001 và 2000|| Thời gian tách : 2022-10-23 21:23:29
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 650 || Số lượng vật phẩm ban đầu 128 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 127 và 1|| Thời gian tách : 2022-10-23 21:50:26
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 650 || Số lượng vật phẩm ban đầu 127 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 27 và 100|| Thời gian tách : 2022-10-23 21:53:09
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 13 || Số lượng vật phẩm ban đầu 30000 || Số lượng tách: 3000 || Số lượng vật phẩm sau khi tách: 27000 và 3000|| Thời gian tách : 2022-10-23 21:56:15
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 650 || Số lượng vật phẩm ban đầu 128 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 124 và 4|| Thời gian tách : 2022-10-23 21:59:10
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 13 || Số lượng vật phẩm ban đầu 30000 || Số lượng tách: 3 || Số lượng vật phẩm sau khi tách: 29997 và 3|| Thời gian tách : 2022-10-23 21:59:14

@@ -1,0 +1,138 @@
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 12822 || Số lượng tách: 6240 || Số lượng vật phẩm sau khi tách: 6582 và 6240|| Thời gian tách : 2022-06-05 06:47:00
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 22 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 21 và 1|| Thời gian tách : 2022-06-05 07:32:06
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 20 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 19 và 1|| Thời gian tách : 2022-06-05 07:36:25
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 19 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 18 và 1|| Thời gian tách : 2022-06-05 07:36:27
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2022-06-05 07:36:34
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 17 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 16 và 1|| Thời gian tách : 2022-06-05 07:36:36
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 16 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 15 và 1|| Thời gian tách : 2022-06-05 07:36:40
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2022-06-05 07:36:43
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-06-05 07:37:13
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 13 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 12 và 1|| Thời gian tách : 2022-06-05 07:37:15
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 647 || Số lượng vật phẩm ban đầu 8265 || Số lượng tách: 265 || Số lượng vật phẩm sau khi tách: 8000 và 265|| Thời gian tách : 2022-06-05 08:35:38
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 958 || Số lượng vật phẩm ban đầu 999 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 599 và 400|| Thời gian tách : 2022-06-05 08:56:21
+
+ Name : satoru đã tách vật phẩm || Vật phẩm tách: 868 || Số lượng vật phẩm ban đầu 621 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 591 và 30|| Thời gian tách : 2022-06-05 09:02:59
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-06-05 09:34:27
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 10 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9 và 1|| Thời gian tách : 2022-06-05 09:34:29
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-06-05 11:15:36
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-06-05 11:15:40
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-06-05 11:15:42
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-06-05 11:33:10
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-06-05 11:33:14
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-06-05 11:33:16
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-06-05 11:33:39
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-06-05 11:33:40
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-06-05 11:33:43
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-06-05 11:33:44
+
+ Name : 1hitvelang đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-06-05 11:33:46
+
+ Name : nguthichet đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-06-05 12:04:07
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 8717 || Số lượng tách: 1500 || Số lượng vật phẩm sau khi tách: 7217 và 1500|| Thời gian tách : 2022-06-05 12:10:23
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 260 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 250 và 10|| Thời gian tách : 2022-06-05 12:13:38
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 7265 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 7215 và 50|| Thời gian tách : 2022-06-05 12:17:12
+
+ Name : emvanconbe đã tách vật phẩm || Vật phẩm tách: 457 || Số lượng vật phẩm ban đầu 130 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 30 và 100|| Thời gian tách : 2022-06-05 12:17:15
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 7215 || Số lượng tách: 800 || Số lượng vật phẩm sau khi tách: 6415 và 800|| Thời gian tách : 2022-06-05 12:17:19
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2022-06-05 12:40:16
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 17 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 16 và 1|| Thời gian tách : 2022-06-05 12:40:23
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 16 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 15 và 1|| Thời gian tách : 2022-06-05 12:40:29
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2022-06-05 12:40:35
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-06-05 12:40:42
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 13 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 12 và 1|| Thời gian tách : 2022-06-05 12:40:48
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 12 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 11 và 1|| Thời gian tách : 2022-06-05 12:40:54
+
+ Name : ngauvl đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-06-05 12:41:02
+
+ Name : chotaoxin đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 15035 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 5035 và 10000|| Thời gian tách : 2022-06-05 14:29:06
+
+ Name : chotaoxin đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 15621 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 5621 và 10000|| Thời gian tách : 2022-06-05 14:29:13
+
+ Name : chotaoxin đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 15445 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 5445 và 10000|| Thời gian tách : 2022-06-05 14:29:19
+
+ Name : chotaoxin đã tách vật phẩm || Vật phẩm tách: 639 || Số lượng vật phẩm ban đầu 15255 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 5255 và 10000|| Thời gian tách : 2022-06-05 14:29:25
+
+ Name : satoru đã tách vật phẩm || Vật phẩm tách: 639 || Số lượng vật phẩm ban đầu 10587 || Số lượng tách: 2500 || Số lượng vật phẩm sau khi tách: 8087 và 2500|| Thời gian tách : 2022-06-05 15:25:54
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 6 và 1|| Thời gian tách : 2022-06-05 15:30:35
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-06-05 15:30:46
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-06-05 15:31:05
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-06-05 15:31:07
+
+ Name : huyxinhgai đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-06-05 15:58:34
+
+ Name : paodayne đã tách vật phẩm || Vật phẩm tách: 1003 || Số lượng vật phẩm ban đầu 436 || Số lượng tách: 36 || Số lượng vật phẩm sau khi tách: 400 và 36|| Thời gian tách : 2022-06-05 18:43:10
+
+ Name : hahahah đã tách vật phẩm || Vật phẩm tách: 457 || Số lượng vật phẩm ban đầu 191 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 190 và 1|| Thời gian tách : 2022-06-05 19:10:57
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 8951 || Số lượng tách: 1520 || Số lượng vật phẩm sau khi tách: 7431 và 1520|| Thời gian tách : 2022-06-05 19:11:32
+
+ Name : shinbaby đã tách vật phẩm || Vật phẩm tách: 993 || Số lượng vật phẩm ban đầu 182 || Số lượng tách: 25 || Số lượng vật phẩm sau khi tách: 157 và 25|| Thời gian tách : 2022-06-05 19:19:30
+
+ Name : hakaishin đã tách vật phẩm || Vật phẩm tách: 1003 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-06-05 19:21:02
+
+ Name : trumtop đã tách vật phẩm || Vật phẩm tách: 457 || Số lượng vật phẩm ban đầu 590 || Số lượng tách: 90 || Số lượng vật phẩm sau khi tách: 500 và 90|| Thời gian tách : 2022-06-05 19:21:26
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 7501 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 7101 và 400|| Thời gian tách : 2022-06-05 19:21:43
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 7501 || Số lượng tách: 4000 || Số lượng vật phẩm sau khi tách: 3501 và 4000|| Thời gian tách : 2022-06-05 19:21:54
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 3518 || Số lượng tách: 150 || Số lượng vật phẩm sau khi tách: 3368 và 150|| Thời gian tách : 2022-06-05 19:26:19
+
+ Name : paodayne đã tách vật phẩm || Vật phẩm tách: 1003 || Số lượng vật phẩm ban đầu 437 || Số lượng tách: 300 || Số lượng vật phẩm sau khi tách: 137 và 300|| Thời gian tách : 2022-06-05 19:31:14
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 958 || Số lượng vật phẩm ban đầu 611 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 411 và 200|| Thời gian tách : 2022-06-05 19:31:29
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 3371 || Số lượng tách: 371 || Số lượng vật phẩm sau khi tách: 3000 và 371|| Thời gian tách : 2022-06-05 19:31:45
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 993 || Số lượng vật phẩm ban đầu 5881 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 5871 và 10|| Thời gian tách : 2022-06-05 19:44:26
+
+ Name : andanh đã tách vật phẩm || Vật phẩm tách: 647 || Số lượng vật phẩm ban đầu 8000 || Số lượng tách: 500 || Số lượng vật phẩm sau khi tách: 7500 và 500|| Thời gian tách : 2022-06-05 19:46:45
+
+ Name : queen69 đã tách vật phẩm || Vật phẩm tách: 987 || Số lượng vật phẩm ban đầu 7486 || Số lượng tách: 3000 || Số lượng vật phẩm sau khi tách: 4486 và 3000|| Thời gian tách : 2022-06-05 20:32:51
+
+ Name : trieutulong đã tách vật phẩm || Vật phẩm tách: 584 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-06-05 20:35:57
+
+ Name : xacdinhvip đã tách vật phẩm || Vật phẩm tách: 949 || Số lượng vật phẩm ban đầu 84 || Số lượng tách: 14 || Số lượng vật phẩm sau khi tách: 70 và 14|| Thời gian tách : 2022-06-05 20:45:39
+
+ Name : trieutulong đã tách vật phẩm || Vật phẩm tách: 575 || Số lượng vật phẩm ban đầu 401 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 201 và 200|| Thời gian tách : 2022-06-05 20:50:43
+
+ Name : trieutulong đã tách vật phẩm || Vật phẩm tách: 575 || Số lượng vật phẩm ban đầu 201 || Số lượng tách: 99 || Số lượng vật phẩm sau khi tách: 102 và 99|| Thời gian tách : 2022-06-05 20:50:45

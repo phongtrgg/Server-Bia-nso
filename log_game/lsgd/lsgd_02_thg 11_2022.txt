@@ -1,0 +1,8 @@
+
+Name : admin7 giao dịch với ndtluv || Time : 2022-11-02 21:01:52 || Item chuyển : [770 Số lượng : 2000;907 Số lượng : 100;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ndtluv giao dịch với admin7 || Time : 2022-11-02 21:01:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 2000;907 Số lượng : 100;] Xu nhận :0
+
+Name : trayeu giao dịch với l3oy81love || Time : 2022-11-02 21:19:29 || Item chuyển : [] Xu giao dịch :400000000 || Item Nhận :[ 584 Số lượng : 1; ] Xu nhận :0
+
+Name : l3oy81love giao dịch với trayeu || Time : 2022-11-02 21:19:29 || Item chuyển : [ 584 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :400000000

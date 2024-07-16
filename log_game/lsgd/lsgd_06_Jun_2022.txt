@@ -1,0 +1,264 @@
+
+Name : caynlsk1 giao dịch với 1choc1be || Time : 2022-06-06 03:03:04 || Item chuyển : [639 Số lượng : 19334;987 Số lượng : 19198;641 Số lượng : 19073;642 Số lượng : 19347;454 Số lượng : 1006;638 Số lượng : 19247;38 Số lượng : 21;1003 Số lượng : 61;] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 1000; ] Xu nhận :0
+
+Name : 1choc1be giao dịch với caynlsk1 || Time : 2022-06-06 03:03:04 || Item chuyển : [ 993 Số lượng : 1000; ] Xu giao dịch :0 || Item Nhận :[639 Số lượng : 19334;987 Số lượng : 19198;641 Số lượng : 19073;642 Số lượng : 19347;454 Số lượng : 1006;638 Số lượng : 19247;38 Số lượng : 21;1003 Số lượng : 61;] Xu nhận :0
+
+Name : chotaoxin giao dịch với satoru || Time : 2022-06-06 04:49:48 || Item chuyển : [1000 Số lượng : 592;998 Số lượng : 552;997 Số lượng : 574;603 Số lượng : 194;999 Số lượng : 539;1001 Số lượng : 600;1002 Số lượng : 547;643 Số lượng : 500;780 Số lượng : 110;996 Số lượng : 604;454 Số lượng : 114;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : satoru giao dịch với chotaoxin || Time : 2022-06-06 04:49:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1000 Số lượng : 592;998 Số lượng : 552;997 Số lượng : 574;603 Số lượng : 194;999 Số lượng : 539;1001 Số lượng : 600;1002 Số lượng : 547;643 Số lượng : 500;780 Số lượng : 110;996 Số lượng : 604;454 Số lượng : 114;] Xu nhận :0
+
+Name : oidoioi giao dịch với chotaoxin || Time : 2022-06-06 06:49:23 || Item chuyển : [457 Số lượng : 71;780 Số lượng : 150;454 Số lượng : 124;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chotaoxin giao dịch với oidoioi || Time : 2022-06-06 06:49:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 71;780 Số lượng : 150;454 Số lượng : 124;] Xu nhận :0
+
+Name : chotaoxin giao dịch với trumtieuday || Time : 2022-06-06 06:50:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 148;  780 Số lượng : 273;  454 Số lượng : 227;  457 Số lượng : 67;  987 Số lượng : 12693; ] Xu nhận :0
+
+Name : trumtieuday giao dịch với chotaoxin || Time : 2022-06-06 06:50:54 || Item chuyển : [ 1003 Số lượng : 148;  780 Số lượng : 273;  454 Số lượng : 227;  457 Số lượng : 67;  987 Số lượng : 12693; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chotaoxin giao dịch với satoru || Time : 2022-06-06 06:52:05 || Item chuyển : [454 Số lượng : 351;780 Số lượng : 423;1003 Số lượng : 148;457 Số lượng : 138;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : satoru giao dịch với chotaoxin || Time : 2022-06-06 06:52:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 351;780 Số lượng : 423;1003 Số lượng : 148;457 Số lượng : 138;] Xu nhận :0
+
+Name : phatdayy giao dịch với paodayne || Time : 2022-06-06 07:07:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1; ] Xu nhận :0
+
+Name : paodayne giao dịch với phatdayy || Time : 2022-06-06 07:07:47 || Item chuyển : [ 384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phatnee giao dịch với paodayne || Time : 2022-06-06 07:08:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1; ] Xu nhận :0
+
+Name : paodayne giao dịch với phatnee || Time : 2022-06-06 07:08:11 || Item chuyển : [ 384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : samishi giao dịch với habara || Time : 2022-06-06 07:36:40 || Item chuyển : [1003 Số lượng : 2;987 Số lượng : 918;454 Số lượng : 27;588 Số lượng : 4;585 Số lượng : 7;587 Số lượng : 5;584 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : habara giao dịch với samishi || Time : 2022-06-06 07:36:40 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 2;987 Số lượng : 918;454 Số lượng : 27;588 Số lượng : 4;585 Số lượng : 7;587 Số lượng : 5;584 Số lượng : 1;] Xu nhận :0
+
+Name : habara giao dịch với samishi || Time : 2022-06-06 07:38:41 || Item chuyển : [841 Số lượng : 39;838 Số lượng : 40;873 Số lượng : 34;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : samishi giao dịch với habara || Time : 2022-06-06 07:38:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[841 Số lượng : 39;838 Số lượng : 40;873 Số lượng : 34;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;] Xu nhận :0
+
+Name : shinobi giao dịch với samishi || Time : 2022-06-06 07:39:55 || Item chuyển : [638 Số lượng : 12526;639 Số lượng : 10626;642 Số lượng : 13713;641 Số lượng : 11081;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : samishi giao dịch với shinobi || Time : 2022-06-06 07:39:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[638 Số lượng : 12526;639 Số lượng : 10626;642 Số lượng : 13713;641 Số lượng : 11081;] Xu nhận :0
+
+Name : habara giao dịch với shinobi || Time : 2022-06-06 07:42:36 || Item chuyển : [976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;384 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 38 Số lượng : 410;  598 Số lượng : 797;  454 Số lượng : 33;  573 Số lượng : 111;  574 Số lượng : 110;  780 Số lượng : 122;  457 Số lượng : 11;  842 Số lượng : 52;  987 Số lượng : 2269; ] Xu nhận :0
+
+Name : shinobi giao dịch với habara || Time : 2022-06-06 07:42:36 || Item chuyển : [ 38 Số lượng : 410;  598 Số lượng : 797;  454 Số lượng : 33;  573 Số lượng : 111;  574 Số lượng : 110;  780 Số lượng : 122;  457 Số lượng : 11;  842 Số lượng : 52;  987 Số lượng : 2269; ] Xu giao dịch :0 || Item Nhận :[976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;384 Số lượng : 1;] Xu nhận :0
+
+Name : satoru giao dịch với andanh || Time : 2022-06-06 08:19:38 || Item chuyển : [1003 Số lượng : 150;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :98000000
+
+Name : andanh giao dịch với satoru || Time : 2022-06-06 08:19:38 || Item chuyển : [] Xu giao dịch :98000000 || Item Nhận :[1003 Số lượng : 150;] Xu nhận :0
+
+Name : itadori giao dịch với atenhuy || Time : 2022-06-06 09:10:27 || Item chuyển : [457 Số lượng : 53;1003 Số lượng : 3;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : atenhuy giao dịch với itadori || Time : 2022-06-06 09:10:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 53;1003 Số lượng : 3;] Xu nhận :0
+
+Name : nguthichet giao dịch với itadori || Time : 2022-06-06 09:10:52 || Item chuyển : [457 Số lượng : 71;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : itadori giao dịch với nguthichet || Time : 2022-06-06 09:10:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 71;] Xu nhận :0
+
+Name : atenhuy giao dịch với itadori || Time : 2022-06-06 09:11:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 71; ] Xu nhận :0
+
+Name : itadori giao dịch với atenhuy || Time : 2022-06-06 09:11:25 || Item chuyển : [ 457 Số lượng : 71; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nguthichet giao dịch với atenhuy || Time : 2022-06-06 09:15:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 177; ] Xu nhận :0
+
+Name : atenhuy giao dịch với nguthichet || Time : 2022-06-06 09:15:45 || Item chuyển : [ 1003 Số lượng : 177; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : andanh giao dịch với nguthichet || Time : 2022-06-06 09:21:04 || Item chuyển : [] Xu giao dịch :260000000 || Item Nhận :[ 1003 Số lượng : 400; ] Xu nhận :0
+
+Name : nguthichet giao dịch với andanh || Time : 2022-06-06 09:21:04 || Item chuyển : [ 1003 Số lượng : 400; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :260000000
+
+Name : fgnaoh1 giao dịch với kiemrhd || Time : 2022-06-06 10:31:30 || Item chuyển : [1003 Số lượng : 183;780 Số lượng : 368;454 Số lượng : 300;] Xu giao dịch :56000000 || Item Nhận :[] Xu nhận :0
+
+Name : kiemrhd giao dịch với fgnaoh1 || Time : 2022-06-06 10:31:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 183;780 Số lượng : 368;454 Số lượng : 300;] Xu nhận :56000000
+
+Name : tuytzoi giao dịch với kiemrhd || Time : 2022-06-06 10:32:54 || Item chuyển : [1003 Số lượng : 173;454 Số lượng : 249;780 Số lượng : 307;] Xu giao dịch :56900000 || Item Nhận :[] Xu nhận :0
+
+Name : kiemrhd giao dịch với tuytzoi || Time : 2022-06-06 10:32:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 173;454 Số lượng : 249;780 Số lượng : 307;] Xu nhận :56900000
+
+Name : aukeyy giao dịch với kiemrhd || Time : 2022-06-06 10:34:24 || Item chuyển : [1003 Số lượng : 145;454 Số lượng : 231;780 Số lượng : 300;] Xu giao dịch :53300000 || Item Nhận :[] Xu nhận :0
+
+Name : kiemrhd giao dịch với aukeyy || Time : 2022-06-06 10:34:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 145;454 Số lượng : 231;780 Số lượng : 300;] Xu nhận :53300000
+
+Name : andanh giao dịch với kiemrhd || Time : 2022-06-06 10:39:38 || Item chuyển : [] Xu giao dịch :200000000 || Item Nhận :[ 1003 Số lượng : 685; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với andanh || Time : 2022-06-06 10:39:38 || Item chuyển : [ 1003 Số lượng : 685; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :200000000
+
+Name : yamato giao dịch với suzukia || Time : 2022-06-06 11:35:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :52000000
+
+Name : suzukia giao dịch với yamato || Time : 2022-06-06 11:35:11 || Item chuyển : [] Xu giao dịch :52000000 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với suzuki || Time : 2022-06-06 11:35:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :52000000
+
+Name : suzuki giao dịch với yamato || Time : 2022-06-06 11:35:56 || Item chuyển : [] Xu giao dịch :52000000 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với animeeee || Time : 2022-06-06 11:36:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :52000000
+
+Name : animeeee giao dịch với yamato || Time : 2022-06-06 11:36:38 || Item chuyển : [] Xu giao dịch :52000000 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với animeeeew || Time : 2022-06-06 11:37:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :52000000
+
+Name : animeeeew giao dịch với yamato || Time : 2022-06-06 11:37:11 || Item chuyển : [] Xu giao dịch :52000000 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-06-06 11:45:25 || Item chuyển : [644 Số lượng : 15;643 Số lượng : 2958;] Xu giao dịch :0 || Item Nhận :[ 639 Số lượng : 1; ] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-06-06 11:45:25 || Item chuyển : [ 639 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[644 Số lượng : 15;643 Số lượng : 2958;] Xu nhận :0
+
+Name : bomtiger giao dịch với oppogold || Time : 2022-06-06 12:07:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 587 Số lượng : 2; ] Xu nhận :0
+
+Name : oppogold giao dịch với bomtiger || Time : 2022-06-06 12:07:20 || Item chuyển : [ 587 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-06-06 12:29:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 10 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1; ] Xu nhận :1
+
+Name : queen69 giao dịch với yamato || Time : 2022-06-06 12:29:59 || Item chuyển : [ 10 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1; ] Xu giao dịch :1 || Item Nhận :[] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-06-06 12:30:27 || Item chuyển : [10 Số lượng : 1;10 Số lượng : 1;10 Số lượng : 1;10 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;10 Số lượng : 1;11 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-06-06 12:30:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[10 Số lượng : 1;10 Số lượng : 1;10 Số lượng : 1;10 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;11 Số lượng : 1;10 Số lượng : 1;11 Số lượng : 1;] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-06-06 12:30:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1; ] Xu nhận :1
+
+Name : queen69 giao dịch với yamato || Time : 2022-06-06 12:30:57 || Item chuyển : [ 11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1; ] Xu giao dịch :1 || Item Nhận :[] Xu nhận :0
+
+Name : mothuyenthoai giao dịch với trieutulong || Time : 2022-06-06 13:29:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 535;  993 Số lượng : 5429;  948 Số lượng : 73;  947 Số lượng : 62;  949 Số lượng : 12;  778 Số lượng : 517;  578 Số lượng : 337;  577 Số lượng : 14;  576 Số lượng : 12; ] Xu nhận :0
+
+Name : trieutulong giao dịch với mothuyenthoai || Time : 2022-06-06 13:29:15 || Item chuyển : [ 454 Số lượng : 535;  993 Số lượng : 5429;  948 Số lượng : 73;  947 Số lượng : 62;  949 Số lượng : 12;  778 Số lượng : 517;  578 Số lượng : 337;  577 Số lượng : 14;  576 Số lượng : 12; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuytzoi giao dịch với fgnaoh || Time : 2022-06-06 15:06:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : fgnaoh giao dịch với tuytzoi || Time : 2022-06-06 15:06:18 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-06-06 15:13:07 || Item chuyển : [578 Số lượng : 811;577 Số lượng : 727;576 Số lượng : 729;574 Số lượng : 1019;778 Số lượng : 706;780 Số lượng : 200;573 Số lượng : 1048;987 Số lượng : 2024;575 Số lượng : 1919;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-06-06 15:13:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[578 Số lượng : 811;577 Số lượng : 727;576 Số lượng : 729;574 Số lượng : 1019;778 Số lượng : 706;780 Số lượng : 200;573 Số lượng : 1048;987 Số lượng : 2024;575 Số lượng : 1919;] Xu nhận :0
+
+Name : nguthichet giao dịch với itadori || Time : 2022-06-06 15:18:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 641 Số lượng : 14980;  639 Số lượng : 14823;  638 Số lượng : 15002;  642 Số lượng : 14974;  987 Số lượng : 11071; ] Xu nhận :0
+
+Name : itadori giao dịch với nguthichet || Time : 2022-06-06 15:18:09 || Item chuyển : [ 641 Số lượng : 14980;  639 Số lượng : 14823;  638 Số lượng : 15002;  642 Số lượng : 14974;  987 Số lượng : 11071; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nguthichet giao dịch với atenhuy || Time : 2022-06-06 15:18:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 638 Số lượng : 19195;  642 Số lượng : 19139;  987 Số lượng : 11051;  639 Số lượng : 19354;  641 Số lượng : 19346; ] Xu nhận :0
+
+Name : atenhuy giao dịch với nguthichet || Time : 2022-06-06 15:18:51 || Item chuyển : [ 638 Số lượng : 19195;  642 Số lượng : 19139;  987 Số lượng : 11051;  639 Số lượng : 19354;  641 Số lượng : 19346; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tesgame giao dịch với huy12345nn || Time : 2022-06-06 16:02:43 || Item chuyển : [455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;639 Số lượng : 5369;642 Số lượng : 5222;638 Số lượng : 5220;455 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : huy12345nn giao dịch với tesgame || Time : 2022-06-06 16:02:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;639 Số lượng : 5369;642 Số lượng : 5222;638 Số lượng : 5220;455 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+
+Name : tesgame giao dịch với huy12345nn || Time : 2022-06-06 16:02:59 || Item chuyển : [456 Số lượng : 1;457 Số lượng : 140;987 Số lượng : 5193;641 Số lượng : 5224;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : huy12345nn giao dịch với tesgame || Time : 2022-06-06 16:02:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[456 Số lượng : 1;457 Số lượng : 140;987 Số lượng : 5193;641 Số lượng : 5224;] Xu nhận :0
+
+Name : traialime giao dịch với andanh || Time : 2022-06-06 16:25:54 || Item chuyển : [1003 Số lượng : 56;] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 728; ] Xu nhận :0
+
+Name : andanh giao dịch với traialime || Time : 2022-06-06 16:25:54 || Item chuyển : [ 454 Số lượng : 728; ] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 56;] Xu nhận :0
+
+Name : ditcumay giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:33:27 || Item chuyển : [603 Số lượng : 5097;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với ditcumay || Time : 2022-06-06 18:33:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 5097;] Xu nhận :0
+
+Name : mwgwta giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:34:27 || Item chuyển : [603 Số lượng : 4557;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với mwgwta || Time : 2022-06-06 18:34:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 4557;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với caidaubui || Time : 2022-06-06 18:35:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 4431; ] Xu nhận :0
+
+Name : caidaubui giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:35:11 || Item chuyển : [ 603 Số lượng : 4431; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ditcumay1 giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:36:19 || Item chuyển : [603 Số lượng : 5224;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với ditcumay1 || Time : 2022-06-06 18:36:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 5224;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với oidoioii || Time : 2022-06-06 18:37:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 4971; ] Xu nhận :0
+
+Name : oidoioii giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:37:15 || Item chuyển : [ 603 Số lượng : 4971; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hhohoo || Time : 2022-06-06 18:37:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 5069; ] Xu nhận :0
+
+Name : hhohoo giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:37:50 || Item chuyển : [ 603 Số lượng : 5069; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hgtyga || Time : 2022-06-06 18:38:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 5145; ] Xu nhận :0
+
+Name : hgtyga giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:38:20 || Item chuyển : [ 603 Số lượng : 5145; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : conbamay giao dịch với wmwmwmwmwmmwmwm || Time : 2022-06-06 18:39:34 || Item chuyển : [603 Số lượng : 5062;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với conbamay || Time : 2022-06-06 18:39:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 5062;] Xu nhận :0
+
+Name : queen69 giao dịch với shinbaby || Time : 2022-06-06 19:25:57 || Item chuyển : [780 Số lượng : 200;573 Số lượng : 1053;575 Số lượng : 2536;577 Số lượng : 1062;574 Số lượng : 1027;578 Số lượng : 1790;576 Số lượng : 1066;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000
+
+Name : shinbaby giao dịch với queen69 || Time : 2022-06-06 19:25:57 || Item chuyển : [] Xu giao dịch :1000000 || Item Nhận :[780 Số lượng : 200;573 Số lượng : 1053;575 Số lượng : 2536;577 Số lượng : 1062;574 Số lượng : 1027;578 Số lượng : 1790;576 Số lượng : 1066;] Xu nhận :0
+
+Name : andanh giao dịch với nghienntr || Time : 2022-06-06 20:02:34 || Item chuyển : [454 Số lượng : 1600;] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 123; ] Xu nhận :0
+
+Name : nghienntr giao dịch với andanh || Time : 2022-06-06 20:02:34 || Item chuyển : [ 1003 Số lượng : 123; ] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1600;] Xu nhận :0
+
+Name : xacdinhvip giao dịch với superkoiii || Time : 2022-06-06 20:02:37 || Item chuyển : [949 Số lượng : 20;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : superkoiii giao dịch với xacdinhvip || Time : 2022-06-06 20:02:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[949 Số lượng : 20;] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 20:09:19 || Item chuyển : [647 Số lượng : 641;596 Số lượng : 20;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 20:09:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 641;596 Số lượng : 20;] Xu nhận :0
+
+Name : co1khong2 giao dịch với andanh || Time : 2022-06-06 20:28:57 || Item chuyển : [] Xu giao dịch :173000000 || Item Nhận :[] Xu nhận :0
+
+Name : andanh giao dịch với co1khong2 || Time : 2022-06-06 20:28:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :173000000
+
+Name : hahahah giao dịch với phongpro || Time : 2022-06-06 20:51:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 133;  987 Số lượng : 6819;  454 Số lượng : 252;  578 Số lượng : 763; ] Xu nhận :0
+
+Name : phongpro giao dịch với hahahah || Time : 2022-06-06 20:51:28 || Item chuyển : [ 457 Số lượng : 133;  987 Số lượng : 6819;  454 Số lượng : 252;  578 Số lượng : 763; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hahahah giao dịch với vip123 || Time : 2022-06-06 20:53:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 142;  454 Số lượng : 308;  987 Số lượng : 7570;  578 Số lượng : 968; ] Xu nhận :28000000
+
+Name : vip123 giao dịch với hahahah || Time : 2022-06-06 20:53:38 || Item chuyển : [ 457 Số lượng : 142;  454 Số lượng : 308;  987 Số lượng : 7570;  578 Số lượng : 968; ] Xu giao dịch :28000000 || Item Nhận :[] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 21:07:21 || Item chuyển : [647 Số lượng : 995;9 Số lượng : 1;8 Số lượng : 1;280 Số lượng : 1;280 Số lượng : 1;596 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 21:07:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 995;9 Số lượng : 1;8 Số lượng : 1;280 Số lượng : 1;280 Số lượng : 1;596 Số lượng : 2;] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 21:13:16 || Item chuyển : [485 Số lượng : 1;443 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 21:13:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[485 Số lượng : 1;443 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;] Xu nhận :0
+
+Name : andanh giao dịch với hahahah || Time : 2022-06-06 21:14:43 || Item chuyển : [454 Số lượng : 390;] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 30; ] Xu nhận :0
+
+Name : hahahah giao dịch với andanh || Time : 2022-06-06 21:14:43 || Item chuyển : [ 1003 Số lượng : 30; ] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 390;] Xu nhận :0
+
+Name : vippro giao dịch với ngauvl || Time : 2022-06-06 22:24:44 || Item chuyển : [456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 384 Số lượng : 1;  383 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+
+Name : ngauvl giao dịch với vippro || Time : 2022-06-06 22:24:44 || Item chuyển : [ 384 Số lượng : 1;  383 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+
+Name : ngauvl giao dịch với vippro || Time : 2022-06-06 22:25:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : vippro giao dịch với ngauvl || Time : 2022-06-06 22:25:16 || Item chuyển : [ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngauvl giao dịch với vippro || Time : 2022-06-06 22:25:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  842 Số lượng : 2;  454 Số lượng : 2;  839 Số lượng : 4;  603 Số lượng : 10;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : vippro giao dịch với ngauvl || Time : 2022-06-06 22:25:41 || Item chuyển : [ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  842 Số lượng : 2;  454 Số lượng : 2;  839 Số lượng : 4;  603 Số lượng : 10;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngauvl giao dịch với vippro || Time : 2022-06-06 22:27:03 || Item chuyển : [587 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vippro giao dịch với ngauvl || Time : 2022-06-06 22:27:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[587 Số lượng : 1;] Xu nhận :0
+
+Name : ngauvl giao dịch với vippro || Time : 2022-06-06 22:28:51 || Item chuyển : [596 Số lượng : 7;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vippro giao dịch với ngauvl || Time : 2022-06-06 22:28:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[596 Số lượng : 7;] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 23:14:05 || Item chuyển : [603 Số lượng : 57;959 Số lượng : 24;958 Số lượng : 71;868 Số lượng : 8;874 Số lượng : 8;454 Số lượng : 15;457 Số lượng : 7;578 Số lượng : 21;577 Số lượng : 33;576 Số lượng : 31;839 Số lượng : 14;838 Số lượng : 8;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 23:14:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 57;959 Số lượng : 24;958 Số lượng : 71;868 Số lượng : 8;874 Số lượng : 8;454 Số lượng : 15;457 Số lượng : 7;578 Số lượng : 21;577 Số lượng : 33;576 Số lượng : 31;839 Số lượng : 14;838 Số lượng : 8;] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 23:14:50 || Item chuyển : [442 Số lượng : 1;441 Số lượng : 1;439 Số lượng : 1;440 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 23:14:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[442 Số lượng : 1;441 Số lượng : 1;439 Số lượng : 1;440 Số lượng : 1;] Xu nhận :0
+
+Name : mothuyenthoai giao dịch với trieutulong || Time : 2022-06-06 23:29:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1;  829 Số lượng : 1;  440 Số lượng : 1; ] Xu nhận :0
+
+Name : trieutulong giao dịch với mothuyenthoai || Time : 2022-06-06 23:29:42 || Item chuyển : [ 283 Số lượng : 1;  829 Số lượng : 1;  440 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : 1choc1be giao dịch với caynlsk1 || Time : 2022-06-06 23:40:20 || Item chuyển : [988 Số lượng : 1;989 Số lượng : 1;990 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 176; ] Xu nhận :0
+
+Name : caynlsk1 giao dịch với 1choc1be || Time : 2022-06-06 23:40:20 || Item chuyển : [ 603 Số lượng : 176; ] Xu giao dịch :0 || Item Nhận :[988 Số lượng : 1;989 Số lượng : 1;990 Số lượng : 1;] Xu nhận :0
+
+Name : superkoiii giao dịch với hakaishin || Time : 2022-06-06 23:43:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : hakaishin giao dịch với superkoiii || Time : 2022-06-06 23:43:18 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  11 Số lượng : 1;  10 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

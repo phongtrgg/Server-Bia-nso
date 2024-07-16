@@ -1,0 +1,16 @@
+
+Name : moichoi giao dịch với tairaxiu || Time : 2022-08-12 00:06:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 588 Số lượng : 1;  949 Số lượng : 10; ] Xu nhận :0
+
+Name : tairaxiu giao dịch với moichoi || Time : 2022-08-12 00:06:08 || Item chuyển : [ 588 Số lượng : 1;  949 Số lượng : 10; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tairaxiu giao dịch với sabboy2 || Time : 2022-08-12 00:08:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 639 Số lượng : 4095;  641 Số lượng : 4040;  642 Số lượng : 4043;  575 Số lượng : 122;  577 Số lượng : 66;  578 Số lượng : 129;  574 Số lượng : 79;  573 Số lượng : 66;  638 Số lượng : 4014;  987 Số lượng : 4040; ] Xu nhận :0
+
+Name : sabboy2 giao dịch với tairaxiu || Time : 2022-08-12 00:08:48 || Item chuyển : [ 639 Số lượng : 4095;  641 Số lượng : 4040;  642 Số lượng : 4043;  575 Số lượng : 122;  577 Số lượng : 66;  578 Số lượng : 129;  574 Số lượng : 79;  573 Số lượng : 66;  638 Số lượng : 4014;  987 Số lượng : 4040; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tairaxiu giao dịch với sabboy1 || Time : 2022-08-12 00:09:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 642 Số lượng : 3541;  573 Số lượng : 101;  577 Số lượng : 94;  641 Số lượng : 3566;  638 Số lượng : 3639;  987 Số lượng : 3528;  639 Số lượng : 3541;  578 Số lượng : 117;  576 Số lượng : 95;  575 Số lượng : 119;  574 Số lượng : 93;  457 Số lượng : 4; ] Xu nhận :0
+
+Name : sabboy1 giao dịch với tairaxiu || Time : 2022-08-12 00:09:37 || Item chuyển : [ 642 Số lượng : 3541;  573 Số lượng : 101;  577 Số lượng : 94;  641 Số lượng : 3566;  638 Số lượng : 3639;  987 Số lượng : 3528;  639 Số lượng : 3541;  578 Số lượng : 117;  576 Số lượng : 95;  575 Số lượng : 119;  574 Số lượng : 93;  457 Số lượng : 4; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : sjjsjdjkskg giao dịch với sjjxhxhxhhs || Time : 2022-08-12 06:23:06 || Item chuyển : [] Xu giao dịch :217450767 || Item Nhận :[] Xu nhận :0
+
+Name : sjjxhxhxhhs giao dịch với sjjsjdjkskg || Time : 2022-08-12 06:23:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :217450767

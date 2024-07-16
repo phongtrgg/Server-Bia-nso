@@ -1,0 +1,756 @@
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 00:04:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 00:04:57 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 00:06:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 00:06:39 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 00:06:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 00:06:56 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 00:07:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 00:07:24 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 00:07:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 00:07:50 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 00:08:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 869 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1; ] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 00:08:54 || Item chuyển : [ 869 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1;  385 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với lchika || Time : 2022-04-11 00:16:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 656 Số lượng : 16;  659 Số lượng : 17;  682 Số lượng : 18;  657 Số lượng : 18;  658 Số lượng : 18; ] Xu nhận :0
+
+Name : lchika giao dịch với ltsuki || Time : 2022-04-11 00:16:26 || Item chuyển : [ 656 Số lượng : 16;  659 Số lượng : 17;  682 Số lượng : 18;  657 Số lượng : 18;  658 Số lượng : 18; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thu1111 giao dịch với ltsuki || Time : 2022-04-11 00:33:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 853 Số lượng : 1;  62 Số lượng : 1;  59 Số lượng : 1; ] Xu nhận :0
+
+Name : ltsuki giao dịch với thu1111 || Time : 2022-04-11 00:33:50 || Item chuyển : [ 853 Số lượng : 1;  62 Số lượng : 1;  59 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : concainit giao dịch với phuongdzai || Time : 2022-04-11 01:14:36 || Item chuyển : [428 Số lượng : 958;430 Số lượng : 1027;429 Số lượng : 1031;431 Số lượng : 975;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với concainit || Time : 2022-04-11 01:14:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[428 Số lượng : 958;430 Số lượng : 1027;429 Số lượng : 1031;431 Số lượng : 975;] Xu nhận :0
+
+Name : locphuho giao dịch với phuongdzai || Time : 2022-04-11 01:15:42 || Item chuyển : [429 Số lượng : 1006;431 Số lượng : 1016;428 Số lượng : 964;430 Số lượng : 976;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với locphuho || Time : 2022-04-11 01:15:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[429 Số lượng : 1006;431 Số lượng : 1016;428 Số lượng : 964;430 Số lượng : 976;] Xu nhận :0
+
+Name : tentoidailamban giao dịch với phuongdzai || Time : 2022-04-11 01:16:34 || Item chuyển : [428 Số lượng : 1006;431 Số lượng : 983;430 Số lượng : 919;429 Số lượng : 955;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuongdzai giao dịch với tentoidailamban || Time : 2022-04-11 01:16:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[428 Số lượng : 1006;431 Số lượng : 983;430 Số lượng : 919;429 Số lượng : 955;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:20:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:20:46 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:23:42 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:23:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:25:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:25:01 || Item chuyển : [ 456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:39:30 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:39:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:40:58 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:40:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:41:59 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;778 Số lượng : 43;780 Số lượng : 19;574 Số lượng : 36;576 Số lượng : 38;578 Số lượng : 37;577 Số lượng : 42;575 Số lượng : 47;573 Số lượng : 38;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:41:59 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;778 Số lượng : 43;780 Số lượng : 19;574 Số lượng : 36;576 Số lượng : 38;578 Số lượng : 37;577 Số lượng : 42;575 Số lượng : 47;573 Số lượng : 38;454 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:42:39 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  429 Số lượng : 121;  431 Số lượng : 123;  428 Số lượng : 120;  430 Số lượng : 117; ] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:42:39 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  429 Số lượng : 121;  431 Số lượng : 123;  428 Số lượng : 120;  430 Số lượng : 117; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:43:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:43:19 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:44:16 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:44:16 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:45:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  577 Số lượng : 51;  778 Số lượng : 58;  573 Số lượng : 47;  575 Số lượng : 47;  576 Số lượng : 39;  578 Số lượng : 53;  574 Số lượng : 48;  430 Số lượng : 125;  428 Số lượng : 143;  429 Số lượng : 132;  431 Số lượng : 126; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:45:36 || Item chuyển : [ 455 Số lượng : 1;  577 Số lượng : 51;  778 Số lượng : 58;  573 Số lượng : 47;  575 Số lượng : 47;  576 Số lượng : 39;  578 Số lượng : 53;  574 Số lượng : 48;  430 Số lượng : 125;  428 Số lượng : 143;  429 Số lượng : 132;  431 Số lượng : 126; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:46:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:46:17 || Item chuyển : [ 455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:47:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  780 Số lượng : 2;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:47:04 || Item chuyển : [ 456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  780 Số lượng : 2;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:47:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:47:29 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:50:42 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:50:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:51:09 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:51:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:51:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:51:37 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 02:52:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 02:52:15 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:55:18 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:55:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:55:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:55:46 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:56:09 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:56:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:56:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:56:37 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 02:57:02 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 02:57:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 03:21:25 || Item chuyển : [907 Số lượng : 1;454 Số lượng : 1;912 Số lượng : 1;917 Số lượng : 1;657 Số lượng : 1;659 Số lượng : 1;656 Số lượng : 1;839 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 03:21:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 1;454 Số lượng : 1;912 Số lượng : 1;917 Số lượng : 1;657 Số lượng : 1;659 Số lượng : 1;656 Số lượng : 1;839 Số lượng : 2;] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:47:13 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:47:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:47:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:47:45 || Item chuyển : [ 455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:49:44 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:49:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:50:18 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:50:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:50:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  574 Số lượng : 45;  576 Số lượng : 57;  577 Số lượng : 51;  573 Số lượng : 33;  578 Số lượng : 53;  575 Số lượng : 47;  778 Số lượng : 39; ] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:50:50 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  574 Số lượng : 45;  576 Số lượng : 57;  577 Số lượng : 51;  573 Số lượng : 33;  578 Số lượng : 53;  575 Số lượng : 47;  778 Số lượng : 39; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:51:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 780 Số lượng : 23;  428 Số lượng : 219;  429 Số lượng : 245;  431 Số lượng : 212;  430 Số lượng : 253;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:51:31 || Item chuyển : [ 780 Số lượng : 23;  428 Số lượng : 219;  429 Số lượng : 245;  431 Số lượng : 212;  430 Số lượng : 253;  457 Số lượng : 1;  457 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 03:51:53 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 03:51:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 03:56:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 03:56:26 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumpk36 giao dịch với top1ne || Time : 2022-04-11 03:57:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 276 Số lượng : 14;  380 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : top1ne giao dịch với trumpk36 || Time : 2022-04-11 03:57:46 || Item chuyển : [ 276 Số lượng : 14;  380 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 03:58:14 || Item chuyển : [578 Số lượng : 296;577 Số lượng : 293;576 Số lượng : 489;574 Số lượng : 1437;575 Số lượng : 1406;573 Số lượng : 1420;780 Số lượng : 533;778 Số lượng : 837;840 Số lượng : 6;454 Số lượng : 1;838 Số lượng : 5;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 03:58:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[578 Số lượng : 296;577 Số lượng : 293;576 Số lượng : 489;574 Số lượng : 1437;575 Số lượng : 1406;573 Số lượng : 1420;780 Số lượng : 533;778 Số lượng : 837;840 Số lượng : 6;454 Số lượng : 1;838 Số lượng : 5;454 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 03:59:48 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 03:59:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 04:00:51 || Item chuyển : [457 Số lượng : 1;454 Số lượng : 1;563 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1; ] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 04:00:51 || Item chuyển : [ 829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1;  829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;454 Số lượng : 1;563 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : thuxtasde giao dịch với thufuho || Time : 2022-04-11 04:05:04 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thufuho giao dịch với thuxtasde || Time : 2022-04-11 04:05:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : thufuho giao dịch với thuxtasde || Time : 2022-04-11 04:05:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  455 Số lượng : 1;  839 Số lượng : 12;  862 Số lượng : 5;  838 Số lượng : 8; ] Xu nhận :0
+
+Name : thuxtasde giao dịch với thufuho || Time : 2022-04-11 04:05:43 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  455 Số lượng : 1;  839 Số lượng : 12;  862 Số lượng : 5;  838 Số lượng : 8; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với 1 || Time : 2022-04-11 04:15:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 746 Số lượng : 1; ] Xu nhận :0
+
+Name : 1 giao dịch với anhthuxc || Time : 2022-04-11 04:15:53 || Item chuyển : [ 746 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : 1 giao dịch với babyboss || Time : 2022-04-11 04:17:52 || Item chuyển : [943 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : babyboss giao dịch với 1 || Time : 2022-04-11 04:17:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[943 Số lượng : 1;] Xu nhận :0
+
+Name : 1 giao dịch với trumpk36 || Time : 2022-04-11 04:18:34 || Item chuyển : [750 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumpk36 giao dịch với 1 || Time : 2022-04-11 04:18:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[750 Số lượng : 1;] Xu nhận :0
+
+Name : 1 giao dịch với anhthuxc || Time : 2022-04-11 04:19:22 || Item chuyển : [752 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với 1 || Time : 2022-04-11 04:19:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[752 Số lượng : 1;] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 04:22:05 || Item chuyển : [943 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 04:22:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[943 Số lượng : 1;] Xu nhận :0
+
+Name : 1 giao dịch với top1ne || Time : 2022-04-11 04:22:18 || Item chuyển : [398 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : top1ne giao dịch với 1 || Time : 2022-04-11 04:22:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[398 Số lượng : 1;] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 06:54:11 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 06:54:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 06:55:45 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 06:55:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 06:56:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 06:56:10 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với thu1111 || Time : 2022-04-11 06:57:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :447678500
+
+Name : thu1111 giao dịch với ltsuki || Time : 2022-04-11 06:57:08 || Item chuyển : [] Xu giao dịch :447678500 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với thu2222 || Time : 2022-04-11 06:58:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :104990000
+
+Name : thu2222 giao dịch với ltsuki || Time : 2022-04-11 06:58:36 || Item chuyển : [] Xu giao dịch :104990000 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 06:59:41 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 06:59:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 07:01:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 07:01:43 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 07:02:20 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 07:02:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy2 || Time : 2022-04-11 07:02:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy2 giao dịch với inboxmenow || Time : 2022-04-11 07:02:49 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:03:54 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:03:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:04:57 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:04:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:05:33 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:05:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:06:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:06:25 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:09:06 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:09:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 07:09:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 07:09:50 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:23:16 || Item chuyển : [486 Số lượng : 1;486 Số lượng : 1;578 Số lượng : 150;577 Số lượng : 147;573 Số lượng : 149;576 Số lượng : 142;574 Số lượng : 147;575 Số lượng : 141;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:23:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[486 Số lượng : 1;486 Số lượng : 1;578 Số lượng : 150;577 Số lượng : 147;573 Số lượng : 149;576 Số lượng : 142;574 Số lượng : 147;575 Số lượng : 141;] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:27:49 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 442 Số lượng : 1;  442 Số lượng : 1;  439 Số lượng : 1; ] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:27:49 || Item chuyển : [ 442 Số lượng : 1;  442 Số lượng : 1;  439 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:34:28 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:34:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:35:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:35:15 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:37:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:37:21 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:41:46 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:41:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 07:42:45 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 07:42:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : taochaphet giao dịch với nam2k9 || Time : 2022-04-11 07:56:06 || Item chuyển : [431 Số lượng : 2540;430 Số lượng : 2731;429 Số lượng : 2495;428 Số lượng : 2537;433 Số lượng : 432;] Xu giao dịch :0 || Item Nhận :[ 868 Số lượng : 4396; ] Xu nhận :0
+
+Name : nam2k9 giao dịch với taochaphet || Time : 2022-04-11 07:56:06 || Item chuyển : [ 868 Số lượng : 4396; ] Xu giao dịch :0 || Item Nhận :[431 Số lượng : 2540;430 Số lượng : 2731;429 Số lượng : 2495;428 Số lượng : 2537;433 Số lượng : 432;] Xu nhận :0
+
+Name : buffae giao dịch với trummom || Time : 2022-04-11 08:14:26 || Item chuyển : [907 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trummom giao dịch với buffae || Time : 2022-04-11 08:14:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 1;] Xu nhận :0
+
+Name : taochaphet giao dịch với nam2k9 || Time : 2022-04-11 08:15:23 || Item chuyển : [] Xu giao dịch :900000000 || Item Nhận :[] Xu nhận :0
+
+Name : nam2k9 giao dịch với taochaphet || Time : 2022-04-11 08:15:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :900000000
+
+Name : ltsuki giao dịch với lchika || Time : 2022-04-11 08:44:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 4; ] Xu nhận :0
+
+Name : lchika giao dịch với ltsuki || Time : 2022-04-11 08:44:42 || Item chuyển : [ 907 Số lượng : 4; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với ltsuka || Time : 2022-04-11 08:45:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 9; ] Xu nhận :0
+
+Name : ltsuka giao dịch với ltsuki || Time : 2022-04-11 08:45:06 || Item chuyển : [ 907 Số lượng : 9; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với 0kashi || Time : 2022-04-11 08:46:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 4; ] Xu nhận :0
+
+Name : 0kashi giao dịch với ltsuki || Time : 2022-04-11 08:46:21 || Item chuyển : [ 907 Số lượng : 4; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với thu1000 || Time : 2022-04-11 08:46:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 1; ] Xu nhận :0
+
+Name : thu1000 giao dịch với ltsuki || Time : 2022-04-11 08:46:53 || Item chuyển : [ 907 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với nam2k9 || Time : 2022-04-11 08:48:10 || Item chuyển : [907 Số lượng : 34;] Xu giao dịch :0 || Item Nhận :[ 752 Số lượng : 1; ] Xu nhận :0
+
+Name : nam2k9 giao dịch với ltsuki || Time : 2022-04-11 08:48:10 || Item chuyển : [ 752 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 34;] Xu nhận :0
+
+Name : hacthien giao dịch với kimlong || Time : 2022-04-11 09:14:16 || Item chuyển : [275 Số lượng : 3;276 Số lượng : 3;277 Số lượng : 3;278 Số lượng : 3;907 Số lượng : 3;682 Số lượng : 3;657 Số lượng : 3;658 Số lượng : 3;659 Số lượng : 3;656 Số lượng : 3;839 Số lượng : 6;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với hacthien || Time : 2022-04-11 09:14:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[275 Số lượng : 3;276 Số lượng : 3;277 Số lượng : 3;278 Số lượng : 3;907 Số lượng : 3;682 Số lượng : 3;657 Số lượng : 3;658 Số lượng : 3;659 Số lượng : 3;656 Số lượng : 3;839 Số lượng : 6;] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 09:23:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 789 Số lượng : 2;  843 Số lượng : 305; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 09:23:49 || Item chuyển : [ 789 Số lượng : 2;  843 Số lượng : 305; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với nam2k9 || Time : 2022-04-11 09:52:45 || Item chuyển : [907 Số lượng : 19;869 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 715 Số lượng : 1; ] Xu nhận :0
+
+Name : nam2k9 giao dịch với anhthuxc || Time : 2022-04-11 09:52:45 || Item chuyển : [ 715 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 19;869 Số lượng : 1;] Xu nhận :0
+
+Name : trumpk36 giao dịch với top1ne || Time : 2022-04-11 10:22:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 441 Số lượng : 1; ] Xu nhận :0
+
+Name : top1ne giao dịch với trumpk36 || Time : 2022-04-11 10:22:26 || Item chuyển : [ 441 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 10:23:53 || Item chuyển : [907 Số lượng : 3;682 Số lượng : 3;657 Số lượng : 3;658 Số lượng : 2;659 Số lượng : 3;656 Số lượng : 3;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;839 Số lượng : 6;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 10:23:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 3;682 Số lượng : 3;657 Số lượng : 3;658 Số lượng : 2;659 Số lượng : 3;656 Số lượng : 3;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;839 Số lượng : 6;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 10:33:41 || Item chuyển : [838 Số lượng : 33;222 Số lượng : 6;223 Số lượng : 6;224 Số lượng : 5;225 Số lượng : 48;226 Số lượng : 38;227 Số lượng : 31;228 Số lượng : 33;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 10:33:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[838 Số lượng : 33;222 Số lượng : 6;223 Số lượng : 6;224 Số lượng : 5;225 Số lượng : 48;226 Số lượng : 38;227 Số lượng : 31;228 Số lượng : 33;] Xu nhận :0
+
+Name : anhthuxc giao dịch với ltsuki || Time : 2022-04-11 10:38:15 || Item chuyển : [828 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với anhthuxc || Time : 2022-04-11 10:38:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[828 Số lượng : 1;] Xu nhận :0
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 10:51:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 838 Số lượng : 1; ] Xu nhận :0
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 10:51:49 || Item chuyển : [ 838 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với ChiếnThần || Time : 2022-04-11 11:05:31 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[ 907 Số lượng : 2; ] Xu nhận :0
+
+Name : ChiếnThần giao dịch với taochaphet || Time : 2022-04-11 11:05:31 || Item chuyển : [ 907 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 11:13:14 || Item chuyển : [626 Số lượng : 1;630 Số lượng : 1;28 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 11:13:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[626 Số lượng : 1;630 Số lượng : 1;28 Số lượng : 1;] Xu nhận :0
+
+Name : ChiếnThần giao dịch với taochaphet || Time : 2022-04-11 11:16:16 || Item chuyển : [907 Số lượng : 4;907 Số lượng : 4;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : taochaphet giao dịch với ChiếnThần || Time : 2022-04-11 11:16:16 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[907 Số lượng : 4;907 Số lượng : 4;] Xu nhận :0
+
+Name : vipkoae giao dịch với kunai01 || Time : 2022-04-11 11:16:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 575 Số lượng : 71;  573 Số lượng : 74;  735 Số lượng : 737; ] Xu nhận :500000000
+
+Name : kunai01 giao dịch với vipkoae || Time : 2022-04-11 11:16:52 || Item chuyển : [ 575 Số lượng : 71;  573 Số lượng : 74;  735 Số lượng : 737; ] Xu giao dịch :500000000 || Item Nhận :[] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 11:53:22 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;277 Số lượng : 1;457 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 647 Số lượng : 30;  430 Số lượng : 106;  428 Số lượng : 85;  429 Số lượng : 102;  431 Số lượng : 108; ] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 11:53:22 || Item chuyển : [ 647 Số lượng : 30;  430 Số lượng : 106;  428 Số lượng : 85;  429 Số lượng : 102;  431 Số lượng : 108; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;277 Số lượng : 1;457 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 11:56:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 873 Số lượng : 1;  842 Số lượng : 1;  841 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 11:56:02 || Item chuyển : [ 873 Số lượng : 1;  842 Số lượng : 1;  841 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với chican1hit || Time : 2022-04-11 12:01:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 682 Số lượng : 11;  657 Số lượng : 11;  658 Số lượng : 11;  659 Số lượng : 11;  656 Số lượng : 11; ] Xu nhận :1500000000
+
+Name : chican1hit giao dịch với anhthuxc || Time : 2022-04-11 12:01:16 || Item chuyển : [ 682 Số lượng : 11;  657 Số lượng : 11;  658 Số lượng : 11;  659 Số lượng : 11;  656 Số lượng : 11; ] Xu giao dịch :1500000000 || Item Nhận :[] Xu nhận :0
+
+Name : kunai01 giao dịch với vipkoae || Time : 2022-04-11 12:07:31 || Item chuyển : [] Xu giao dịch :1500000000 || Item Nhận :[ 560 Số lượng : 1;  916 Số lượng : 15000; ] Xu nhận :0
+
+Name : vipkoae giao dịch với kunai01 || Time : 2022-04-11 12:07:31 || Item chuyển : [ 560 Số lượng : 1;  916 Số lượng : 15000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1500000000
+
+Name : thuxtasde giao dịch với loserrr || Time : 2022-04-11 12:14:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 632 Số lượng : 1;  632 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrr giao dịch với thuxtasde || Time : 2022-04-11 12:14:09 || Item chuyển : [ 632 Số lượng : 1;  632 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với thuxtasde || Time : 2022-04-11 12:50:23 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với kimlong || Time : 2022-04-11 12:50:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : taochaphet giao dịch với thuxtasde || Time : 2022-04-11 12:51:06 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với taochaphet || Time : 2022-04-11 12:51:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : taochaphet giao dịch với ltsuki || Time : 2022-04-11 12:54:42 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với taochaphet || Time : 2022-04-11 12:54:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : anhthuxc giao dịch với kimlong || Time : 2022-04-11 13:06:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 1; ] Xu nhận :500000000
+
+Name : kimlong giao dịch với anhthuxc || Time : 2022-04-11 13:06:26 || Item chuyển : [ 907 Số lượng : 1; ] Xu giao dịch :500000000 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với nam2k9 || Time : 2022-04-11 13:08:27 || Item chuyển : [907 Số lượng : 7;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nam2k9 giao dịch với anhthuxc || Time : 2022-04-11 13:08:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 7;] Xu nhận :0
+
+Name : kimlong giao dịch với lchika || Time : 2022-04-11 13:10:19 || Item chuyển : [] Xu giao dịch :1000000000 || Item Nhận :[] Xu nhận :0
+
+Name : lchika giao dịch với kimlong || Time : 2022-04-11 13:10:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000000
+
+Name : thufuho giao dịch với anhthuxc || Time : 2022-04-11 13:11:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : anhthuxc giao dịch với thufuho || Time : 2022-04-11 13:11:05 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với anhthuxc || Time : 2022-04-11 13:11:42 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với taochaphet || Time : 2022-04-11 13:11:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 13:13:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 13:13:13 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với lchika || Time : 2022-04-11 13:21:23 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : lchika giao dịch với taochaphet || Time : 2022-04-11 13:21:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 13:57:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 578 Số lượng : 72;  577 Số lượng : 79;  576 Số lượng : 88;  489 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 13:57:16 || Item chuyển : [ 578 Số lượng : 72;  577 Số lượng : 79;  576 Số lượng : 88;  489 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với vipkoae || Time : 2022-04-11 14:09:43 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :200000000
+
+Name : vipkoae giao dịch với kimlong || Time : 2022-04-11 14:09:43 || Item chuyển : [] Xu giao dịch :200000000 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : vipkoae giao dịch với kimlong || Time : 2022-04-11 14:10:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : kimlong giao dịch với vipkoae || Time : 2022-04-11 14:10:04 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 14:10:42 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 573 Số lượng : 12;  575 Số lượng : 10;  574 Số lượng : 15; ] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 14:10:42 || Item chuyển : [ 573 Số lượng : 12;  575 Số lượng : 10;  574 Số lượng : 15; ] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : vipkoae giao dịch với kimlong || Time : 2022-04-11 14:11:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : kimlong giao dịch với vipkoae || Time : 2022-04-11 14:11:18 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với vipkoae || Time : 2022-04-11 14:12:50 || Item chuyển : [578 Số lượng : 160;577 Số lượng : 135;576 Số lượng : 500;575 Số lượng : 54;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :100000000
+
+Name : vipkoae giao dịch với kimlong || Time : 2022-04-11 14:12:50 || Item chuyển : [] Xu giao dịch :100000000 || Item Nhận :[578 Số lượng : 160;577 Số lượng : 135;576 Số lượng : 500;575 Số lượng : 54;] Xu nhận :0
+
+Name : anhthuxc giao dịch với 0kashi || Time : 2022-04-11 14:16:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 558 Số lượng : 1; ] Xu nhận :0
+
+Name : 0kashi giao dịch với anhthuxc || Time : 2022-04-11 14:16:44 || Item chuyển : [ 558 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 14:29:01 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 14:29:01 || Item chuyển : [ 456 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : loserrrrrrrrr giao dịch với loserrr || Time : 2022-04-11 14:39:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrrrr || Time : 2022-04-11 14:39:31 || Item chuyển : [ 283 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tuthanvutru giao dịch với vipkoae || Time : 2022-04-11 14:40:20 || Item chuyển : [574 Số lượng : 299;575 Số lượng : 278;573 Số lượng : 283;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :299000000
+
+Name : vipkoae giao dịch với tuthanvutru || Time : 2022-04-11 14:40:20 || Item chuyển : [] Xu giao dịch :299000000 || Item Nhận :[574 Số lượng : 299;575 Số lượng : 278;573 Số lượng : 283;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : ngocduy giao dịch với vipkoae || Time : 2022-04-11 15:02:17 || Item chuyển : [647 Số lượng : 1066;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :100000000
+
+Name : vipkoae giao dịch với ngocduy || Time : 2022-04-11 15:02:17 || Item chuyển : [] Xu giao dịch :100000000 || Item Nhận :[647 Số lượng : 1066;] Xu nhận :0
+
+Name : vipkoae giao dịch với ngocduy || Time : 2022-04-11 15:03:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :100000000
+
+Name : ngocduy giao dịch với vipkoae || Time : 2022-04-11 15:03:26 || Item chuyển : [] Xu giao dịch :100000000 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với ltsuki || Time : 2022-04-11 15:12:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 3; ] Xu nhận :0
+
+Name : ltsuki giao dịch với anhthuxc || Time : 2022-04-11 15:12:38 || Item chuyển : [ 907 Số lượng : 3; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 15:15:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 558 Số lượng : 1;  559 Số lượng : 1;  563 Số lượng : 1; ] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 15:15:04 || Item chuyển : [ 558 Số lượng : 1;  559 Số lượng : 1;  563 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chican1hit giao dịch với ltsuki || Time : 2022-04-11 15:41:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 407 Số lượng : 1; ] Xu nhận :0
+
+Name : ltsuki giao dịch với chican1hit || Time : 2022-04-11 15:41:51 || Item chuyển : [ 407 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với Bé Hà || Time : 2022-04-11 15:46:26 || Item chuyển : [] Xu giao dịch :40000000 || Item Nhận :[ 430 Số lượng : 4672;  429 Số lượng : 1875;  647 Số lượng : 35;  428 Số lượng : 2786;  431 Số lượng : 2850; ] Xu nhận :0
+
+Name : Bé Hà giao dịch với anhthuxc || Time : 2022-04-11 15:46:26 || Item chuyển : [ 430 Số lượng : 4672;  429 Số lượng : 1875;  647 Số lượng : 35;  428 Số lượng : 2786;  431 Số lượng : 2850; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :40000000
+
+Name : thuxtasde giao dịch với Bé Hà || Time : 2022-04-11 16:36:45 || Item chuyển : [540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;276 Số lượng : 7;278 Số lượng : 9;275 Số lượng : 9;277 Số lượng : 12;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : Bé Hà giao dịch với thuxtasde || Time : 2022-04-11 16:36:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;276 Số lượng : 7;278 Số lượng : 9;275 Số lượng : 9;277 Số lượng : 12;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu nhận :0
+
+Name : Bé Hà giao dịch với kimlong || Time : 2022-04-11 16:47:36 || Item chuyển : [540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kimlong giao dịch với Bé Hà || Time : 2022-04-11 16:47:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu nhận :0
+
+Name : tuthanvutru giao dịch với vipkoae || Time : 2022-04-11 17:04:38 || Item chuyển : [454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+
+Name : vipkoae giao dịch với tuthanvutru || Time : 2022-04-11 17:04:38 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;] Xu nhận :0
+
+Name : ae34no1 giao dịch với ChiếnThần || Time : 2022-04-11 17:11:23 || Item chuyển : [436 Số lượng : 4524;437 Số lượng : 2311;276 Số lượng : 23;438 Số lượng : 1141;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ChiếnThần giao dịch với ae34no1 || Time : 2022-04-11 17:11:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[436 Số lượng : 4524;437 Số lượng : 2311;276 Số lượng : 23;438 Số lượng : 1141;] Xu nhận :0
+
+Name : loserrrrrrrrr giao dịch với loserrr || Time : 2022-04-11 17:28:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 558 Số lượng : 1;  559 Số lượng : 1;  560 Số lượng : 1;  561 Số lượng : 1;  562 Số lượng : 1;  829 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrrrr || Time : 2022-04-11 17:28:59 || Item chuyển : [ 558 Số lượng : 1;  559 Số lượng : 1;  560 Số lượng : 1;  561 Số lượng : 1;  562 Số lượng : 1;  829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 17:31:03 || Item chuyển : [226 Số lượng : 4;222 Số lượng : 1;228 Số lượng : 9;275 Số lượng : 1;276 Số lượng : 1;277 Số lượng : 1;278 Số lượng : 1;840 Số lượng : 1;841 Số lượng : 1;842 Số lượng : 1;843 Số lượng : 9;873 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 17:31:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[226 Số lượng : 4;222 Số lượng : 1;228 Số lượng : 9;275 Số lượng : 1;276 Số lượng : 1;277 Số lượng : 1;278 Số lượng : 1;840 Số lượng : 1;841 Số lượng : 1;842 Số lượng : 1;843 Số lượng : 9;873 Số lượng : 1;] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 17:37:23 || Item chuyển : [839 Số lượng : 2;838 Số lượng : 1;682 Số lượng : 1;657 Số lượng : 1;658 Số lượng : 1;659 Số lượng : 1;656 Số lượng : 1;454 Số lượng : 1;225 Số lượng : 12;227 Số lượng : 4;445 Số lượng : 14;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 17:37:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[839 Số lượng : 2;838 Số lượng : 1;682 Số lượng : 1;657 Số lượng : 1;658 Số lượng : 1;659 Số lượng : 1;656 Số lượng : 1;454 Số lượng : 1;225 Số lượng : 12;227 Số lượng : 4;445 Số lượng : 14;] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 17:38:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 659 Số lượng : 1;  656 Số lượng : 1;  682 Số lượng : 1;  657 Số lượng : 1;  658 Số lượng : 1; ] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 17:38:47 || Item chuyển : [ 659 Số lượng : 1;  656 Số lượng : 1;  682 Số lượng : 1;  657 Số lượng : 1;  658 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 18:56:28 || Item chuyển : [457 Số lượng : 1;457 Số lượng : 1;840 Số lượng : 2;457 Số lượng : 1;445 Số lượng : 99;225 Số lượng : 76;226 Số lượng : 49;224 Số lượng : 2;227 Số lượng : 46;228 Số lượng : 42;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 18:56:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 1;457 Số lượng : 1;840 Số lượng : 2;457 Số lượng : 1;445 Số lượng : 99;225 Số lượng : 76;226 Số lượng : 49;224 Số lượng : 2;227 Số lượng : 46;228 Số lượng : 42;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 18:57:54 || Item chuyển : [843 Số lượng : 131;457 Số lượng : 1;789 Số lượng : 3;223 Số lượng : 2;838 Số lượng : 1;222 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 18:57:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[843 Số lượng : 131;457 Số lượng : 1;789 Số lượng : 3;223 Số lượng : 2;838 Số lượng : 1;222 Số lượng : 1;] Xu nhận :0
+
+Name : top1ne giao dịch với trumpk36 || Time : 2022-04-11 19:19:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 223 Số lượng : 2; ] Xu nhận :0
+
+Name : trumpk36 giao dịch với top1ne || Time : 2022-04-11 19:19:45 || Item chuyển : [ 223 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumpk36 giao dịch với top1ne || Time : 2022-04-11 19:22:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 422 Số lượng : 1; ] Xu nhận :0
+
+Name : top1ne giao dịch với trumpk36 || Time : 2022-04-11 19:22:11 || Item chuyển : [ 422 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumpk36 giao dịch với top1ne || Time : 2022-04-11 19:22:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 1; ] Xu nhận :0
+
+Name : top1ne giao dịch với trumpk36 || Time : 2022-04-11 19:22:52 || Item chuyển : [ 907 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vipkoae giao dịch với tuthanvutru || Time : 2022-04-11 19:33:37 || Item chuyển : [577 Số lượng : 136;] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với vipkoae || Time : 2022-04-11 19:33:37 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[577 Số lượng : 136;] Xu nhận :0
+
+Name : bowonehit giao dịch với snow2002 || Time : 2022-04-11 19:38:38 || Item chuyển : [578 Số lượng : 70;576 Số lượng : 78;577 Số lượng : 69;431 Số lượng : 336;428 Số lượng : 339;429 Số lượng : 326;430 Số lượng : 319;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với bowonehit || Time : 2022-04-11 19:38:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[578 Số lượng : 70;576 Số lượng : 78;577 Số lượng : 69;431 Số lượng : 336;428 Số lượng : 339;429 Số lượng : 326;430 Số lượng : 319;] Xu nhận :0
+
+Name : buffae giao dịch với trummom || Time : 2022-04-11 19:51:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 637 Số lượng : 1; ] Xu nhận :0
+
+Name : trummom giao dịch với buffae || Time : 2022-04-11 19:51:17 || Item chuyển : [ 637 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trummom giao dịch với buffae || Time : 2022-04-11 19:51:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : buffae giao dịch với trummom || Time : 2022-04-11 19:51:42 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với buffae || Time : 2022-04-11 20:08:15 || Item chuyển : [632 Số lượng : 1;635 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : buffae giao dịch với snow2002 || Time : 2022-04-11 20:08:15 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[632 Số lượng : 1;635 Số lượng : 1;] Xu nhận :0
+
+Name : snow2002 giao dịch với buffae || Time : 2022-04-11 20:08:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu nhận :0
+
+Name : buffae giao dịch với snow2002 || Time : 2022-04-11 20:08:54 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1;  454 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với lchika || Time : 2022-04-11 20:14:50 || Item chuyển : [540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : lchika giao dịch với inboxmenow || Time : 2022-04-11 20:14:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu nhận :0
+
+Name : ltsuki giao dịch với lchika || Time : 2022-04-11 20:15:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1; ] Xu nhận :0
+
+Name : lchika giao dịch với ltsuki || Time : 2022-04-11 20:15:31 || Item chuyển : [ 540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1;  540 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : lchika giao dịch với ltsuka || Time : 2022-04-11 20:41:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 4; ] Xu nhận :0
+
+Name : ltsuka giao dịch với lchika || Time : 2022-04-11 20:41:27 || Item chuyển : [ 907 Số lượng : 4; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : lchika giao dịch với 0kashi || Time : 2022-04-11 20:42:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 5; ] Xu nhận :0
+
+Name : 0kashi giao dịch với lchika || Time : 2022-04-11 20:42:40 || Item chuyển : [ 907 Số lượng : 5; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nam2k9 giao dịch với lchika || Time : 2022-04-11 20:45:16 || Item chuyển : [751 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 23; ] Xu nhận :0
+
+Name : lchika giao dịch với nam2k9 || Time : 2022-04-11 20:45:16 || Item chuyển : [ 907 Số lượng : 23; ] Xu giao dịch :0 || Item Nhận :[751 Số lượng : 1;] Xu nhận :0
+
+Name : snow2002 giao dịch với nam2k9 || Time : 2022-04-11 20:45:36 || Item chuyển : [907 Số lượng : 30;] Xu giao dịch :0 || Item Nhận :[ 748 Số lượng : 1; ] Xu nhận :0
+
+Name : nam2k9 giao dịch với snow2002 || Time : 2022-04-11 20:45:36 || Item chuyển : [ 748 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 30;] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 20:50:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  838 Số lượng : 1;  225 Số lượng : 102;  228 Số lượng : 57;  226 Số lượng : 44; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 20:50:05 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  838 Số lượng : 1;  225 Số lượng : 102;  228 Số lượng : 57;  226 Số lượng : 44; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : snow2002 giao dịch với nam2k9 || Time : 2022-04-11 20:50:45 || Item chuyển : [748 Số lượng : 1;907 Số lượng : 8;] Xu giao dịch :0 || Item Nhận :[ 836 Số lượng : 1; ] Xu nhận :0
+
+Name : nam2k9 giao dịch với snow2002 || Time : 2022-04-11 20:50:45 || Item chuyển : [ 836 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[748 Số lượng : 1;907 Số lượng : 8;] Xu nhận :0
+
+Name : loserrrrrrr giao dịch với loserrr || Time : 2022-04-11 20:51:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 445 Số lượng : 145;  843 Số lượng : 127;  789 Số lượng : 2;  223 Số lượng : 2;  840 Số lượng : 2;  222 Số lượng : 5;  224 Số lượng : 1;  227 Số lượng : 51; ] Xu nhận :0
+
+Name : loserrr giao dịch với loserrrrrrr || Time : 2022-04-11 20:51:43 || Item chuyển : [ 445 Số lượng : 145;  843 Số lượng : 127;  789 Số lượng : 2;  223 Số lượng : 2;  840 Số lượng : 2;  222 Số lượng : 5;  224 Số lượng : 1;  227 Số lượng : 51; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phungyeu giao dịch với tuthanvutru || Time : 2022-04-11 21:42:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 944 Số lượng : 1; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với phungyeu || Time : 2022-04-11 21:42:38 || Item chuyển : [ 944 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thu1111 giao dịch với ltsuka || Time : 2022-04-11 21:43:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 831 Số lượng : 1;  870 Số lượng : 1;  614 Số lượng : 1;  864 Số lượng : 1;  865 Số lượng : 1; ] Xu nhận :0
+
+Name : ltsuka giao dịch với thu1111 || Time : 2022-04-11 21:43:34 || Item chuyển : [ 831 Số lượng : 1;  870 Số lượng : 1;  614 Số lượng : 1;  864 Số lượng : 1;  865 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thu1111 giao dịch với ltsuki || Time : 2022-04-11 21:48:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 1; ] Xu nhận :0
+
+Name : ltsuki giao dịch với thu1111 || Time : 2022-04-11 21:48:39 || Item chuyển : [ 907 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kocanbiet giao dịch với thodeptrainhat || Time : 2022-04-11 21:53:07 || Item chuyển : [578 Số lượng : 230;577 Số lượng : 321;576 Số lượng : 183;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thodeptrainhat giao dịch với kocanbiet || Time : 2022-04-11 21:53:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[578 Số lượng : 230;577 Số lượng : 321;576 Số lượng : 183;] Xu nhận :0
+
+Name : thodeptrainhat giao dịch với kocanbiet || Time : 2022-04-11 21:53:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 780 Số lượng : 294;  524 Số lượng : 1;  647 Số lượng : 400;  545 Số lượng : 1; ] Xu nhận :0
+
+Name : kocanbiet giao dịch với thodeptrainhat || Time : 2022-04-11 21:53:42 || Item chuyển : [ 780 Số lượng : 294;  524 Số lượng : 1;  647 Số lượng : 400;  545 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với lchika || Time : 2022-04-11 21:57:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 9; ] Xu nhận :0
+
+Name : lchika giao dịch với ltsuki || Time : 2022-04-11 21:57:01 || Item chuyển : [ 907 Số lượng : 9; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với ltsuka || Time : 2022-04-11 21:57:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6; ] Xu nhận :0
+
+Name : ltsuka giao dịch với ltsuki || Time : 2022-04-11 21:57:18 || Item chuyển : [ 907 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với 0kashi || Time : 2022-04-11 21:57:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 5; ] Xu nhận :0
+
+Name : 0kashi giao dịch với ltsuki || Time : 2022-04-11 21:57:52 || Item chuyển : [ 907 Số lượng : 5; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với thu1000 || Time : 2022-04-11 21:58:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6; ] Xu nhận :0
+
+Name : thu1000 giao dịch với ltsuki || Time : 2022-04-11 21:58:06 || Item chuyển : [ 907 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với zerous || Time : 2022-04-11 21:58:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6; ] Xu nhận :0
+
+Name : zerous giao dịch với ltsuki || Time : 2022-04-11 21:58:21 || Item chuyển : [ 907 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với chican1hit || Time : 2022-04-11 21:59:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 5; ] Xu nhận :0
+
+Name : chican1hit giao dịch với ltsuki || Time : 2022-04-11 21:59:12 || Item chuyển : [ 907 Số lượng : 5; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kocanbiet giao dịch với thodeptrainhat || Time : 2022-04-11 22:02:02 || Item chuyển : [575 Số lượng : 862;656 Số lượng : 6;658 Số lượng : 6;657 Số lượng : 6;682 Số lượng : 6;659 Số lượng : 6;842 Số lượng : 6;841 Số lượng : 6;843 Số lượng : 8;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thodeptrainhat giao dịch với kocanbiet || Time : 2022-04-11 22:02:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[575 Số lượng : 862;656 Số lượng : 6;658 Số lượng : 6;657 Số lượng : 6;682 Số lượng : 6;659 Số lượng : 6;842 Số lượng : 6;841 Số lượng : 6;843 Số lượng : 8;] Xu nhận :0
+
+Name : trumpk36 giao dịch với gfadhjj || Time : 2022-04-11 22:08:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 947 Số lượng : 1;  946 Số lượng : 1; ] Xu nhận :0
+
+Name : gfadhjj giao dịch với trumpk36 || Time : 2022-04-11 22:08:03 || Item chuyển : [ 947 Số lượng : 1;  946 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 22:23:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6;  873 Số lượng : 6;  874 Số lượng : 1;  868 Số lượng : 6;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  839 Số lượng : 12;  838 Số lượng : 6;  910 Số lượng : 6; ] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 22:23:26 || Item chuyển : [ 907 Số lượng : 6;  873 Số lượng : 6;  874 Số lượng : 1;  868 Số lượng : 6;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  839 Số lượng : 12;  838 Số lượng : 6;  910 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babyboss || Time : 2022-04-11 22:28:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 842 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  839 Số lượng : 12;  907 Số lượng : 6;  838 Số lượng : 6; ] Xu nhận :0
+
+Name : babyboss giao dịch với anhthuxc || Time : 2022-04-11 22:28:37 || Item chuyển : [ 842 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  839 Số lượng : 12;  907 Số lượng : 6;  838 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-11 22:33:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :300000000
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-11 22:33:11 || Item chuyển : [] Xu giao dịch :300000000 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với babysad || Time : 2022-04-11 22:33:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 838 Số lượng : 6;  839 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  907 Số lượng : 6;  862 Số lượng : 12; ] Xu nhận :0
+
+Name : babysad giao dịch với anhthuxc || Time : 2022-04-11 22:33:16 || Item chuyển : [ 838 Số lượng : 6;  839 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  907 Số lượng : 6;  862 Số lượng : 12; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-11 22:34:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 552 Số lượng : 1;  558 Số lượng : 1;  28 Số lượng : 2162; ] Xu nhận :0
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-11 22:34:34 || Item chuyển : [ 552 Số lượng : 1;  558 Số lượng : 1;  28 Số lượng : 2162; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : taochaphet giao dịch với 1 || Time : 2022-04-11 22:41:56 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu nhận :0
+
+Name : 1 giao dịch với taochaphet || Time : 2022-04-11 22:41:56 || Item chuyển : [ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : kimlong giao dịch với kietdzno1 || Time : 2022-04-11 22:42:25 || Item chuyển : [] Xu giao dịch :500000000 || Item Nhận :[ 948 Số lượng : 1; ] Xu nhận :0
+
+Name : kietdzno1 giao dịch với kimlong || Time : 2022-04-11 22:42:25 || Item chuyển : [ 948 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :500000000
+
+Name : ngocrong giao dịch với anhthuxc || Time : 2022-04-11 22:42:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 559 Số lượng : 1;  633 Số lượng : 1; ] Xu nhận :0
+
+Name : anhthuxc giao dịch với ngocrong || Time : 2022-04-11 22:42:42 || Item chuyển : [ 559 Số lượng : 1;  633 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ltsuki giao dịch với 1 || Time : 2022-04-11 22:42:46 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu nhận :0
+
+Name : 1 giao dịch với ltsuki || Time : 2022-04-11 22:42:46 || Item chuyển : [ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : lchika giao dịch với 1 || Time : 2022-04-11 22:43:28 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu nhận :0
+
+Name : 1 giao dịch với lchika || Time : 2022-04-11 22:43:28 || Item chuyển : [ 949 Số lượng : 1;  949 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : 1 giao dịch với taochaphet || Time : 2022-04-11 22:44:00 || Item chuyển : [949 Số lượng : 1;949 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : taochaphet giao dịch với 1 || Time : 2022-04-11 22:44:00 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[949 Số lượng : 1;949 Số lượng : 1;] Xu nhận :0
+
+Name : 1 giao dịch với kimlong || Time : 2022-04-11 22:48:40 || Item chuyển : [949 Số lượng : 1;949 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : kimlong giao dịch với 1 || Time : 2022-04-11 22:48:40 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[949 Số lượng : 1;949 Số lượng : 1;] Xu nhận :0
+
+Name : songoku giao dịch với anhthuxc || Time : 2022-04-11 22:49:39 || Item chuyển : [907 Số lượng : 6;862 Số lượng : 6;839 Số lượng : 12;682 Số lượng : 6;657 Số lượng : 6;658 Số lượng : 6;659 Số lượng : 6;656 Số lượng : 6;838 Số lượng : 6;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với songoku || Time : 2022-04-11 22:49:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 6;862 Số lượng : 6;839 Số lượng : 12;682 Số lượng : 6;657 Số lượng : 6;658 Số lượng : 6;659 Số lượng : 6;656 Số lượng : 6;838 Số lượng : 6;] Xu nhận :0
+
+Name : kimlong giao dịch với 1 || Time : 2022-04-11 22:49:53 || Item chuyển : [] Xu giao dịch :1000000000 || Item Nhận :[ 949 Số lượng : 1; ] Xu nhận :0
+
+Name : 1 giao dịch với kimlong || Time : 2022-04-11 22:49:53 || Item chuyển : [ 949 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000000
+
+Name : anhthuxc giao dịch với ngocrong || Time : 2022-04-11 22:50:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 6;  838 Số lượng : 6;  839 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  862 Số lượng : 6; ] Xu nhận :0
+
+Name : ngocrong giao dịch với anhthuxc || Time : 2022-04-11 22:50:15 || Item chuyển : [ 907 Số lượng : 6;  838 Số lượng : 6;  839 Số lượng : 12;  682 Số lượng : 6;  657 Số lượng : 6;  658 Số lượng : 6;  659 Số lượng : 6;  656 Số lượng : 6;  862 Số lượng : 6; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anhthuxc giao dịch với Bé Hà || Time : 2022-04-11 22:59:37 || Item chuyển : [540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : Bé Hà giao dịch với anhthuxc || Time : 2022-04-11 22:59:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;540 Số lượng : 1;] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 23:00:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :800000000
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 23:00:36 || Item chuyển : [] Xu giao dịch :800000000 || Item Nhận :[] Xu nhận :0
+
+Name : ngocduy giao dịch với inboxmenow || Time : 2022-04-11 23:02:48 || Item chuyển : [946 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : inboxmenow giao dịch với ngocduy || Time : 2022-04-11 23:02:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[946 Số lượng : 1;] Xu nhận :0
+
+Name : giamsattinhhe giao dịch với tuthanvutru || Time : 2022-04-11 23:09:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 223 Số lượng : 8;  225 Số lượng : 11;  228 Số lượng : 12;  226 Số lượng : 12;  222 Số lượng : 12;  224 Số lượng : 12;  227 Số lượng : 12;  540 Số lượng : 1; ] Xu nhận :100000000
+
+Name : tuthanvutru giao dịch với giamsattinhhe || Time : 2022-04-11 23:09:04 || Item chuyển : [ 223 Số lượng : 8;  225 Số lượng : 11;  228 Số lượng : 12;  226 Số lượng : 12;  222 Số lượng : 12;  224 Số lượng : 12;  227 Số lượng : 12;  540 Số lượng : 1; ] Xu giao dịch :100000000 || Item Nhận :[] Xu nhận :0
+
+Name : thuxtasde giao dịch với anhthuxc || Time : 2022-04-11 23:43:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 838 Số lượng : 1;  563 Số lượng : 1; ] Xu nhận :10000
+
+Name : anhthuxc giao dịch với thuxtasde || Time : 2022-04-11 23:43:29 || Item chuyển : [ 838 Số lượng : 1;  563 Số lượng : 1; ] Xu giao dịch :10000 || Item Nhận :[] Xu nhận :0
+
+Name : trummom giao dịch với kietdzno1 || Time : 2022-04-11 23:47:35 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+
+Name : kietdzno1 giao dịch với trummom || Time : 2022-04-11 23:47:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000

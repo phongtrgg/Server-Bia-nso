@@ -1,0 +1,16 @@
+
+ Name : kietdzno1 đã tách vật phẩm || Vật phẩm tách: 841 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-04-10 15:27:01
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 578 || Số lượng vật phẩm ban đầu 1351 || Số lượng tách: 1000 || Số lượng vật phẩm sau khi tách: 351 và 1000|| Thời gian tách : 2022-04-10 21:06:38
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 577 || Số lượng vật phẩm ban đầu 1344 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 944 và 400|| Thời gian tách : 2022-04-10 21:06:48
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 577 || Số lượng vật phẩm ban đầu 944 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 544 và 400|| Thời gian tách : 2022-04-10 21:06:50
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 577 || Số lượng vật phẩm ban đầu 544 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 144 và 400|| Thời gian tách : 2022-04-10 21:06:54
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 578 || Số lượng vật phẩm ban đầu 351 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 151 và 200|| Thời gian tách : 2022-04-10 21:07:07
+
+ Name : anhthuxc đã tách vật phẩm || Vật phẩm tách: 576 || Số lượng vật phẩm ban đầu 1353 || Số lượng tách: 1000 || Số lượng vật phẩm sau khi tách: 353 và 1000|| Thời gian tách : 2022-04-10 21:07:25
+
+ Name : vipkoae đã tách vật phẩm || Vật phẩm tách: 868 || Số lượng vật phẩm ban đầu 16513 || Số lượng tách: 513 || Số lượng vật phẩm sau khi tách: 16000 và 513|| Thời gian tách : 2022-04-10 23:23:17

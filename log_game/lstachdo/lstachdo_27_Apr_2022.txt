@@ -1,0 +1,48 @@
+
+ Name : nam2k9 đã tách vật phẩm || Vật phẩm tách: 945 || Số lượng vật phẩm ban đầu 9197 || Số lượng tách: 300 || Số lượng vật phẩm sau khi tách: 8897 và 300|| Thời gian tách : 2022-04-27 00:06:13
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 868 || Số lượng vật phẩm ban đầu 10848 || Số lượng tách: 5000 || Số lượng vật phẩm sau khi tách: 5848 và 5000|| Thời gian tách : 2022-04-27 00:26:50
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 245 || Số lượng tách: 40 || Số lượng vật phẩm sau khi tách: 205 và 40|| Thời gian tách : 2022-04-27 01:37:26
+
+ Name : napgan10ty đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 94 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 90 và 4|| Thời gian tách : 2022-04-27 01:37:39
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 205 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 155 và 50|| Thời gian tách : 2022-04-27 01:39:05
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 155 || Số lượng tách: 42 || Số lượng vật phẩm sau khi tách: 113 và 42|| Thời gian tách : 2022-04-27 01:41:38
+
+ Name : s2onekills2 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 493 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 443 và 50|| Thời gian tách : 2022-04-27 12:04:50
+
+ Name : s2onekills2 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 443 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 343 và 100|| Thời gian tách : 2022-04-27 12:05:15
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 574 || Số lượng vật phẩm ban đầu 261 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 211 và 50|| Thời gian tách : 2022-04-27 12:09:14
+
+ Name : main09 đã tách vật phẩm || Vật phẩm tách: 574 || Số lượng vật phẩm ban đầu 211 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 161 và 50|| Thời gian tách : 2022-04-27 12:09:32
+
+ Name : s2onekills2 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 334 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 324 và 10|| Thời gian tách : 2022-04-27 12:17:06
+
+ Name : s2onekills2 đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 324 || Số lượng tách: 90 || Số lượng vật phẩm sau khi tách: 234 và 90|| Thời gian tách : 2022-04-27 12:17:21
+
+ Name : napgan10ty đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 90 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 80 và 10|| Thời gian tách : 2022-04-27 13:57:07
+
+ Name : napgan10ty đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 80 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 70 và 10|| Thời gian tách : 2022-04-27 13:57:31
+
+ Name : napgan10ty đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 55 || Số lượng tách: 25 || Số lượng vật phẩm sau khi tách: 30 và 25|| Thời gian tách : 2022-04-27 18:29:03
+
+ Name : hayhaycl đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 498 || Số lượng tách: 98 || Số lượng vật phẩm sau khi tách: 400 và 98|| Thời gian tách : 2022-04-27 19:02:35
+
+ Name : muahoano đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 110 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 80 và 30|| Thời gian tách : 2022-04-27 19:24:08
+
+ Name : hayhaycl đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 411 || Số lượng tách: 11 || Số lượng vật phẩm sau khi tách: 400 và 11|| Thời gian tách : 2022-04-27 19:37:09
+
+ Name : Đại Ka Tình Foxx đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 305 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 205 và 100|| Thời gian tách : 2022-04-27 20:31:00
+
+ Name : l7l7l7l7l7 đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 122 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 72 và 50|| Thời gian tách : 2022-04-27 20:58:33
+
+ Name : giggles đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 219 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 169 và 50|| Thời gian tách : 2022-04-27 22:56:10
+
+ Name : giggles đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 169 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 119 và 50|| Thời gian tách : 2022-04-27 22:56:15
+
+ Name : giggles đã tách vật phẩm || Vật phẩm tách: 262 || Số lượng vật phẩm ban đầu 119 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 69 và 50|| Thời gian tách : 2022-04-27 22:56:20
+
+ Name : mooonnn đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 25 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 15 và 10|| Thời gian tách : 2022-04-27 22:58:55

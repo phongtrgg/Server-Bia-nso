@@ -1,0 +1,12 @@
+
+ Name : nam2k9 đã tách vật phẩm || Vật phẩm tách: 862 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-04-13 02:02:55
+
+ Name : Bé Hà đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 520 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 500 và 20|| Thời gian tách : 2022-04-13 06:49:54
+
+ Name : ltsuki đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 356 || Số lượng tách: 16 || Số lượng vật phẩm sau khi tách: 340 và 16|| Thời gian tách : 2022-04-13 07:17:17
+
+ Name : ltsuki đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 340 || Số lượng tách: 15 || Số lượng vật phẩm sau khi tách: 325 và 15|| Thời gian tách : 2022-04-13 08:03:58
+
+ Name : ltsuki đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 325 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 315 và 10|| Thời gian tách : 2022-04-13 08:07:11
+
+ Name : ChiếnThần đã tách vật phẩm || Vật phẩm tách: 907 || Số lượng vật phẩm ban đầu 61 || Số lượng tách: 11 || Số lượng vật phẩm sau khi tách: 50 và 11|| Thời gian tách : 2022-04-13 13:56:03

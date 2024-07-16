@@ -1,0 +1,40 @@
+
+Name : muoidzx giao dịch với thancungbanggia || Time : 2022-05-15 15:07:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :750000000
+
+Name : thancungbanggia giao dịch với muoidzx || Time : 2022-05-15 15:07:41 || Item chuyển : [] Xu giao dịch :750000000 || Item Nhận :[] Xu nhận :0
+
+Name : lonmeadmin giao dịch với adminsoi || Time : 2022-05-15 18:30:15 || Item chuyển : [] Xu giao dịch :1800000000 || Item Nhận :[] Xu nhận :0
+
+Name : adminsoi giao dịch với lonmeadmin || Time : 2022-05-15 18:30:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1800000000
+
+Name : hanyume giao dịch với minato || Time : 2022-05-15 19:22:35 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+
+Name : minato giao dịch với hanyume || Time : 2022-05-15 19:22:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+
+Name : taotestthoy giao dịch với napgan1ty || Time : 2022-05-15 22:05:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 637 Số lượng : 1; ] Xu nhận :0
+
+Name : napgan1ty giao dịch với taotestthoy || Time : 2022-05-15 22:05:20 || Item chuyển : [ 637 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : dbrrvcl1 giao dịch với dbrrvc2 || Time : 2022-05-15 22:17:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000000
+
+Name : dbrrvc2 giao dịch với dbrrvcl1 || Time : 2022-05-15 22:17:51 || Item chuyển : [] Xu giao dịch :1000000000 || Item Nhận :[] Xu nhận :0
+
+Name : namnuu giao dịch với testgame || Time : 2022-05-15 23:23:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 596 Số lượng : 1; ] Xu nhận :0
+
+Name : testgame giao dịch với namnuu || Time : 2022-05-15 23:23:05 || Item chuyển : [ 596 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : minato giao dịch với kaguya || Time : 2022-05-15 23:40:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1100000000
+
+Name : kaguya giao dịch với minato || Time : 2022-05-15 23:40:17 || Item chuyển : [] Xu giao dịch :1100000000 || Item Nhận :[] Xu nhận :0
+
+Name : kaguya giao dịch với minato || Time : 2022-05-15 23:42:06 || Item chuyển : [] Xu giao dịch :1999000000 || Item Nhận :[] Xu nhận :0
+
+Name : minato giao dịch với kaguya || Time : 2022-05-15 23:42:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1999000000
+
+Name : kaguya1 giao dịch với minato || Time : 2022-05-15 23:46:39 || Item chuyển : [] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : minato giao dịch với kaguya1 || Time : 2022-05-15 23:46:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :2000000000
+
+Name : kaguya1 giao dịch với minato || Time : 2022-05-15 23:49:21 || Item chuyển : [] Xu giao dịch :1100000000 || Item Nhận :[] Xu nhận :0
+
+Name : minato giao dịch với kaguya1 || Time : 2022-05-15 23:49:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1100000000

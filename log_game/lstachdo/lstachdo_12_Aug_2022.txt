@@ -1,0 +1,222 @@
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 949 || Số lượng vật phẩm ban đầu 30 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 20 và 10|| Thời gian tách : 2022-08-12 00:04:29
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 2 || Số lượng vật phẩm sau khi tách: 1 và 2|| Thời gian tách : 2022-08-12 00:05:04
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 77 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 76 và 1|| Thời gian tách : 2022-08-12 00:12:33
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 76 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 75 và 1|| Thời gian tách : 2022-08-12 00:12:35
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 75 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 74 và 1|| Thời gian tách : 2022-08-12 00:12:37
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 74 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 73 và 1|| Thời gian tách : 2022-08-12 00:12:48
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 73 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 72 và 1|| Thời gian tách : 2022-08-12 00:12:50
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 72 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 71 và 1|| Thời gian tách : 2022-08-12 00:12:52
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 71 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 70 và 1|| Thời gian tách : 2022-08-12 00:12:53
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 70 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 69 và 1|| Thời gian tách : 2022-08-12 00:12:55
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 69 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 68 và 1|| Thời gian tách : 2022-08-12 00:12:56
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 68 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 67 và 1|| Thời gian tách : 2022-08-12 00:12:57
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 67 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 66 và 1|| Thời gian tách : 2022-08-12 00:12:59
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 66 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 65 và 1|| Thời gian tách : 2022-08-12 00:13:43
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 65 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 64 và 1|| Thời gian tách : 2022-08-12 00:13:44
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 64 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 63 và 1|| Thời gian tách : 2022-08-12 00:13:45
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 63 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 62 và 1|| Thời gian tách : 2022-08-12 00:13:48
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 62 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 61 và 1|| Thời gian tách : 2022-08-12 00:13:50
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 61 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 60 và 1|| Thời gian tách : 2022-08-12 00:13:52
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 60 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 59 và 1|| Thời gian tách : 2022-08-12 00:13:53
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 59 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 58 và 1|| Thời gian tách : 2022-08-12 00:13:56
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 58 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 57 và 1|| Thời gian tách : 2022-08-12 00:13:58
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 57 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 56 và 1|| Thời gian tách : 2022-08-12 00:14:11
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 56 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 55 và 1|| Thời gian tách : 2022-08-12 00:14:12
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 55 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 54 và 1|| Thời gian tách : 2022-08-12 00:14:14
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 54 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 53 và 1|| Thời gian tách : 2022-08-12 00:14:16
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 53 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 52 và 1|| Thời gian tách : 2022-08-12 00:14:17
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 52 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 51 và 1|| Thời gian tách : 2022-08-12 00:14:19
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 51 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 50 và 1|| Thời gian tách : 2022-08-12 00:14:21
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 50 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 49 và 1|| Thời gian tách : 2022-08-12 00:14:22
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 49 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 48 và 1|| Thời gian tách : 2022-08-12 00:14:23
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 48 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 47 và 1|| Thời gian tách : 2022-08-12 00:14:24
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 47 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 46 và 1|| Thời gian tách : 2022-08-12 00:14:26
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 46 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 45 và 1|| Thời gian tách : 2022-08-12 00:14:47
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 45 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 44 và 1|| Thời gian tách : 2022-08-12 00:14:49
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 44 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 43 và 1|| Thời gian tách : 2022-08-12 00:14:50
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 43 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 42 và 1|| Thời gian tách : 2022-08-12 00:14:53
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 42 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 41 và 1|| Thời gian tách : 2022-08-12 00:14:54
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 41 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 40 và 1|| Thời gian tách : 2022-08-12 00:14:56
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 40 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 39 và 1|| Thời gian tách : 2022-08-12 00:14:58
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 39 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 38 và 1|| Thời gian tách : 2022-08-12 00:15:00
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 38 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 37 và 1|| Thời gian tách : 2022-08-12 00:15:01
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 37 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 36 và 1|| Thời gian tách : 2022-08-12 00:15:03
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 36 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 35 và 1|| Thời gian tách : 2022-08-12 00:15:04
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 35 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 34 và 1|| Thời gian tách : 2022-08-12 00:15:06
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 34 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 33 và 1|| Thời gian tách : 2022-08-12 00:15:07
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 33 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 32 và 1|| Thời gian tách : 2022-08-12 00:15:10
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 32 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 31 và 1|| Thời gian tách : 2022-08-12 00:15:13
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 40 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 39 và 1|| Thời gian tách : 2022-08-12 00:15:45
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 39 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 38 và 1|| Thời gian tách : 2022-08-12 00:15:47
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 38 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 37 và 1|| Thời gian tách : 2022-08-12 00:15:48
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 37 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 36 và 1|| Thời gian tách : 2022-08-12 00:15:49
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 36 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 35 và 1|| Thời gian tách : 2022-08-12 00:15:51
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 35 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 34 và 1|| Thời gian tách : 2022-08-12 00:15:52
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 34 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 33 và 1|| Thời gian tách : 2022-08-12 00:15:55
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 33 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 32 và 1|| Thời gian tách : 2022-08-12 00:15:56
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 32 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 31 và 1|| Thời gian tách : 2022-08-12 00:15:58
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 31 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 30 và 1|| Thời gian tách : 2022-08-12 00:15:59
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 30 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 29 và 1|| Thời gian tách : 2022-08-12 00:16:00
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 29 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 28 và 1|| Thời gian tách : 2022-08-12 00:16:02
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 28 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 27 và 1|| Thời gian tách : 2022-08-12 00:16:03
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 27 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 26 và 1|| Thời gian tách : 2022-08-12 00:16:04
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 26 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 25 và 1|| Thời gian tách : 2022-08-12 00:16:06
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 25 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 24 và 1|| Thời gian tách : 2022-08-12 00:16:08
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 24 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 23 và 1|| Thời gian tách : 2022-08-12 00:16:09
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 23 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 22 và 1|| Thời gian tách : 2022-08-12 00:16:13
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 22 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 21 và 1|| Thời gian tách : 2022-08-12 00:16:14
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 21 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 20 và 1|| Thời gian tách : 2022-08-12 00:16:15
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 32 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 31 và 1|| Thời gian tách : 2022-08-12 00:17:52
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 31 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 30 và 1|| Thời gian tách : 2022-08-12 00:17:59
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 30 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 29 và 1|| Thời gian tách : 2022-08-12 00:18:01
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 29 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 28 và 1|| Thời gian tách : 2022-08-12 00:18:02
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 28 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 27 và 1|| Thời gian tách : 2022-08-12 00:18:03
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 27 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 26 và 1|| Thời gian tách : 2022-08-12 00:18:04
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 26 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 25 và 1|| Thời gian tách : 2022-08-12 00:18:05
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 25 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 24 và 1|| Thời gian tách : 2022-08-12 00:18:06
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 24 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 23 và 1|| Thời gian tách : 2022-08-12 00:18:08
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 23 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 22 và 1|| Thời gian tách : 2022-08-12 00:18:09
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 22 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 21 và 1|| Thời gian tách : 2022-08-12 00:18:10
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 21 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 20 và 1|| Thời gian tách : 2022-08-12 00:18:13
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 20 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 19 và 1|| Thời gian tách : 2022-08-12 00:18:29
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 19 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 18 và 1|| Thời gian tách : 2022-08-12 00:18:31
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2022-08-12 00:18:32
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 17 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 16 và 1|| Thời gian tách : 2022-08-12 00:18:33
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 16 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 15 và 1|| Thời gian tách : 2022-08-12 00:18:34
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2022-08-12 00:18:35
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-08-12 00:18:37
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 13 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 12 và 1|| Thời gian tách : 2022-08-12 00:18:38
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 12 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 11 và 1|| Thời gian tách : 2022-08-12 00:18:39
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-08-12 00:18:41
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 10 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9 và 1|| Thời gian tách : 2022-08-12 00:18:42
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 9 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 8 và 1|| Thời gian tách : 2022-08-12 00:18:44
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-08-12 00:18:45
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2022-08-12 00:18:53
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 17 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 16 và 1|| Thời gian tách : 2022-08-12 00:18:58
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 16 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 15 và 1|| Thời gian tách : 2022-08-12 00:18:59
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2022-08-12 00:19:01
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-08-12 00:19:05
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 13 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 12 và 1|| Thời gian tách : 2022-08-12 00:19:06
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 12 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 11 và 1|| Thời gian tách : 2022-08-12 00:19:07
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-08-12 00:19:09
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 10 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9 và 1|| Thời gian tách : 2022-08-12 00:19:10
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 9 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 8 và 1|| Thời gian tách : 2022-08-12 00:19:11
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-08-12 00:19:13
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 454 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 6 và 1|| Thời gian tách : 2022-08-12 00:19:14
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 988 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 888 và 100|| Thời gian tách : 2022-08-12 00:22:05
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 886 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 836 và 50|| Thời gian tách : 2022-08-12 00:23:09
+
+ Name : tairaxiu đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 824 || Số lượng tách: 150 || Số lượng vật phẩm sau khi tách: 674 và 150|| Thời gian tách : 2022-08-12 00:23:41
+
+ Name : sjjxhxhxhhs đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-08-12 07:43:41
+
+ Name : sjjxhxhxhhs đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-08-12 07:43:45
+
+ Name : sjjxhxhxhhs đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-08-12 07:43:49

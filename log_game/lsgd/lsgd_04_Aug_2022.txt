@@ -1,0 +1,332 @@
+
+Name : kurukun giao dịch với cavechua || Time : 2022-08-04 13:11:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1; ] Xu nhận :0
+
+Name : cavechua giao dịch với kurukun || Time : 2022-08-04 13:11:18 || Item chuyển : [ 829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với jsjsjsi || Time : 2022-08-04 13:36:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : jsjsjsi giao dịch với nhinlon || Time : 2022-08-04 13:36:32 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : ididididi giao dịch với nhinlon || Time : 2022-08-04 13:37:44 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với ididididi || Time : 2022-08-04 13:37:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : nhinlon giao dịch với uididid || Time : 2022-08-04 13:46:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : uididid giao dịch với nhinlon || Time : 2022-08-04 13:46:51 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với iididid || Time : 2022-08-04 13:54:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : iididid giao dịch với nhinlon || Time : 2022-08-04 13:54:47 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : jdjdjddd giao dịch với nhinlon || Time : 2022-08-04 13:59:06 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với jdjdjddd || Time : 2022-08-04 13:59:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : hdhdjjd giao dịch với nhinlon || Time : 2022-08-04 14:02:37 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với hdhdjjd || Time : 2022-08-04 14:02:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : jdjdjdjjd giao dịch với nhinlon || Time : 2022-08-04 14:05:19 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với jdjdjdjjd || Time : 2022-08-04 14:05:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : kkskosos giao dịch với nhinlon || Time : 2022-08-04 14:07:22 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với kkskosos || Time : 2022-08-04 14:07:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : jdjdidif giao dịch với nhinlon || Time : 2022-08-04 14:08:57 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : nhinlon giao dịch với jdjdidif || Time : 2022-08-04 14:08:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : vddhddcd giao dịch với sutrolai || Time : 2022-08-04 15:23:17 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhddcd || Time : 2022-08-04 15:23:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : akyang1 giao dịch với akyang || Time : 2022-08-04 15:23:43 || Item chuyển : [917 Số lượng : 5000;874 Số lượng : 1593;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : akyang giao dịch với akyang1 || Time : 2022-08-04 15:23:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[917 Số lượng : 5000;874 Số lượng : 1593;] Xu nhận :0
+
+Name : vddhddc giao dịch với sutrolai || Time : 2022-08-04 15:24:57 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhddc || Time : 2022-08-04 15:24:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : vddhddr giao dịch với sutrolai || Time : 2022-08-04 15:27:28 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhddr || Time : 2022-08-04 15:27:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : akyang2 giao dịch với akyang || Time : 2022-08-04 15:28:16 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : akyang giao dịch với akyang2 || Time : 2022-08-04 15:28:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : vddhddrf giao dịch với sutrolai || Time : 2022-08-04 15:29:04 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhddrf || Time : 2022-08-04 15:29:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : vddhddri giao dịch với sutrolai || Time : 2022-08-04 15:30:36 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhddri || Time : 2022-08-04 15:30:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhdfx giao dịch với sutrolai || Time : 2022-08-04 15:31:59 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhdfx || Time : 2022-08-04 15:31:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhdfxi giao dịch với sutrolai || Time : 2022-08-04 15:33:20 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhdfxi || Time : 2022-08-04 15:33:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhdfc giao dịch với sutrolai || Time : 2022-08-04 15:34:32 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhdfc || Time : 2022-08-04 15:34:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhv33 giao dịch với sutrolai || Time : 2022-08-04 15:35:58 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv33 || Time : 2022-08-04 15:35:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : akyang giao dịch với akyang3 || Time : 2022-08-04 15:36:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 868 Số lượng : 1620; ] Xu nhận :0
+
+Name : akyang3 giao dịch với akyang || Time : 2022-08-04 15:36:59 || Item chuyển : [ 868 Số lượng : 1620; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vddhv11 giao dịch với sutrolai || Time : 2022-08-04 15:37:40 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv11 || Time : 2022-08-04 15:37:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : kaydee giao dịch với kaydee1 || Time : 2022-08-04 15:38:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : kaydee1 giao dịch với kaydee || Time : 2022-08-04 15:38:47 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vddhv11d giao dịch với sutrolai || Time : 2022-08-04 15:39:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv11d || Time : 2022-08-04 15:39:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : vddhv11d giao dịch với sutrolai || Time : 2022-08-04 15:39:16 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv11d || Time : 2022-08-04 15:39:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhv11df giao dịch với sutrolai || Time : 2022-08-04 15:40:27 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv11df || Time : 2022-08-04 15:40:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vddhv1144 giao dịch với sutrolai || Time : 2022-08-04 15:41:36 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : sutrolai giao dịch với vddhv1144 || Time : 2022-08-04 15:41:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : mutwwu giao dịch với caychaylentop || Time : 2022-08-04 15:41:38 || Item chuyển : [868 Số lượng : 1000;868 Số lượng : 300;868 Số lượng : 200;868 Số lượng : 10;868 Số lượng : 2;868 Số lượng : 100;868 Số lượng : 10;868 Số lượng : 5;868 Số lượng : 1;868 Số lượng : 1;868 Số lượng : 1;868 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với mutwwu || Time : 2022-08-04 15:41:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[868 Số lượng : 1000;868 Số lượng : 300;868 Số lượng : 200;868 Số lượng : 10;868 Số lượng : 2;868 Số lượng : 100;868 Số lượng : 10;868 Số lượng : 5;868 Số lượng : 1;868 Số lượng : 1;868 Số lượng : 1;868 Số lượng : 1;] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwgwhw || Time : 2022-08-04 15:44:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : wtwwgwhw giao dịch với caychaylentop || Time : 2022-08-04 15:44:20 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwgwhwj || Time : 2022-08-04 15:46:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : wtwwgwhwj giao dịch với caychaylentop || Time : 2022-08-04 15:46:12 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với enemayazai || Time : 2022-08-04 15:47:16 || Item chuyển : [584 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1000000
+
+Name : enemayazai giao dịch với vip01ninja || Time : 2022-08-04 15:47:16 || Item chuyển : [] Xu giao dịch :1000000 || Item Nhận :[584 Số lượng : 1;] Xu nhận :0
+
+Name : wtwwgwhwjjt giao dịch với caychaylentop || Time : 2022-08-04 15:48:37 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwgwhwjjt || Time : 2022-08-04 15:48:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : kimdantang8 giao dịch với lv1111 || Time : 2022-08-04 15:48:37 || Item chuyển : [] Xu giao dịch :80600000 || Item Nhận :[] Xu nhận :0
+
+Name : lv1111 giao dịch với kimdantang8 || Time : 2022-08-04 15:48:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80600000
+
+Name : lv1111 giao dịch với kimdantang8 || Time : 2022-08-04 15:49:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1050000
+
+Name : kimdantang8 giao dịch với lv1111 || Time : 2022-08-04 15:49:20 || Item chuyển : [] Xu giao dịch :1050000 || Item Nhận :[] Xu nhận :0
+
+Name : trumbosss giao dịch với sutrolai || Time : 2022-08-04 15:49:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 868 Số lượng : 2000;  874 Số lượng : 11999;  868 Số lượng : 5000; ] Xu nhận :0
+
+Name : sutrolai giao dịch với trumbosss || Time : 2022-08-04 15:49:59 || Item chuyển : [ 868 Số lượng : 2000;  874 Số lượng : 11999;  868 Số lượng : 5000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwgwhwjjtt || Time : 2022-08-04 15:50:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : wtwwgwhwjjtt giao dịch với caychaylentop || Time : 2022-08-04 15:50:27 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : lv1111 giao dịch với kimdantang9 || Time : 2022-08-04 15:51:20 || Item chuyển : [] Xu giao dịch :163237000 || Item Nhận :[] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv1111 || Time : 2022-08-04 15:51:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :163237000
+
+Name : wtwwgwhwjjttj giao dịch với caychaylentop || Time : 2022-08-04 15:52:43 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwgwhwjjttj || Time : 2022-08-04 15:52:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : kaydee giao dịch với ptkgjj || Time : 2022-08-04 15:53:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : ptkgjj giao dịch với kaydee || Time : 2022-08-04 15:53:22 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : kaydee giao dịch với ptkgjjt || Time : 2022-08-04 15:54:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : ptkgjjt giao dịch với kaydee || Time : 2022-08-04 15:54:42 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : wtwwwhwjjttj giao dịch với caychaylentop || Time : 2022-08-04 15:55:16 || Item chuyển : [] Xu giao dịch :81460000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwwhwjjttj || Time : 2022-08-04 15:55:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81460000
+
+Name : kaydee giao dịch với ptkgpm || Time : 2022-08-04 15:56:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : ptkgpm giao dịch với kaydee || Time : 2022-08-04 15:56:04 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : wtwwwhwjjttjj giao dịch với caychaylentop || Time : 2022-08-04 15:57:27 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwwhwjjttjj || Time : 2022-08-04 15:57:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : ptkgpa giao dịch với kaydee || Time : 2022-08-04 15:57:41 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : kaydee giao dịch với ptkgpa || Time : 2022-08-04 15:57:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : kimdantang9 giao dịch với lv11111 || Time : 2022-08-04 15:58:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : lv11111 giao dịch với kimdantang9 || Time : 2022-08-04 15:58:34 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : kaydee giao dịch với ptkgpj || Time : 2022-08-04 15:59:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : ptkgpj giao dịch với kaydee || Time : 2022-08-04 15:59:43 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với wtwwwhwjjttjjj || Time : 2022-08-04 15:59:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81640000
+
+Name : wtwwwhwjjttjjj giao dịch với caychaylentop || Time : 2022-08-04 15:59:52 || Item chuyển : [] Xu giao dịch :81640000 || Item Nhận :[] Xu nhận :0
+
+Name : cailoncatk giao dịch với tieubach || Time : 2022-08-04 16:00:10 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : tieubach giao dịch với cailoncatk || Time : 2022-08-04 16:00:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : lv22222 giao dịch với kimdantang9 || Time : 2022-08-04 16:00:33 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv22222 || Time : 2022-08-04 16:00:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : tieubach giao dịch với anlonk || Time : 2022-08-04 16:01:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80150000
+
+Name : anlonk giao dịch với tieubach || Time : 2022-08-04 16:01:11 || Item chuyển : [] Xu giao dịch :80150000 || Item Nhận :[] Xu nhận :0
+
+Name : mngmtpmt giao dịch với caychaylentop || Time : 2022-08-04 16:02:01 || Item chuyển : [] Xu giao dịch :81648640 || Item Nhận :[] Xu nhận :0
+
+Name : caychaylentop giao dịch với mngmtpmt || Time : 2022-08-04 16:02:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81648640
+
+Name : tansat1s giao dịch với tansat99 || Time : 2022-08-04 16:02:27 || Item chuyển : [868 Số lượng : 557;868 Số lượng : 200;540 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tansat99 giao dịch với tansat1s || Time : 2022-08-04 16:02:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[868 Số lượng : 557;868 Số lượng : 200;540 Số lượng : 1;] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv8888 || Time : 2022-08-04 16:04:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : lv8888 giao dịch với kimdantang9 || Time : 2022-08-04 16:04:19 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : tieubach giao dịch với babycuto || Time : 2022-08-04 16:04:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 874 Số lượng : 1; ] Xu nhận :81600000
+
+Name : babycuto giao dịch với tieubach || Time : 2022-08-04 16:04:24 || Item chuyển : [ 874 Số lượng : 1; ] Xu giao dịch :81600000 || Item Nhận :[] Xu nhận :0
+
+Name : lv2222 giao dịch với kimdantang9 || Time : 2022-08-04 16:05:24 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv2222 || Time : 2022-08-04 16:05:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : babycutobu giao dịch với tieubach || Time : 2022-08-04 16:07:06 || Item chuyển : [874 Số lượng : 1595;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tieubach giao dịch với babycutobu || Time : 2022-08-04 16:07:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[874 Số lượng : 1595;] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv88889 || Time : 2022-08-04 16:07:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : lv88889 giao dịch với kimdantang9 || Time : 2022-08-04 16:07:18 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : kimdantang9 giao dịch với lv88880 || Time : 2022-08-04 16:09:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81650000
+
+Name : lv88880 giao dịch với kimdantang9 || Time : 2022-08-04 16:09:57 || Item chuyển : [] Xu giao dịch :81650000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với jdkdlx || Time : 2022-08-04 16:21:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81500000
+
+Name : jdkdlx giao dịch với vip01ninja || Time : 2022-08-04 16:21:46 || Item chuyển : [] Xu giao dịch :81500000 || Item Nhận :[] Xu nhận :0
+
+Name : jdkdlxv giao dịch với vip01ninja || Time : 2022-08-04 16:24:23 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với jdkdlxv || Time : 2022-08-04 16:24:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : jdkdlxvc giao dịch với vip01ninja || Time : 2022-08-04 16:26:08 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với jdkdlxvc || Time : 2022-08-04 16:26:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : dsaaadd giao dịch với tansat99 || Time : 2022-08-04 16:27:23 || Item chuyển : [874 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tansat99 giao dịch với dsaaadd || Time : 2022-08-04 16:27:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[874 Số lượng : 1;] Xu nhận :0
+
+Name : covid19 giao dịch với vip01ninja || Time : 2022-08-04 16:27:52 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với covid19 || Time : 2022-08-04 16:27:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : dsaaadd giao dịch với tansat99 || Time : 2022-08-04 16:28:20 || Item chuyển : [874 Số lượng : 300;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tansat99 giao dịch với dsaaadd || Time : 2022-08-04 16:28:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[874 Số lượng : 300;] Xu nhận :0
+
+Name : anmayq giao dịch với thieugia || Time : 2022-08-04 16:29:04 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với anmayq || Time : 2022-08-04 16:29:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : dsaaadd giao dịch với tansat99 || Time : 2022-08-04 16:31:07 || Item chuyển : [868 Số lượng : 500;868 Số lượng : 500;868 Số lượng : 100;868 Số lượng : 100;868 Số lượng : 100;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tansat99 giao dịch với dsaaadd || Time : 2022-08-04 16:31:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[868 Số lượng : 500;868 Số lượng : 500;868 Số lượng : 100;868 Số lượng : 100;868 Số lượng : 100;] Xu nhận :0
+
+Name : anmayqa giao dịch với thieugia || Time : 2022-08-04 16:34:02 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với anmayqa || Time : 2022-08-04 16:34:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : thieugia giao dịch với anmajl || Time : 2022-08-04 17:01:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : anmajl giao dịch với thieugia || Time : 2022-08-04 17:01:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : clone001 giao dịch với cuchuoi || Time : 2022-08-04 17:01:44 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : cuchuoi giao dịch với clone001 || Time : 2022-08-04 17:01:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : anmajl giao dịch với thieugia || Time : 2022-08-04 17:01:45 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với anmajl || Time : 2022-08-04 17:01:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : sassuke giao dịch với sasjss || Time : 2022-08-04 17:02:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : sasjss giao dịch với sassuke || Time : 2022-08-04 17:02:42 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với anmajlk || Time : 2022-08-04 17:04:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : anmajlk giao dịch với thieugia || Time : 2022-08-04 17:04:00 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : clone002 giao dịch với cuchuoi || Time : 2022-08-04 17:04:12 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : cuchuoi giao dịch với clone002 || Time : 2022-08-04 17:04:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : thieugia giao dịch với amajlk || Time : 2022-08-04 17:05:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : amajlk giao dịch với thieugia || Time : 2022-08-04 17:05:20 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : dsoxks giao dịch với vip01ninja || Time : 2022-08-04 17:05:54 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với dsoxks || Time : 2022-08-04 17:05:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : sasjssc giao dịch với sassuke || Time : 2022-08-04 17:05:56 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : sassuke giao dịch với sasjssc || Time : 2022-08-04 17:05:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : amajl1 giao dịch với thieugia || Time : 2022-08-04 17:06:39 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với amajl1 || Time : 2022-08-04 17:06:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : akxkks giao dịch với vip01ninja || Time : 2022-08-04 17:07:45 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : vip01ninja giao dịch với akxkks || Time : 2022-08-04 17:07:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : sassuke giao dịch với sasjsscz || Time : 2022-08-04 17:07:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :81000000
+
+Name : sasjsscz giao dịch với sassuke || Time : 2022-08-04 17:07:56 || Item chuyển : [] Xu giao dịch :81000000 || Item Nhận :[] Xu nhận :0
+
+Name : amajl1u giao dịch với thieugia || Time : 2022-08-04 17:08:27 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với amajl1u || Time : 2022-08-04 17:08:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : vip01ninja giao dịch với akxkksg || Time : 2022-08-04 17:09:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : akxkksg giao dịch với vip01ninja || Time : 2022-08-04 17:09:30 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : amajl1ui giao dịch với thieugia || Time : 2022-08-04 17:09:46 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : thieugia giao dịch với amajl1ui || Time : 2022-08-04 17:09:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000

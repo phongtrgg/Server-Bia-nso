@@ -1,0 +1,102 @@
+
+ Name : liooil đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 00:07:19
+
+ Name : liooil đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 00:11:41
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 303 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 00:36:52
+
+ Name : daica49 đã tách vật phẩm || Vật phẩm tách: 772 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-05-10 00:39:51
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 11 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 10 và 1|| Thời gian tách : 2022-05-10 01:00:53
+
+ Name : 1choc1be đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-05-10 01:14:17
+
+ Name : 1choc1be đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-05-10 01:14:54
+
+ Name : clonegiudo đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 30 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 29 và 1|| Thời gian tách : 2022-05-10 05:16:32
+
+ Name : daica49 đã tách vật phẩm || Vật phẩm tách: 695 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 2 || Số lượng vật phẩm sau khi tách: 3 và 2|| Thời gian tách : 2022-05-10 06:41:01
+
+ Name : yhocbotay đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 900 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 800 và 100|| Thời gian tách : 2022-05-10 08:30:59
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 10 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 9 và 1|| Thời gian tách : 2022-05-10 08:54:02
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 9 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 8 và 1|| Thời gian tách : 2022-05-10 08:54:07
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-05-10 08:54:13
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 6 và 1|| Thời gian tách : 2022-05-10 08:54:16
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-05-10 08:54:21
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-05-10 08:54:25
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 08:54:35
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-05-10 08:54:40
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 08:54:52
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 08:57:20
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-05-10 08:57:25
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 08:57:32
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-05-10 09:02:32
+
+ Name : hahavcl đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 1180 || Số lượng tách: 500 || Số lượng vật phẩm sau khi tách: 680 và 500|| Thời gian tách : 2022-05-10 10:03:17
+
+ Name : daica49 đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 10:22:50
+
+ Name : hahavcl đã tách vật phẩm || Vật phẩm tách: 743 || Số lượng vật phẩm ban đầu 1180 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 780 và 400|| Thời gian tách : 2022-05-10 10:23:29
+
+ Name : 1love1life đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-05-10 11:49:31
+
+ Name : 1love1life đã tách vật phẩm || Vật phẩm tách: 584 || Số lượng vật phẩm ban đầu 33 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 32 và 1|| Thời gian tách : 2022-05-10 11:51:40
+
+ Name : 1love1life đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 2 || Số lượng vật phẩm sau khi tách: 1 và 2|| Thời gian tách : 2022-05-10 11:51:52
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 12:21:06
+
+ Name : thufuho đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 1000 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 900 và 100|| Thời gian tách : 2022-05-10 12:22:07
+
+ Name : thufuho đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 900 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 800 và 100|| Thời gian tách : 2022-05-10 12:22:32
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 12:22:40
+
+ Name : thufuho đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 800 || Số lượng tách: 300 || Số lượng vật phẩm sau khi tách: 500 và 300|| Thời gian tách : 2022-05-10 12:22:51
+
+ Name : thufuho đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 12:23:00
+
+ Name : gamenhubuoi đã tách vật phẩm || Vật phẩm tách: 596 || Số lượng vật phẩm ban đầu 91 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 61 và 30|| Thời gian tách : 2022-05-10 14:22:22
+
+ Name : sadboizz đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-05-10 14:38:21
+
+ Name : sadboizz đã tách vật phẩm || Vật phẩm tách: 427 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 14:46:34
+
+ Name : babysark đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 734 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 634 và 100|| Thời gian tách : 2022-05-10 15:34:15
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-05-10 16:52:23
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-05-10 16:52:32
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 16:52:36
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-05-10 16:52:41
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 16:52:45
+
+ Name : twilight đã tách vật phẩm || Vật phẩm tách: 773 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 16:55:53
+
+ Name : vanitas đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 17:26:57
+
+ Name : clonevip đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 6 và 1|| Thời gian tách : 2022-05-10 17:27:08
+
+ Name : vanitas đã tách vật phẩm || Vật phẩm tách: 587 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 17:27:35
+
+ Name : vanitas đã tách vật phẩm || Vật phẩm tách: 588 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-05-10 17:31:53
+
+ Name : hoangbjp96 đã tách vật phẩm || Vật phẩm tách: 585 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-05-10 19:16:48
+
+ Name : sadgirl đã tách vật phẩm || Vật phẩm tách: 947 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-05-10 19:18:19

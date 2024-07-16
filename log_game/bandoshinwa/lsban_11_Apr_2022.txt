@@ -1,0 +1,126 @@
+
+Name : anhthuxc bán đồ vào Shinwa   || Time : 2022-04-11 00:10:01 || Giá bán :20000000 || Vật phẩm bán :359 || Số lượng vật phẩm bán : 1
+
+Name : anhthuxc bán đồ vào Shinwa   || Time : 2022-04-11 00:10:11 || Giá bán :20000000 || Vật phẩm bán :356 || Số lượng vật phẩm bán : 1
+
+Name : anhthuxc bán đồ vào Shinwa   || Time : 2022-04-11 00:10:22 || Giá bán :20000000 || Vật phẩm bán :374 || Số lượng vật phẩm bán : 1
+
+Name : anhthuxc bán đồ vào Shinwa   || Time : 2022-04-11 00:10:31 || Giá bán :20000000 || Vật phẩm bán :357 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 00:23:39 || Giá bán :10000000 || Vật phẩm bán :643 || Số lượng vật phẩm bán : 120
+
+Name : kocanbiet bán đồ vào Shinwa   || Time : 2022-04-11 00:47:27 || Giá bán :999999999 || Vật phẩm bán :457 || Số lượng vật phẩm bán : 1
+
+Name : leninn bán đồ vào Shinwa   || Time : 2022-04-11 01:25:00 || Giá bán :12345678 || Vật phẩm bán :643 || Số lượng vật phẩm bán : 120
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 04:15:52 || Giá bán :15000000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 04:16:13 || Giá bán :15000000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 04:16:35 || Giá bán :15000000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 04:16:53 || Giá bán :15000000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : 1loikiem bán đồ vào Shinwa   || Time : 2022-04-11 05:37:55 || Giá bán :5555123 || Vật phẩm bán :524 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 07:20:03 || Giá bán :10000000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 07:20:16 || Giá bán :10000000 || Vật phẩm bán :487 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 07:20:36 || Giá bán :10000000 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 07:21:03 || Giá bán :10000000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : snow2002 bán đồ vào Shinwa   || Time : 2022-04-11 07:21:21 || Giá bán :10000000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:44:07 || Giá bán :10000000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:44:21 || Giá bán :10000000 || Vật phẩm bán :488 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:44:33 || Giá bán :10000000 || Vật phẩm bán :488 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:44:46 || Giá bán :10000000 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:45:01 || Giá bán :10000000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:45:13 || Giá bán :10000000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:45:24 || Giá bán :10000000 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : bowonehit bán đồ vào Shinwa   || Time : 2022-04-11 07:45:36 || Giá bán :10000000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : kunai01 bán đồ vào Shinwa   || Time : 2022-04-11 08:43:28 || Giá bán :55000000 || Vật phẩm bán :560 || Số lượng vật phẩm bán : 1
+
+Name : kunai01 bán đồ vào Shinwa   || Time : 2022-04-11 08:43:39 || Giá bán :55000000 || Vật phẩm bán :560 || Số lượng vật phẩm bán : 1
+
+Name : kunai01 bán đồ vào Shinwa   || Time : 2022-04-11 08:43:55 || Giá bán :60000000 || Vật phẩm bán :559 || Số lượng vật phẩm bán : 1
+
+Name : kunai01 bán đồ vào Shinwa   || Time : 2022-04-11 08:44:07 || Giá bán :55000000 || Vật phẩm bán :561 || Số lượng vật phẩm bán : 1
+
+Name : kunai01 bán đồ vào Shinwa   || Time : 2022-04-11 08:44:17 || Giá bán :55000000 || Vật phẩm bán :562 || Số lượng vật phẩm bán : 1
+
+Name : loserrr bán đồ vào Shinwa   || Time : 2022-04-11 09:18:21 || Giá bán :25000000 || Vật phẩm bán :832 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 09:40:29 || Giá bán :33333333 || Vật phẩm bán :488 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 09:40:39 || Giá bán :33333333 || Vật phẩm bán :487 || Số lượng vật phẩm bán : 1
+
+Name : loserrr bán đồ vào Shinwa   || Time : 2022-04-11 10:13:56 || Giá bán :10000000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 10:23:21 || Giá bán :33333333 || Vật phẩm bán :489 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 10:23:32 || Giá bán :33333333 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 11:24:27 || Giá bán :33333333 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 11:24:37 || Giá bán :33333333 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : tuthanvutru bán đồ vào Shinwa   || Time : 2022-04-11 11:24:47 || Giá bán :33333333 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : loserrr bán đồ vào Shinwa   || Time : 2022-04-11 17:42:26 || Giá bán :10000000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : loserrr bán đồ vào Shinwa   || Time : 2022-04-11 17:42:48 || Giá bán :5000000 || Vật phẩm bán :547 || Số lượng vật phẩm bán : 1
+
+Name : loserrr bán đồ vào Shinwa   || Time : 2022-04-11 17:43:02 || Giá bán :5000000 || Vật phẩm bán :547 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 17:59:19 || Giá bán :25000000 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 17:59:33 || Giá bán :25000000 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 17:59:46 || Giá bán :25000000 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:00:00 || Giá bán :25000000 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:00:12 || Giá bán :25000000 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:00:25 || Giá bán :29999999 || Vật phẩm bán :829 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:00:40 || Giá bán :29999999 || Vật phẩm bán :540 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:00:57 || Giá bán :29999999 || Vật phẩm bán :829 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:01:16 || Giá bán :29999999 || Vật phẩm bán :829 || Số lượng vật phẩm bán : 1
+
+Name : suyouke bán đồ vào Shinwa   || Time : 2022-04-11 18:01:29 || Giá bán :999999 || Vật phẩm bán :454 || Số lượng vật phẩm bán : 1
+
+Name : phungyeu bán đồ vào Shinwa   || Time : 2022-04-11 18:17:52 || Giá bán :1000000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : phungyeu bán đồ vào Shinwa   || Time : 2022-04-11 18:18:04 || Giá bán :1000000 || Vật phẩm bán :283 || Số lượng vật phẩm bán : 1
+
+Name : yeuxoac bán đồ vào Shinwa   || Time : 2022-04-11 19:12:40 || Giá bán :500000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : yeuxoac bán đồ vào Shinwa   || Time : 2022-04-11 19:12:54 || Giá bán :500000 || Vật phẩm bán :439 || Số lượng vật phẩm bán : 1
+
+Name : yeuxoac bán đồ vào Shinwa   || Time : 2022-04-11 19:13:15 || Giá bán :1000000 || Vật phẩm bán :384 || Số lượng vật phẩm bán : 1
+
+Name : yeuxoac bán đồ vào Shinwa   || Time : 2022-04-11 19:13:26 || Giá bán :1000000 || Vật phẩm bán :575 || Số lượng vật phẩm bán : 379
+
+Name : phungyeu bán đồ vào Shinwa   || Time : 2022-04-11 19:17:26 || Giá bán :10000000 || Vật phẩm bán :370 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 22:20:19 || Giá bán :5000000 || Vật phẩm bán :441 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 22:20:38 || Giá bán :5000000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 22:20:51 || Giá bán :5000000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1
+
+Name : horamau bán đồ vào Shinwa   || Time : 2022-04-11 22:21:05 || Giá bán :5000000 || Vật phẩm bán :486 || Số lượng vật phẩm bán : 1

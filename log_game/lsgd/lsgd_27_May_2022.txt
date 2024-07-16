@@ -1,0 +1,564 @@
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 00:01:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 443 Số lượng : 1;  443 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  780 Số lượng : 109; ] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 00:01:24 || Item chuyển : [ 443 Số lượng : 1;  443 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  780 Số lượng : 109; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 00:03:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 575 Số lượng : 600; ] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 00:03:48 || Item chuyển : [ 575 Số lượng : 600; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh1 || Time : 2022-05-27 00:06:04 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh1 giao dịch với aduduu || Time : 2022-05-27 00:06:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : bossday giao dịch với sida110 || Time : 2022-05-27 00:12:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 199; ] Xu nhận :0
+
+Name : sida110 giao dịch với bossday || Time : 2022-05-27 00:12:16 || Item chuyển : [ 457 Số lượng : 199; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumboss giao dịch với bossday || Time : 2022-05-27 00:12:59 || Item chuyển : [457 Số lượng : 153;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bossday giao dịch với trumboss || Time : 2022-05-27 00:12:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 153;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : becoi88 giao dịch với bossday || Time : 2022-05-27 00:13:41 || Item chuyển : [457 Số lượng : 215;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bossday giao dịch với becoi88 || Time : 2022-05-27 00:13:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 215;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;] Xu nhận :0
+
+Name : bossday giao dịch với trumdatbac || Time : 2022-05-27 00:14:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 1;  457 Số lượng : 262; ] Xu nhận :0
+
+Name : trumdatbac giao dịch với bossday || Time : 2022-05-27 00:14:20 || Item chuyển : [ 457 Số lượng : 1;  457 Số lượng : 262; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumhuce giao dịch với co1khong2 || Time : 2022-05-27 00:39:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 524 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  443 Số lượng : 1;  443 Số lượng : 1; ] Xu nhận :0
+
+Name : co1khong2 giao dịch với trumhuce || Time : 2022-05-27 00:39:40 || Item chuyển : [ 524 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  485 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  443 Số lượng : 1;  443 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bossday giao dịch với chum88 || Time : 2022-05-27 01:06:17 || Item chuyển : [1003 Số lượng : 966;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chum88 giao dịch với bossday || Time : 2022-05-27 01:06:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 966;] Xu nhận :0
+
+Name : bossday giao dịch với chum88 || Time : 2022-05-27 01:07:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 100; ] Xu nhận :0
+
+Name : chum88 giao dịch với bossday || Time : 2022-05-27 01:07:09 || Item chuyển : [ 1003 Số lượng : 100; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : bossday giao dịch với chum88 || Time : 2022-05-27 01:07:51 || Item chuyển : [1008 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chum88 giao dịch với bossday || Time : 2022-05-27 01:07:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1008 Số lượng : 1;] Xu nhận :0
+
+Name : 1choc1be giao dịch với co1khong2 || Time : 2022-05-27 01:12:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 743 Số lượng : 198; ] Xu nhận :0
+
+Name : co1khong2 giao dịch với 1choc1be || Time : 2022-05-27 01:12:40 || Item chuyển : [ 743 Số lượng : 198; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nhantien giao dịch với chum88 || Time : 2022-05-27 01:16:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 968 Số lượng : 1;  969 Số lượng : 1; ] Xu nhận :0
+
+Name : chum88 giao dịch với nhantien || Time : 2022-05-27 01:16:21 || Item chuyển : [ 968 Số lượng : 1;  969 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh1 || Time : 2022-05-27 01:17:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 20;  987 Số lượng : 873;  639 Số lượng : 892;  780 Số lượng : 32;  454 Số lượng : 33; ] Xu nhận :0
+
+Name : fgnaoh1 giao dịch với aduduu || Time : 2022-05-27 01:17:33 || Item chuyển : [ 1003 Số lượng : 20;  987 Số lượng : 873;  639 Số lượng : 892;  780 Số lượng : 32;  454 Số lượng : 33; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chum88 giao dịch với sida110 || Time : 2022-05-27 01:24:16 || Item chuyển : [1003 Số lượng : 90;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : sida110 giao dịch với chum88 || Time : 2022-05-27 01:24:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 90;] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 05:41:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 5; ] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 05:41:12 || Item chuyển : [ 993 Số lượng : 5; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 05:55:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 188;  457 Số lượng : 156; ] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 05:55:11 || Item chuyển : [ 454 Số lượng : 188;  457 Số lượng : 156; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 05:55:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 451; ] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 05:55:47 || Item chuyển : [ 993 Số lượng : 451; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 05:56:17 || Item chuyển : [993 Số lượng : 451;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 05:56:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[993 Số lượng : 451;] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 05:59:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 15; ] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 05:59:52 || Item chuyển : [ 993 Số lượng : 15; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh giao dịch với kiemrhd || Time : 2022-05-27 06:09:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 998 Số lượng : 519;  997 Số lượng : 472;  1001 Số lượng : 519;  996 Số lượng : 483;  999 Số lượng : 547;  1000 Số lượng : 482;  1002 Số lượng : 458;  603 Số lượng : 176;  598 Số lượng : 491;  987 Số lượng : 525;  639 Số lượng : 501; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với fgnaoh || Time : 2022-05-27 06:09:58 || Item chuyển : [ 998 Số lượng : 519;  997 Số lượng : 472;  1001 Số lượng : 519;  996 Số lượng : 483;  999 Số lượng : 547;  1000 Số lượng : 482;  1002 Số lượng : 458;  603 Số lượng : 176;  598 Số lượng : 491;  987 Số lượng : 525;  639 Số lượng : 501; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumquat giao dịch với fgnaoh || Time : 2022-05-27 06:10:58 || Item chuyển : [1000 Số lượng : 465;598 Số lượng : 430;1001 Số lượng : 451;639 Số lượng : 439;996 Số lượng : 416;998 Số lượng : 414;987 Số lượng : 421;1002 Số lượng : 451;999 Số lượng : 451;997 Số lượng : 459;603 Số lượng : 171;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh giao dịch với trumquat || Time : 2022-05-27 06:10:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1000 Số lượng : 465;598 Số lượng : 430;1001 Số lượng : 451;639 Số lượng : 439;996 Số lượng : 416;998 Số lượng : 414;987 Số lượng : 421;1002 Số lượng : 451;999 Số lượng : 451;997 Số lượng : 459;603 Số lượng : 171;] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 06:12:03 || Item chuyển : [603 Số lượng : 610;639 Số lượng : 1763;987 Số lượng : 1796;598 Số lượng : 1776;999 Số lượng : 630;1001 Số lượng : 428;998 Số lượng : 611;997 Số lượng : 435;1002 Số lượng : 792;1000 Số lượng : 509;996 Số lượng : 454;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 06:12:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 610;639 Số lượng : 1763;987 Số lượng : 1796;598 Số lượng : 1776;999 Số lượng : 630;1001 Số lượng : 428;998 Số lượng : 611;997 Số lượng : 435;1002 Số lượng : 792;1000 Số lượng : 509;996 Số lượng : 454;] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 06:12:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 998 Số lượng : 1789;  997 Số lượng : 1649;  999 Số lượng : 1831;  1000 Số lượng : 1742;  1001 Số lượng : 1587;  1002 Số lượng : 1940;  996 Số lượng : 1557; ] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 06:12:45 || Item chuyển : [ 998 Số lượng : 1789;  997 Số lượng : 1649;  999 Số lượng : 1831;  1000 Số lượng : 1742;  1001 Số lượng : 1587;  1002 Số lượng : 1940;  996 Số lượng : 1557; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 06:13:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 998 Số lượng : 790;  997 Số lượng : 650;  999 Số lượng : 832;  1000 Số lượng : 743;  1001 Số lượng : 588;  1002 Số lượng : 941;  996 Số lượng : 558; ] Xu nhận :20000000
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 06:13:29 || Item chuyển : [ 998 Số lượng : 790;  997 Số lượng : 650;  999 Số lượng : 832;  1000 Số lượng : 743;  1001 Số lượng : 588;  1002 Số lượng : 941;  996 Số lượng : 558; ] Xu giao dịch :20000000 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 06:14:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :80000000
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 06:14:00 || Item chuyển : [] Xu giao dịch :80000000 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 06:41:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 91; ] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 06:41:02 || Item chuyển : [ 993 Số lượng : 91; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 07:26:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 6;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 07:26:51 || Item chuyển : [ 454 Số lượng : 6;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 07:32:10 || Item chuyển : [454 Số lượng : 1;839 Số lượng : 2;862 Số lượng : 1;873 Số lượng : 1;384 Số lượng : 1;384 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 32; ] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 07:32:10 || Item chuyển : [ 603 Số lượng : 32; ] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;839 Số lượng : 2;862 Số lượng : 1;873 Số lượng : 1;384 Số lượng : 1;384 Số lượng : 1;] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 08:39:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 997 Số lượng : 73;  1002 Số lượng : 64;  998 Số lượng : 77;  1000 Số lượng : 66;  603 Số lượng : 28;  999 Số lượng : 72;  996 Số lượng : 75;  1001 Số lượng : 82;  647 Số lượng : 2369;  1003 Số lượng : 15;  639 Số lượng : 80;  987 Số lượng : 60; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 08:39:30 || Item chuyển : [ 997 Số lượng : 73;  1002 Số lượng : 64;  998 Số lượng : 77;  1000 Số lượng : 66;  603 Số lượng : 28;  999 Số lượng : 72;  996 Số lượng : 75;  1001 Số lượng : 82;  647 Số lượng : 2369;  1003 Số lượng : 15;  639 Số lượng : 80;  987 Số lượng : 60; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 08:41:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1000 Số lượng : 170;  1001 Số lượng : 142;  998 Số lượng : 159;  639 Số lượng : 137;  987 Số lượng : 144;  598 Số lượng : 151;  603 Số lượng : 51;  997 Số lượng : 132;  1002 Số lượng : 148;  996 Số lượng : 139;  999 Số lượng : 135; ] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 08:41:03 || Item chuyển : [ 1000 Số lượng : 170;  1001 Số lượng : 142;  998 Số lượng : 159;  639 Số lượng : 137;  987 Số lượng : 144;  598 Số lượng : 151;  603 Số lượng : 51;  997 Số lượng : 132;  1002 Số lượng : 148;  996 Số lượng : 139;  999 Số lượng : 135; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 08:42:00 || Item chuyển : [1001 Số lượng : 235;639 Số lượng : 248;998 Số lượng : 245;1002 Số lượng : 239;996 Số lượng : 237;598 Số lượng : 227;999 Số lượng : 217;1000 Số lượng : 247;987 Số lượng : 236;997 Số lượng : 249;603 Số lượng : 101;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 08:42:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1001 Số lượng : 235;639 Số lượng : 248;998 Số lượng : 245;1002 Số lượng : 239;996 Số lượng : 237;598 Số lượng : 227;999 Số lượng : 217;1000 Số lượng : 247;987 Số lượng : 236;997 Số lượng : 249;603 Số lượng : 101;] Xu nhận :0
+
+Name : biffban giao dịch với andanh || Time : 2022-05-27 09:15:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 743 Số lượng : 200;  993 Số lượng : 3652; ] Xu nhận :0
+
+Name : andanh giao dịch với biffban || Time : 2022-05-27 09:15:44 || Item chuyển : [ 743 Số lượng : 200;  993 Số lượng : 3652; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : facebook giao dịch với pentakill || Time : 2022-05-27 09:16:03 || Item chuyển : [439 Số lượng : 1;442 Số lượng : 1;441 Số lượng : 1;440 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : pentakill giao dịch với facebook || Time : 2022-05-27 09:16:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[439 Số lượng : 1;442 Số lượng : 1;441 Số lượng : 1;440 Số lượng : 1;] Xu nhận :0
+
+Name : co1khong2 giao dịch với facebook || Time : 2022-05-27 09:20:09 || Item chuyển : [991 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : facebook giao dịch với co1khong2 || Time : 2022-05-27 09:20:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[991 Số lượng : 1;] Xu nhận :0
+
+Name : 1choc1be giao dịch với cocainitt || Time : 2022-05-27 09:39:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 238; ] Xu nhận :0
+
+Name : cocainitt giao dịch với 1choc1be || Time : 2022-05-27 09:39:30 || Item chuyển : [ 603 Số lượng : 238; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mattrang1 giao dịch với yamato || Time : 2022-05-27 11:15:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1;  829 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :1
+
+Name : yamato giao dịch với mattrang1 || Time : 2022-05-27 11:15:47 || Item chuyển : [ 829 Số lượng : 1;  829 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :1 || Item Nhận :[] Xu nhận :0
+
+Name : btdelmj giao dịch với co1khong2 || Time : 2022-05-27 11:25:49 || Item chuyển : [976 Số lượng : 1;976 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 603; ] Xu nhận :0
+
+Name : co1khong2 giao dịch với btdelmj || Time : 2022-05-27 11:25:49 || Item chuyển : [ 993 Số lượng : 603; ] Xu giao dịch :0 || Item Nhận :[976 Số lượng : 1;976 Số lượng : 1;] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 11:59:56 || Item chuyển : [587 Số lượng : 2;603 Số lượng : 112;] Xu giao dịch :0 || Item Nhận :[ 441 Số lượng : 1;  440 Số lượng : 1;  486 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1; ] Xu nhận :1
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 11:59:56 || Item chuyển : [ 441 Số lượng : 1;  440 Số lượng : 1;  486 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1;  524 Số lượng : 1; ] Xu giao dịch :1 || Item Nhận :[587 Số lượng : 2;603 Số lượng : 112;] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 12:39:57 || Item chuyển : [574 Số lượng : 103;575 Số lượng : 72;576 Số lượng : 94;578 Số lượng : 83;573 Số lượng : 90;454 Số lượng : 32;577 Số lượng : 117;987 Số lượng : 5139;993 Số lượng : 1831;384 Số lượng : 1;384 Số lượng : 1;384 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 40; ] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 12:39:57 || Item chuyển : [ 603 Số lượng : 40; ] Xu giao dịch :0 || Item Nhận :[574 Số lượng : 103;575 Số lượng : 72;576 Số lượng : 94;578 Số lượng : 83;573 Số lượng : 90;454 Số lượng : 32;577 Số lượng : 117;987 Số lượng : 5139;993 Số lượng : 1831;384 Số lượng : 1;384 Số lượng : 1;384 Số lượng : 1;] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 12:40:41 || Item chuyển : [384 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;976 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :1 || Item Nhận :[] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 12:40:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[384 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;976 Số lượng : 1;383 Số lượng : 1;] Xu nhận :1
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 12:44:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1000 Số lượng : 613;  639 Số lượng : 605;  999 Số lượng : 540;  603 Số lượng : 204;  598 Số lượng : 607;  987 Số lượng : 571;  1002 Số lượng : 582;  1001 Số lượng : 586;  997 Số lượng : 588;  998 Số lượng : 596;  996 Số lượng : 601; ] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 12:44:39 || Item chuyển : [ 1000 Số lượng : 613;  639 Số lượng : 605;  999 Số lượng : 540;  603 Số lượng : 204;  598 Số lượng : 607;  987 Số lượng : 571;  1002 Số lượng : 582;  1001 Số lượng : 586;  997 Số lượng : 588;  998 Số lượng : 596;  996 Số lượng : 601; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 12:45:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1002 Số lượng : 256;  1001 Số lượng : 272;  997 Số lượng : 288;  998 Số lượng : 268;  996 Số lượng : 286;  1000 Số lượng : 283;  999 Số lượng : 297;  598 Số lượng : 291;  639 Số lượng : 293;  987 Số lượng : 304;  603 Số lượng : 94; ] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 12:45:35 || Item chuyển : [ 1002 Số lượng : 256;  1001 Số lượng : 272;  997 Số lượng : 288;  998 Số lượng : 268;  996 Số lượng : 286;  1000 Số lượng : 283;  999 Số lượng : 297;  598 Số lượng : 291;  639 Số lượng : 293;  987 Số lượng : 304;  603 Số lượng : 94; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 12:46:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 95;  987 Số lượng : 317;  639 Số lượng : 293;  996 Số lượng : 319;  598 Số lượng : 337;  997 Số lượng : 250;  999 Số lượng : 277;  998 Số lượng : 266;  1000 Số lượng : 277;  1002 Số lượng : 289;  1001 Số lượng : 287; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 12:46:23 || Item chuyển : [ 603 Số lượng : 95;  987 Số lượng : 317;  639 Số lượng : 293;  996 Số lượng : 319;  598 Số lượng : 337;  997 Số lượng : 250;  999 Số lượng : 277;  998 Số lượng : 266;  1000 Số lượng : 277;  1002 Số lượng : 289;  1001 Số lượng : 287; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với caidaubuoigi || Time : 2022-05-27 14:27:58 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 36; ] Xu nhận :0
+
+Name : caidaubuoigi giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:27:58 || Item chuyển : [ 457 Số lượng : 36; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hgtyga || Time : 2022-05-27 14:29:04 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 125; ] Xu nhận :0
+
+Name : hgtyga giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:29:04 || Item chuyển : [ 457 Số lượng : 125; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hhohoo || Time : 2022-05-27 14:30:29 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 67; ] Xu nhận :0
+
+Name : hhohoo giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:30:29 || Item chuyển : [ 457 Số lượng : 67; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với oidoioii || Time : 2022-05-27 14:31:57 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 68;  993 Số lượng : 214; ] Xu nhận :0
+
+Name : oidoioii giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:31:57 || Item chuyển : [ 457 Số lượng : 68;  993 Số lượng : 214; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với conbamay || Time : 2022-05-27 14:33:51 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 207;  457 Số lượng : 86; ] Xu nhận :0
+
+Name : conbamay giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:33:51 || Item chuyển : [ 993 Số lượng : 207;  457 Số lượng : 86; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với caidaubuoibo || Time : 2022-05-27 14:37:17 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 37; ] Xu nhận :0
+
+Name : caidaubuoibo giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:37:17 || Item chuyển : [ 457 Số lượng : 37; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với buoitovcl || Time : 2022-05-27 14:39:49 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 50; ] Xu nhận :0
+
+Name : buoitovcl giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:39:49 || Item chuyển : [ 457 Số lượng : 50; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : tuoilol giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:41:10 || Item chuyển : [457 Số lượng : 41;] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1;  829 Số lượng : 1; ] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với tuoilol || Time : 2022-05-27 14:41:10 || Item chuyển : [ 283 Số lượng : 1;  829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 41;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với tuoilol || Time : 2022-05-27 14:41:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 993 Số lượng : 506; ] Xu nhận :0
+
+Name : tuoilol giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:41:32 || Item chuyển : [ 993 Số lượng : 506; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với buoitovcla || Time : 2022-05-27 14:42:15 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 28; ] Xu nhận :0
+
+Name : buoitovcla giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:42:15 || Item chuyển : [ 457 Số lượng : 28; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 14:47:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 3813;  993 Số lượng : 1013;  457 Số lượng : 540; ] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 14:47:20 || Item chuyển : [ 454 Số lượng : 3813;  993 Số lượng : 1013;  457 Số lượng : 540; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 15:20:23 || Item chuyển : [1007 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 15:20:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1007 Số lượng : 1;] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 15:21:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1001 Số lượng : 138;  1002 Số lượng : 148;  987 Số lượng : 123;  603 Số lượng : 47;  598 Số lượng : 148;  639 Số lượng : 112;  997 Số lượng : 140;  998 Số lượng : 140;  999 Số lượng : 163;  996 Số lượng : 143;  1000 Số lượng : 127; ] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 15:21:46 || Item chuyển : [ 1001 Số lượng : 138;  1002 Số lượng : 148;  987 Số lượng : 123;  603 Số lượng : 47;  598 Số lượng : 148;  639 Số lượng : 112;  997 Số lượng : 140;  998 Số lượng : 140;  999 Số lượng : 163;  996 Số lượng : 143;  1000 Số lượng : 127; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 15:22:30 || Item chuyển : [999 Số lượng : 268;1000 Số lượng : 261;1001 Số lượng : 257;998 Số lượng : 233;997 Số lượng : 246;996 Số lượng : 242;1002 Số lượng : 273;603 Số lượng : 82;598 Số lượng : 257;987 Số lượng : 274;639 Số lượng : 275;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 15:22:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[999 Số lượng : 268;1000 Số lượng : 261;1001 Số lượng : 257;998 Số lượng : 233;997 Số lượng : 246;996 Số lượng : 242;1002 Số lượng : 273;603 Số lượng : 82;598 Số lượng : 257;987 Số lượng : 274;639 Số lượng : 275;] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 15:23:22 || Item chuyển : [1002 Số lượng : 124;603 Số lượng : 46;1000 Số lượng : 159;998 Số lượng : 122;1001 Số lượng : 158;996 Số lượng : 149;997 Số lượng : 130;987 Số lượng : 122;598 Số lượng : 138;639 Số lượng : 160;999 Số lượng : 151;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 15:23:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1002 Số lượng : 124;603 Số lượng : 46;1000 Số lượng : 159;998 Số lượng : 122;1001 Số lượng : 158;996 Số lượng : 149;997 Số lượng : 130;987 Số lượng : 122;598 Số lượng : 138;639 Số lượng : 160;999 Số lượng : 151;] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 15:29:15 || Item chuyển : [1003 Số lượng : 287;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 15:29:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1003 Số lượng : 287;] Xu nhận :0
+
+Name : fgnaoh1 giao dịch với aduduu || Time : 2022-05-27 15:40:42 || Item chuyển : [457 Số lượng : 76;454 Số lượng : 85;780 Số lượng : 102;987 Số lượng : 2948;639 Số lượng : 3070;] Xu giao dịch :9992000 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh1 || Time : 2022-05-27 15:40:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 76;454 Số lượng : 85;780 Số lượng : 102;987 Số lượng : 2948;639 Số lượng : 3070;] Xu nhận :9992000
+
+Name : aduduu giao dịch với fgnaoh1 || Time : 2022-05-27 15:42:04 || Item chuyển : [992 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : fgnaoh1 giao dịch với aduduu || Time : 2022-05-27 15:42:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[992 Số lượng : 1;] Xu nhận :0
+
+Name : accmin giao dịch với aduduu || Time : 2022-05-27 15:48:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 596 Số lượng : 29; ] Xu nhận :0
+
+Name : aduduu giao dịch với accmin || Time : 2022-05-27 15:48:13 || Item chuyển : [ 596 Số lượng : 29; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : phuc1tuoi giao dịch với lucphuc || Time : 2022-05-27 15:52:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 8;  454 Số lượng : 10;  383 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+
+Name : lucphuc giao dịch với phuc1tuoi || Time : 2022-05-27 15:52:51 || Item chuyển : [ 1003 Số lượng : 8;  454 Số lượng : 10;  383 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  384 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 16:38:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1000 Số lượng : 103;  996 Số lượng : 91;  997 Số lượng : 89;  999 Số lượng : 96;  1001 Số lượng : 78;  1002 Số lượng : 102;  603 Số lượng : 30;  998 Số lượng : 95; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 16:38:04 || Item chuyển : [ 1000 Số lượng : 103;  996 Số lượng : 91;  997 Số lượng : 89;  999 Số lượng : 96;  1001 Số lượng : 78;  1002 Số lượng : 102;  603 Số lượng : 30;  998 Số lượng : 95; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 16:38:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 997 Số lượng : 85;  1000 Số lượng : 82;  1001 Số lượng : 91;  999 Số lượng : 79;  996 Số lượng : 85;  603 Số lượng : 24;  1002 Số lượng : 81;  998 Số lượng : 89; ] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 16:38:42 || Item chuyển : [ 997 Số lượng : 85;  1000 Số lượng : 82;  1001 Số lượng : 91;  999 Số lượng : 79;  996 Số lượng : 85;  603 Số lượng : 24;  1002 Số lượng : 81;  998 Số lượng : 89; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-23 10:31:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 996 Số lượng : 148;  639 Số lượng : 176;  997 Số lượng : 177;  1002 Số lượng : 186;  1001 Số lượng : 177;  1000 Số lượng : 154;  603 Số lượng : 45;  999 Số lượng : 167;  998 Số lượng : 170; ] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 16:39:52 || Item chuyển : [ 996 Số lượng : 148;  639 Số lượng : 176;  997 Số lượng : 177;  1002 Số lượng : 186;  1001 Số lượng : 177;  1000 Số lượng : 154;  603 Số lượng : 45;  999 Số lượng : 167;  998 Số lượng : 170; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 17:25:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :1550000000
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 17:25:01 || Item chuyển : [] Xu giao dịch :1550000000 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với 1choc1be || Time : 2022-05-27 17:29:26 || Item chuyển : [596 Số lượng : 4;] Xu giao dịch :2000000000 || Item Nhận :[] Xu nhận :0
+
+Name : 1choc1be giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 17:29:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[596 Số lượng : 4;] Xu nhận :2000000000
+
+Name : admin1 giao dịch với hoangbjp98 || Time : 2022-05-27 17:35:19 || Item chuyển : [454 Số lượng : 271;457 Số lượng : 155;38 Số lượng : 111;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với admin1 || Time : 2022-05-27 17:35:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 271;457 Số lượng : 155;38 Số lượng : 111;] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với admin1 || Time : 2022-05-27 17:35:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1963; ] Xu nhận :0
+
+Name : admin1 giao dịch với hoangbjp98 || Time : 2022-05-27 17:35:45 || Item chuyển : [ 456 Số lượng : 1963; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với admin3 || Time : 2022-05-27 17:36:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 157;  454 Số lượng : 268; ] Xu nhận :0
+
+Name : admin3 giao dịch với hoangbjp98 || Time : 2022-05-27 17:36:41 || Item chuyển : [ 457 Số lượng : 157;  454 Số lượng : 268; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với administrator || Time : 2022-05-27 17:37:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 168;  454 Số lượng : 264;  829 Số lượng : 1;  283 Số lượng : 1; ] Xu nhận :0
+
+Name : administrator giao dịch với hoangbjp98 || Time : 2022-05-27 17:37:39 || Item chuyển : [ 457 Số lượng : 168;  454 Số lượng : 264;  829 Số lượng : 1;  283 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với admin123 || Time : 2022-05-27 17:38:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 223;  457 Số lượng : 148; ] Xu nhận :0
+
+Name : admin123 giao dịch với hoangbjp98 || Time : 2022-05-27 17:38:27 || Item chuyển : [ 454 Số lượng : 223;  457 Số lượng : 148; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp giao dịch với hoangbjp98 || Time : 2022-05-27 17:44:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1007 Số lượng : 1; ] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp || Time : 2022-05-27 17:44:30 || Item chuyển : [ 1007 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp || Time : 2022-05-27 17:45:38 || Item chuyển : [457 Số lượng : 565;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp giao dịch với hoangbjp98 || Time : 2022-05-27 17:45:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 565;] Xu nhận :0
+
+Name : chum88 giao dịch với trumboss || Time : 2022-05-27 17:54:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 97;  457 Số lượng : 131; ] Xu nhận :0
+
+Name : trumboss giao dịch với chum88 || Time : 2022-05-27 17:54:22 || Item chuyển : [ 454 Số lượng : 97;  457 Số lượng : 131; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chum88 giao dịch với trumboss || Time : 2022-05-27 17:55:03 || Item chuyển : [976 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumboss giao dịch với chum88 || Time : 2022-05-27 17:55:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[976 Số lượng : 1;] Xu nhận :0
+
+Name : hhihi11 giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:02:52 || Item chuyển : [457 Số lượng : 70;] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1;  829 Số lượng : 1; ] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hhihi11 || Time : 2022-05-27 18:02:52 || Item chuyển : [ 283 Số lượng : 1;  829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 70;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hohoho || Time : 2022-05-27 18:04:07 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hohoho giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:04:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với hohoho || Time : 2022-05-27 18:04:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 72; ] Xu nhận :0
+
+Name : hohoho giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:04:28 || Item chuyển : [ 457 Số lượng : 72; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nhincailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:06:22 || Item chuyển : [457 Số lượng : 63;] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1;  283 Số lượng : 1; ] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với nhincailon || Time : 2022-05-27 18:06:22 || Item chuyển : [ 829 Số lượng : 1;  283 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 63;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với nhincailonnhe || Time : 2022-05-27 18:07:28 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nhincailonnhe giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:07:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với nhincailonnhe || Time : 2022-05-27 18:07:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 76; ] Xu nhận :0
+
+Name : nhincailonnhe giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:07:49 || Item chuyển : [ 457 Số lượng : 76; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : 1choc1be giao dịch với moonnight || Time : 2022-05-27 18:07:49 || Item chuyển : [976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : moonnight giao dịch với 1choc1be || Time : 2022-05-27 18:07:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;976 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với dumevipp || Time : 2022-05-27 18:08:52 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 71; ] Xu nhận :0
+
+Name : dumevipp giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:08:52 || Item chuyển : [ 457 Số lượng : 71; ] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 18:11:49 || Item chuyển : [457 Số lượng : 353;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:11:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 353;] Xu nhận :0
+
+Name : hoangbjp97 giao dịch với hoangbjp98 || Time : 2022-05-27 18:26:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 585 Số lượng : 1;  443 Số lượng : 1; ] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp97 || Time : 2022-05-27 18:26:00 || Item chuyển : [ 585 Số lượng : 1;  443 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp97 giao dịch với admin123 || Time : 2022-05-27 18:26:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 992 Số lượng : 1; ] Xu nhận :0
+
+Name : admin123 giao dịch với hoangbjp97 || Time : 2022-05-27 18:26:30 || Item chuyển : [ 992 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 18:33:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1003 Số lượng : 312; ] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 18:33:48 || Item chuyển : [ 1003 Số lượng : 312; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : minhdz giao dịch với btdelmj || Time : 2022-05-27 18:36:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 587 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với minhdz || Time : 2022-05-27 18:36:02 || Item chuyển : [ 587 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : minhdz giao dịch với btdelmj || Time : 2022-05-27 18:36:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 864 Số lượng : 1;  865 Số lượng : 1;  855 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với minhdz || Time : 2022-05-27 18:36:58 || Item chuyển : [ 864 Số lượng : 1;  865 Số lượng : 1;  855 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : athena giao dịch với btdelmj || Time : 2022-05-27 18:42:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 585 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với athena || Time : 2022-05-27 18:42:22 || Item chuyển : [ 585 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : athena giao dịch với btdelmj || Time : 2022-05-27 18:43:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 864 Số lượng : 1;  865 Số lượng : 1;  866 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với athena || Time : 2022-05-27 18:43:40 || Item chuyển : [ 864 Số lượng : 1;  865 Số lượng : 1;  866 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp96 || Time : 2022-05-27 19:06:00 || Item chuyển : [588 Số lượng : 1;992 Số lượng : 1;443 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp96 giao dịch với hoangbjp98 || Time : 2022-05-27 19:06:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[588 Số lượng : 1;992 Số lượng : 1;443 Số lượng : 1;] Xu nhận :0
+
+Name : hoangbjp96 giao dịch với hoangbjp98 || Time : 2022-05-27 19:21:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1;  283 Số lượng : 1; ] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp96 || Time : 2022-05-27 19:21:36 || Item chuyển : [ 829 Số lượng : 1;  283 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp97 || Time : 2022-05-27 19:24:12 || Item chuyển : [829 Số lượng : 1;283 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp97 giao dịch với hoangbjp98 || Time : 2022-05-27 19:24:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[829 Số lượng : 1;283 Số lượng : 1;] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo94 || Time : 2022-05-27 19:27:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 502;  457 Số lượng : 360; ] Xu nhận :0
+
+Name : cuteo94 giao dịch với baolam1 || Time : 2022-05-27 19:27:00 || Item chuyển : [ 454 Số lượng : 502;  457 Số lượng : 360; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : djsjjdksd giao dịch với facebook || Time : 2022-05-27 19:27:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 870 Số lượng : 1;  854 Số lượng : 1;  53 Số lượng : 1;  57 Số lượng : 1;  865 Số lượng : 1;  864 Số lượng : 1; ] Xu nhận :0
+
+Name : facebook giao dịch với djsjjdksd || Time : 2022-05-27 19:27:18 || Item chuyển : [ 870 Số lượng : 1;  854 Số lượng : 1;  53 Số lượng : 1;  57 Số lượng : 1;  865 Số lượng : 1;  864 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : facebook giao dịch với djsjjdks || Time : 2022-05-27 19:28:45 || Item chuyển : [53 Số lượng : 1;57 Số lượng : 1;865 Số lượng : 1;864 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : djsjjdks giao dịch với facebook || Time : 2022-05-27 19:28:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[53 Số lượng : 1;57 Số lượng : 1;865 Số lượng : 1;864 Số lượng : 1;] Xu nhận :0
+
+Name : embexx giao dịch với cuteo9x || Time : 2022-05-27 19:28:59 || Item chuyển : [457 Số lượng : 254;454 Số lượng : 368;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cuteo9x giao dịch với embexx || Time : 2022-05-27 19:28:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 254;454 Số lượng : 368;] Xu nhận :0
+
+Name : skdhhf giao dịch với facebook || Time : 2022-05-27 19:29:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 870 Số lượng : 1;  53 Số lượng : 1;  57 Số lượng : 1;  865 Số lượng : 1;  864 Số lượng : 1;  854 Số lượng : 1; ] Xu nhận :0
+
+Name : facebook giao dịch với skdhhf || Time : 2022-05-27 19:29:25 || Item chuyển : [ 870 Số lượng : 1;  53 Số lượng : 1;  57 Số lượng : 1;  865 Số lượng : 1;  864 Số lượng : 1;  854 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : baolam1 giao dịch với cuteo9x || Time : 2022-05-27 19:29:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 194;  457 Số lượng : 432; ] Xu nhận :0
+
+Name : cuteo9x giao dịch với baolam1 || Time : 2022-05-27 19:29:30 || Item chuyển : [ 455 Số lượng : 194;  457 Số lượng : 432; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : facebook giao dịch với djsjjdks || Time : 2022-05-27 19:30:14 || Item chuyển : [870 Số lượng : 1;854 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : djsjjdks giao dịch với facebook || Time : 2022-05-27 19:30:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[870 Số lượng : 1;854 Số lượng : 1;] Xu nhận :0
+
+Name : facebook giao dịch với djsjjdksd || Time : 2022-05-27 19:51:14 || Item chuyển : [454 Số lượng : 482;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : djsjjdksd giao dịch với facebook || Time : 2022-05-27 19:51:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 482;] Xu nhận :0
+
+Name : yamato giao dịch với queen69 || Time : 2022-05-27 20:09:17 || Item chuyển : [457 Số lượng : 9;578 Số lượng : 136;454 Số lượng : 63;573 Số lượng : 117;575 Số lượng : 124;574 Số lượng : 117;577 Số lượng : 125;576 Số lượng : 115;949 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : queen69 giao dịch với yamato || Time : 2022-05-27 20:09:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[457 Số lượng : 9;578 Số lượng : 136;454 Số lượng : 63;573 Số lượng : 117;575 Số lượng : 124;574 Số lượng : 117;577 Số lượng : 125;576 Số lượng : 115;949 Số lượng : 2;] Xu nhận :0
+
+Name : sadboii giao dịch với beheoli || Time : 2022-05-27 20:09:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 601 Số lượng : 10; ] Xu nhận :0
+
+Name : beheoli giao dịch với sadboii || Time : 2022-05-27 20:09:39 || Item chuyển : [ 601 Số lượng : 10; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : btdelmj giao dịch với jsgsdhdjs || Time : 2022-05-27 20:35:06 || Item chuyển : [864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;870 Số lượng : 1;48 Số lượng : 1;44 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : jsgsdhdjs giao dịch với btdelmj || Time : 2022-05-27 20:35:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;870 Số lượng : 1;48 Số lượng : 1;44 Số lượng : 1;] Xu nhận :0
+
+Name : btdelmj giao dịch với mkakaksjs || Time : 2022-05-27 20:37:42 || Item chuyển : [864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;44 Số lượng : 1;48 Số lượng : 1;870 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mkakaksjs giao dịch với btdelmj || Time : 2022-05-27 20:37:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;44 Số lượng : 1;48 Số lượng : 1;870 Số lượng : 1;] Xu nhận :0
+
+Name : ahihihi giao dịch với phuc1tuoi || Time : 2022-05-27 20:38:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 587 Số lượng : 1; ] Xu nhận :0
+
+Name : phuc1tuoi giao dịch với ahihihi || Time : 2022-05-27 20:38:46 || Item chuyển : [ 587 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : btdelmj giao dịch với dkskak || Time : 2022-05-27 20:39:37 || Item chuyển : [864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;48 Số lượng : 1;44 Số lượng : 1;870 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : dkskak giao dịch với btdelmj || Time : 2022-05-27 20:39:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[864 Số lượng : 1;865 Số lượng : 1;866 Số lượng : 1;48 Số lượng : 1;44 Số lượng : 1;870 Số lượng : 1;] Xu nhận :0
+
+Name : djsjjdks giao dịch với btdelmj || Time : 2022-05-27 20:40:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với djsjjdks || Time : 2022-05-27 20:40:34 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với trumquat || Time : 2022-05-27 20:53:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1001 Số lượng : 237;  603 Số lượng : 92;  1000 Số lượng : 229;  987 Số lượng : 344;  998 Số lượng : 224;  598 Số lượng : 327;  997 Số lượng : 233;  996 Số lượng : 219;  999 Số lượng : 220;  639 Số lượng : 330;  1002 Số lượng : 250; ] Xu nhận :0
+
+Name : trumquat giao dịch với aduduu || Time : 2022-05-27 20:53:12 || Item chuyển : [ 1001 Số lượng : 237;  603 Số lượng : 92;  1000 Số lượng : 229;  987 Số lượng : 344;  998 Số lượng : 224;  598 Số lượng : 327;  997 Số lượng : 233;  996 Số lượng : 219;  999 Số lượng : 220;  639 Số lượng : 330;  1002 Số lượng : 250; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh || Time : 2022-05-27 20:54:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1001 Số lượng : 454;  987 Số lượng : 604;  998 Số lượng : 432;  996 Số lượng : 435;  999 Số lượng : 421;  1002 Số lượng : 470;  1000 Số lượng : 411;  603 Số lượng : 164;  997 Số lượng : 467;  639 Số lượng : 426;  598 Số lượng : 614; ] Xu nhận :0
+
+Name : fgnaoh giao dịch với aduduu || Time : 2022-05-27 20:54:08 || Item chuyển : [ 1001 Số lượng : 454;  987 Số lượng : 604;  998 Số lượng : 432;  996 Số lượng : 435;  999 Số lượng : 421;  1002 Số lượng : 470;  1000 Số lượng : 411;  603 Số lượng : 164;  997 Số lượng : 467;  639 Số lượng : 426;  598 Số lượng : 614; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : aduduu giao dịch với kiemrhd || Time : 2022-05-27 20:54:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 996 Số lượng : 261;  987 Số lượng : 332;  598 Số lượng : 378;  1002 Số lượng : 288;  998 Số lượng : 288;  1000 Số lượng : 257;  999 Số lượng : 269;  639 Số lượng : 361;  997 Số lượng : 252;  1001 Số lượng : 259;  603 Số lượng : 66; ] Xu nhận :0
+
+Name : kiemrhd giao dịch với aduduu || Time : 2022-05-27 20:54:57 || Item chuyển : [ 996 Số lượng : 261;  987 Số lượng : 332;  598 Số lượng : 378;  1002 Số lượng : 288;  998 Số lượng : 288;  1000 Số lượng : 257;  999 Số lượng : 269;  639 Số lượng : 361;  997 Số lượng : 252;  1001 Số lượng : 259;  603 Số lượng : 66; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mattrang giao dịch với mattrang2 || Time : 2022-05-27 20:56:31 || Item chuyển : [585 Số lượng : 1;588 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mattrang2 giao dịch với mattrang || Time : 2022-05-27 20:56:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[585 Số lượng : 1;588 Số lượng : 1;] Xu nhận :0
+
+Name : aduduu giao dịch với fgnaoh1 || Time : 2022-05-27 20:56:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 457 Số lượng : 23;  454 Số lượng : 32;  639 Số lượng : 800;  987 Số lượng : 840;  780 Số lượng : 39; ] Xu nhận :0
+
+Name : fgnaoh1 giao dịch với aduduu || Time : 2022-05-27 20:56:40 || Item chuyển : [ 457 Số lượng : 23;  454 Số lượng : 32;  639 Số lượng : 800;  987 Số lượng : 840;  780 Số lượng : 39; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mattrang1 giao dịch với mattrang2 || Time : 2022-05-27 21:01:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 585 Số lượng : 1; ] Xu nhận :0
+
+Name : mattrang2 giao dịch với mattrang1 || Time : 2022-05-27 21:01:15 || Item chuyển : [ 585 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mattrang2 giao dịch với mattrang1 || Time : 2022-05-27 21:02:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1; ] Xu nhận :0
+
+Name : mattrang1 giao dịch với mattrang2 || Time : 2022-05-27 21:02:28 || Item chuyển : [ 829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : yamato giao dịch với freefire || Time : 2022-05-27 21:09:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 402 Số lượng : 1;  402 Số lượng : 1; ] Xu nhận :29500000
+
+Name : freefire giao dịch với yamato || Time : 2022-05-27 21:09:08 || Item chuyển : [ 402 Số lượng : 1;  402 Số lượng : 1; ] Xu giao dịch :29500000 || Item Nhận :[] Xu nhận :0
+
+Name : athena giao dịch với btdelmj || Time : 2022-05-27 21:13:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  907 Số lượng : 2;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : btdelmj giao dịch với athena || Time : 2022-05-27 21:13:14 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  907 Số lượng : 2;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : trumhuce giao dịch với co1khong2 || Time : 2022-05-27 21:13:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :450000000
+
+Name : co1khong2 giao dịch với trumhuce || Time : 2022-05-27 21:13:31 || Item chuyển : [] Xu giao dịch :450000000 || Item Nhận :[] Xu nhận :0
+
+Name : athena giao dịch với cuivclray || Time : 2022-05-27 21:30:47 || Item chuyển : [587 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cuivclray giao dịch với athena || Time : 2022-05-27 21:30:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[587 Số lượng : 1;] Xu nhận :0
+
+Name : co1khong2 giao dịch với gamekyniem || Time : 2022-05-27 21:43:10 || Item chuyển : [454 Số lượng : 200;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :20000000
+
+Name : gamekyniem giao dịch với co1khong2 || Time : 2022-05-27 21:43:10 || Item chuyển : [] Xu giao dịch :20000000 || Item Nhận :[454 Số lượng : 200;] Xu nhận :0
+
+Name : andanh giao dịch với biffban || Time : 2022-05-27 21:56:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 842 Số lượng : 199;  454 Số lượng : 206;  603 Số lượng : 472;  457 Số lượng : 297;  1002 Số lượng : 118;  993 Số lượng : 3684;  996 Số lượng : 106;  997 Số lượng : 126;  999 Số lượng : 125;  1001 Số lượng : 114;  1000 Số lượng : 108;  998 Số lượng : 114; ] Xu nhận :0
+
+Name : biffban giao dịch với andanh || Time : 2022-05-27 21:56:10 || Item chuyển : [ 842 Số lượng : 199;  454 Số lượng : 206;  603 Số lượng : 472;  457 Số lượng : 297;  1002 Số lượng : 118;  993 Số lượng : 3684;  996 Số lượng : 106;  997 Số lượng : 126;  999 Số lượng : 125;  1001 Số lượng : 114;  1000 Số lượng : 108;  998 Số lượng : 114; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp98 giao dịch với hoangbjp || Time : 2022-05-27 21:58:45 || Item chuyển : [949 Số lượng : 10;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hoangbjp giao dịch với hoangbjp98 || Time : 2022-05-27 21:58:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[949 Số lượng : 10;] Xu nhận :0
+
+Name : athena giao dịch với btdelmj || Time : 2022-05-27 22:03:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 598 Số lượng : 1773;  641 Số lượng : 3418;  639 Số lượng : 3378;  638 Số lượng : 3435;  642 Số lượng : 3440;  987 Số lượng : 1453; ] Xu nhận :0
+
+Name : btdelmj giao dịch với athena || Time : 2022-05-27 22:03:46 || Item chuyển : [ 598 Số lượng : 1773;  641 Số lượng : 3418;  639 Số lượng : 3378;  638 Số lượng : 3435;  642 Số lượng : 3440;  987 Số lượng : 1453; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : tieumanthau giao dịch với goddess || Time : 2022-05-27 22:38:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 227 Số lượng : 1; ] Xu nhận :0
+
+Name : goddess giao dịch với tieumanthau || Time : 2022-05-27 22:38:48 || Item chuyển : [ 227 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : 7splus giao dịch với co1khong2 || Time : 2022-05-27 22:42:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu nhận :0
+
+Name : co1khong2 giao dịch với 7splus || Time : 2022-05-27 22:42:44 || Item chuyển : [ 976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1;  976 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ongcoc giao dịch với goddess || Time : 2022-05-27 22:42:46 || Item chuyển : [587 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :3000000
+
+Name : goddess giao dịch với ongcoc || Time : 2022-05-27 22:42:46 || Item chuyển : [] Xu giao dịch :3000000 || Item Nhận :[587 Số lượng : 1;] Xu nhận :0
+
+Name : goddess giao dịch với tieumanthau || Time : 2022-05-27 22:48:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 633 Số lượng : 1; ] Xu nhận :0
+
+Name : tieumanthau giao dịch với goddess || Time : 2022-05-27 22:48:33 || Item chuyển : [ 633 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : xacdinhvip giao dịch với ongcoc || Time : 2022-05-27 22:50:31 || Item chuyển : [588 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ongcoc giao dịch với xacdinhvip || Time : 2022-05-27 22:50:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[588 Số lượng : 1;] Xu nhận :0
+
+Name : cocailon giao dịch với ditcumay1 || Time : 2022-05-27 22:56:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1001 Số lượng : 3165;  1000 Số lượng : 3099;  997 Số lượng : 3139;  999 Số lượng : 3182;  998 Số lượng : 3164;  996 Số lượng : 3183;  1002 Số lượng : 3146;  603 Số lượng : 1028; ] Xu nhận :217000000
+
+Name : ditcumay1 giao dịch với cocailon || Time : 2022-05-27 22:56:06 || Item chuyển : [ 1001 Số lượng : 3165;  1000 Số lượng : 3099;  997 Số lượng : 3139;  999 Số lượng : 3182;  998 Số lượng : 3164;  996 Số lượng : 3183;  1002 Số lượng : 3146;  603 Số lượng : 1028; ] Xu giao dịch :217000000 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với ditcumay || Time : 2022-05-27 22:57:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1000 Số lượng : 2437;  997 Số lượng : 2449;  998 Số lượng : 2553;  643 Số lượng : 18154;  996 Số lượng : 2550;  999 Số lượng : 2535;  1001 Số lượng : 2622;  1002 Số lượng : 2582; ] Xu nhận :0
+
+Name : ditcumay giao dịch với cocailon || Time : 2022-05-27 22:57:10 || Item chuyển : [ 1000 Số lượng : 2437;  997 Số lượng : 2449;  998 Số lượng : 2553;  643 Số lượng : 18154;  996 Số lượng : 2550;  999 Số lượng : 2535;  1001 Số lượng : 2622;  1002 Số lượng : 2582; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ditcumay giao dịch với cocailon || Time : 2022-05-27 22:57:45 || Item chuyển : [603 Số lượng : 874;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với ditcumay || Time : 2022-05-27 22:57:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[603 Số lượng : 874;] Xu nhận :0
+
+Name : cocailon giao dịch với mwgwta || Time : 2022-05-27 23:00:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 998 Số lượng : 4922;  999 Số lượng : 2387;  603 Số lượng : 789;  1001 Số lượng : 2312;  1000 Số lượng : 2336;  997 Số lượng : 2339;  1002 Số lượng : 2360;  996 Số lượng : 2343; ] Xu nhận :0
+
+Name : mwgwta giao dịch với cocailon || Time : 2022-05-27 23:00:52 || Item chuyển : [ 998 Số lượng : 4922;  999 Số lượng : 2387;  603 Số lượng : 789;  1001 Số lượng : 2312;  1000 Số lượng : 2336;  997 Số lượng : 2339;  1002 Số lượng : 2360;  996 Số lượng : 2343; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với caidaubui || Time : 2022-05-27 23:02:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 998 Số lượng : 1293;  996 Số lượng : 1285;  999 Số lượng : 1313;  1000 Số lượng : 1320;  997 Số lượng : 1387;  1002 Số lượng : 1316;  603 Số lượng : 459;  1001 Số lượng : 1307; ] Xu nhận :0
+
+Name : caidaubui giao dịch với cocailon || Time : 2022-05-27 23:02:05 || Item chuyển : [ 998 Số lượng : 1293;  996 Số lượng : 1285;  999 Số lượng : 1313;  1000 Số lượng : 1320;  997 Số lượng : 1387;  1002 Số lượng : 1316;  603 Số lượng : 459;  1001 Số lượng : 1307; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : cocailon giao dịch với caidaubui || Time : 2022-05-27 23:02:32 || Item chuyển : [586 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : caidaubui giao dịch với cocailon || Time : 2022-05-27 23:02:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[586 Số lượng : 1;] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với cocailon || Time : 2022-05-27 23:09:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 603 Số lượng : 3150; ] Xu nhận :0
+
+Name : cocailon giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 23:09:53 || Item chuyển : [ 603 Số lượng : 3150; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : wmwmwmwmwmmwmwm giao dịch với dumevip || Time : 2022-05-27 23:12:52 || Item chuyển : [283 Số lượng : 1;829 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : dumevip giao dịch với wmwmwmwmwmmwmwm || Time : 2022-05-27 23:12:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;829 Số lượng : 1;] Xu nhận :0
+
+Name : tieumanthau giao dịch với goddess || Time : 2022-05-27 23:59:40 || Item chuyển : [] Xu giao dịch :30000000 || Item Nhận :[] Xu nhận :0
+
+Name : goddess giao dịch với tieumanthau || Time : 2022-05-27 23:59:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :30000000

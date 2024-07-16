@@ -1,0 +1,54 @@
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2022-08-04 16:24:40
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 6 và 1|| Thời gian tách : 2022-08-04 16:24:42
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-08-04 16:24:43
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-08-04 16:24:44
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-08-04 16:24:45
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-08-04 16:24:46
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-08-04 16:24:50
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-08-04 16:24:52
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 6 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 5 và 1|| Thời gian tách : 2022-08-04 16:24:55
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2022-08-04 16:25:02
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-08-04 16:25:04
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2022-08-04 16:25:05
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-08-04 16:25:06
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 20 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 19 và 1|| Thời gian tách : 2022-08-04 16:25:09
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 19 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 18 và 1|| Thời gian tách : 2022-08-04 16:25:15
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2022-08-04 16:25:16
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 17 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 16 và 1|| Thời gian tách : 2022-08-04 16:25:17
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 16 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 15 và 1|| Thời gian tách : 2022-08-04 16:25:19
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2022-08-04 16:25:20
+
+ Name : xintop đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 14 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 13 và 1|| Thời gian tách : 2022-08-04 16:25:21
+
+ Name : chienthan đã tách vật phẩm || Vật phẩm tách: 455 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2022-08-04 16:25:30
+
+ Name : chienthan đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 36 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 35 và 1|| Thời gian tách : 2022-08-04 16:25:42
+
+ Name : chienthan đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 35 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 34 và 1|| Thời gian tách : 2022-08-04 16:25:47
+
+ Name : chienthan đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 34 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 33 và 1|| Thời gian tách : 2022-08-04 16:25:51
+
+ Name : chienthan đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 33 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 32 và 1|| Thời gian tách : 2022-08-04 16:26:01
+
+ Name : bomaycantat đã tách vật phẩm || Vật phẩm tách: 436 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2022-08-04 16:31:35
+
+ Name : samurai đã tách vật phẩm || Vật phẩm tách: 917 || Số lượng vật phẩm ban đầu 98 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 97 và 1|| Thời gian tách : 2022-08-04 16:32:01

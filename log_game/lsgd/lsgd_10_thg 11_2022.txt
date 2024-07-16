@@ -1,0 +1,232 @@
+
+Name : kizmad giao dịch với nikora || Time : 2022-11-10 00:17:46 || Item chuyển : [1009 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với kizmad || Time : 2022-11-10 00:17:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1009 Số lượng : 1;] Xu nhận :0
+
+Name : kizmad giao dịch với nakiro || Time : 2022-11-10 00:18:46 || Item chuyển : [1009 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nakiro giao dịch với kizmad || Time : 2022-11-10 00:18:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1009 Số lượng : 1;] Xu nhận :0
+
+Name : kizmad giao dịch với nakiro || Time : 2022-11-10 00:22:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 731; ] Xu nhận :0
+
+Name : nakiro giao dịch với kizmad || Time : 2022-11-10 00:22:14 || Item chuyển : [ 770 Số lượng : 731; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nakiro || Time : 2022-11-10 00:25:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 643 Số lượng : 50; ] Xu nhận :0
+
+Name : nakiro giao dịch với kizmad || Time : 2022-11-10 00:25:07 || Item chuyển : [ 643 Số lượng : 50; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mikaro giao dịch với nakiro || Time : 2022-11-10 00:27:56 || Item chuyển : [874 Số lượng : 36273;868 Số lượng : 8853;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nakiro giao dịch với mikaro || Time : 2022-11-10 00:27:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[874 Số lượng : 36273;868 Số lượng : 8853;] Xu nhận :0
+
+Name : mikaro giao dịch với mikara || Time : 2022-11-10 00:28:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mikara giao dịch với mikaro || Time : 2022-11-10 00:28:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mikaro giao dịch với nikora || Time : 2022-11-10 00:30:52 || Item chuyển : [545 Số lượng : 272;641 Số lượng : 210;639 Số lượng : 169;642 Số lượng : 187;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với mikaro || Time : 2022-11-10 00:30:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[545 Số lượng : 272;641 Số lượng : 210;639 Số lượng : 169;642 Số lượng : 187;] Xu nhận :0
+
+Name : kizmad giao dịch với nikora || Time : 2022-11-10 00:33:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 643 Số lượng : 60; ] Xu nhận :0
+
+Name : nikora giao dịch với kizmad || Time : 2022-11-10 00:33:47 || Item chuyển : [ 643 Số lượng : 60; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với kizmad || Time : 2022-11-10 00:34:02 || Item chuyển : [770 Số lượng : 1337;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nikora || Time : 2022-11-10 00:34:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 1337;] Xu nhận :0
+
+Name : wanghib giao dịch với player || Time : 2022-11-10 00:34:38 || Item chuyển : [958 Số lượng : 33;454 Số lượng : 14;907 Số lượng : 351;] Xu giao dịch :1000000000 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với wanghib || Time : 2022-11-10 00:34:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[958 Số lượng : 33;454 Số lượng : 14;907 Số lượng : 351;] Xu nhận :1000000000
+
+Name : wanghib giao dịch với player || Time : 2022-11-10 00:35:00 || Item chuyển : [907 Số lượng : 1228;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với wanghib || Time : 2022-11-10 00:35:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 1228;] Xu nhận :0
+
+Name : nakiro giao dịch với nikora || Time : 2022-11-10 00:41:18 || Item chuyển : [874 Số lượng : 34952;868 Số lượng : 5553;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với nakiro || Time : 2022-11-10 00:41:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[874 Số lượng : 34952;868 Số lượng : 5553;] Xu nhận :0
+
+Name : mikaro giao dịch với kizmad || Time : 2022-11-10 00:44:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 39; ] Xu nhận :0
+
+Name : kizmad giao dịch với mikaro || Time : 2022-11-10 00:44:12 || Item chuyển : [ 907 Số lượng : 39; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với mikara || Time : 2022-11-10 00:53:04 || Item chuyển : [907 Số lượng : 123;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mikara giao dịch với nikora || Time : 2022-11-10 00:53:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[907 Số lượng : 123;] Xu nhận :0
+
+Name : kizmad giao dịch với mikara || Time : 2022-11-10 00:53:20 || Item chuyển : [770 Số lượng : 2151;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : mikara giao dịch với kizmad || Time : 2022-11-10 00:53:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 2151;] Xu nhận :0
+
+Name : mikara giao dịch với kizmad || Time : 2022-11-10 00:54:32 || Item chuyển : [770 Số lượng : 1540;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với mikara || Time : 2022-11-10 00:54:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 1540;] Xu nhận :0
+
+Name : nikaro giao dịch với kizmad || Time : 2022-11-10 00:59:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1009 Số lượng : 1; ] Xu nhận :0
+
+Name : kizmad giao dịch với nikaro || Time : 2022-11-10 00:59:54 || Item chuyển : [ 1009 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikaro giao dịch với nikora || Time : 2022-11-10 01:00:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 868 Số lượng : 3176;  874 Số lượng : 26203; ] Xu nhận :0
+
+Name : nikora giao dịch với nikaro || Time : 2022-11-10 01:00:42 || Item chuyển : [ 868 Số lượng : 3176;  874 Số lượng : 26203; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chijayz giao dịch với admin1 || Time : 2022-11-10 01:01:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 888;  511 Số lượng : 1; ] Xu nhận :0
+
+Name : admin1 giao dịch với chijayz || Time : 2022-11-10 01:01:32 || Item chuyển : [ 770 Số lượng : 888;  511 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : chijayz giao dịch với admin1 || Time : 2022-11-10 01:17:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 222 Số lượng : 1; ] Xu nhận :0
+
+Name : admin1 giao dịch với chijayz || Time : 2022-11-10 01:17:22 || Item chuyển : [ 222 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:40:05 || Item chuyển : [647 Số lượng : 1080;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:40:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 1080;] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 14:40:39 || Item chuyển : [647 Số lượng : 1515;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 14:40:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 1515;] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:42:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 954 Số lượng : 800;  647 Số lượng : 4541;  454 Số lượng : 249;  987 Số lượng : 2838;  639 Số lượng : 7819; ] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:42:08 || Item chuyển : [ 954 Số lượng : 800;  647 Số lượng : 4541;  454 Số lượng : 249;  987 Số lượng : 2838;  639 Số lượng : 7819; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:43:04 || Item chuyển : [639 Số lượng : 7819;454 Số lượng : 249;647 Số lượng : 4541;954 Số lượng : 800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:43:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[639 Số lượng : 7819;454 Số lượng : 249;647 Số lượng : 4541;954 Số lượng : 800;] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:44:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 498;  954 Số lượng : 1600;  647 Số lượng : 9082;  639 Số lượng : 15638; ] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:44:05 || Item chuyển : [ 454 Số lượng : 498;  954 Số lượng : 1600;  647 Số lượng : 9082;  639 Số lượng : 15638; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:44:27 || Item chuyển : [639 Số lượng : 15638;647 Số lượng : 9082;954 Số lượng : 1600;454 Số lượng : 498;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:44:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[639 Số lượng : 15638;647 Số lượng : 9082;954 Số lượng : 1600;454 Số lượng : 498;] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:45:03 || Item chuyển : [987 Số lượng : 3714;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:45:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[987 Số lượng : 3714;] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:46:37 || Item chuyển : [987 Số lượng : 6552;954 Số lượng : 3200;647 Số lượng : 18164;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:46:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[987 Số lượng : 6552;954 Số lượng : 3200;647 Số lượng : 18164;] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:46:54 || Item chuyển : [647 Số lượng : 18164;954 Số lượng : 3200;987 Số lượng : 6552;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:46:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[647 Số lượng : 18164;954 Số lượng : 3200;987 Số lượng : 6552;] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:47:56 || Item chuyển : [954 Số lượng : 6400;987 Số lượng : 13104;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:47:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[954 Số lượng : 6400;987 Số lượng : 13104;] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 14:48:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 987 Số lượng : 13104; ] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 14:48:46 || Item chuyển : [ 987 Số lượng : 13104; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 15:07:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 954 Số lượng : 6400;  987 Số lượng : 6208; ] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 15:07:43 || Item chuyển : [ 954 Số lượng : 6400;  987 Số lượng : 6208; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 15:08:28 || Item chuyển : [987 Số lượng : 6208;954 Số lượng : 12800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 15:08:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[987 Số lượng : 6208;954 Số lượng : 12800;] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 15:19:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 638 Số lượng : 13882;  987 Số lượng : 12416;  641 Số lượng : 14347;  954 Số lượng : 19200;  454 Số lượng : 895; ] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 15:19:25 || Item chuyển : [ 638 Số lượng : 13882;  987 Số lượng : 12416;  641 Số lượng : 14347;  954 Số lượng : 19200;  454 Số lượng : 895; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với ahihihi || Time : 2022-11-10 15:20:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 895;  954 Số lượng : 19200;  641 Số lượng : 14350;  987 Số lượng : 12416;  638 Số lượng : 14694;  642 Số lượng : 2215; ] Xu nhận :0
+
+Name : ahihihi giao dịch với player || Time : 2022-11-10 15:20:02 || Item chuyển : [ 454 Số lượng : 895;  954 Số lượng : 19200;  641 Số lượng : 14350;  987 Số lượng : 12416;  638 Số lượng : 14694;  642 Số lượng : 2215; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với trumsvlau || Time : 2022-11-10 15:37:32 || Item chuyển : [589 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 987 Số lượng : 5941;  999 Số lượng : 6111;  997 Số lượng : 5986;  1002 Số lượng : 6062;  996 Số lượng : 6097;  1001 Số lượng : 6202;  1000 Số lượng : 5990;  998 Số lượng : 6379; ] Xu nhận :0
+
+Name : trumsvlau giao dịch với player || Time : 2022-11-10 15:37:32 || Item chuyển : [ 987 Số lượng : 5941;  999 Số lượng : 6111;  997 Số lượng : 5986;  1002 Số lượng : 6062;  996 Số lượng : 6097;  1001 Số lượng : 6202;  1000 Số lượng : 5990;  998 Số lượng : 6379; ] Xu giao dịch :0 || Item Nhận :[589 Số lượng : 1;] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 15:57:22 || Item chuyển : [958 Số lượng : 225;639 Số lượng : 1276;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 15:57:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[958 Số lượng : 225;639 Số lượng : 1276;] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 15:58:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 958 Số lượng : 225;  639 Số lượng : 1276; ] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 15:58:57 || Item chuyển : [ 958 Số lượng : 225;  639 Số lượng : 1276; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 15:59:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 958 Số lượng : 450;  639 Số lượng : 2552; ] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 15:59:51 || Item chuyển : [ 958 Số lượng : 450;  639 Số lượng : 2552; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 16:00:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 639 Số lượng : 2552;  958 Số lượng : 450; ] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 16:00:12 || Item chuyển : [ 639 Số lượng : 2552;  958 Số lượng : 450; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 16:00:50 || Item chuyển : [958 Số lượng : 900;639 Số lượng : 5104;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 16:00:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[958 Số lượng : 900;639 Số lượng : 5104;] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 16:01:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 639 Số lượng : 5104;  958 Số lượng : 900; ] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 16:01:07 || Item chuyển : [ 639 Số lượng : 5104;  958 Số lượng : 900; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 16:02:01 || Item chuyển : [958 Số lượng : 1800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 16:02:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[958 Số lượng : 1800;] Xu nhận :0
+
+Name : player giao dịch với hahahahs || Time : 2022-11-10 16:02:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 958 Số lượng : 1800; ] Xu nhận :0
+
+Name : hahahahs giao dịch với player || Time : 2022-11-10 16:02:17 || Item chuyển : [ 958 Số lượng : 1800; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thanksst giao dịch với hellokittyz || Time : 2022-11-10 18:14:29 || Item chuyển : [999 Số lượng : 334;1000 Số lượng : 427;907 Số lượng : 4327;641 Số lượng : 6102;769 Số lượng : 10750;1001 Số lượng : 176;997 Số lượng : 358;987 Số lượng : 22678;638 Số lượng : 3436;996 Số lượng : 355;1002 Số lượng : 332;642 Số lượng : 3581;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thanksst || Time : 2022-11-10 18:14:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[999 Số lượng : 334;1000 Số lượng : 427;907 Số lượng : 4327;641 Số lượng : 6102;769 Số lượng : 10750;1001 Số lượng : 176;997 Số lượng : 358;987 Số lượng : 22678;638 Số lượng : 3436;996 Số lượng : 355;1002 Số lượng : 332;642 Số lượng : 3581;] Xu nhận :0
+
+Name : thanksst giao dịch với hellokittyz || Time : 2022-11-10 18:15:54 || Item chuyển : [842 Số lượng : 364;454 Số lượng : 441;998 Số lượng : 459;639 Số lượng : 3433;770 Số lượng : 22566;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thanksst || Time : 2022-11-10 18:15:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[842 Số lượng : 364;454 Số lượng : 441;998 Số lượng : 459;639 Số lượng : 3433;770 Số lượng : 22566;] Xu nhận :0
+
+Name : nakiro giao dịch với kizmad || Time : 2022-11-10 18:16:47 || Item chuyển : [643 Số lượng : 40;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nakiro || Time : 2022-11-10 18:16:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 40;] Xu nhận :0
+
+Name : hellokittyz giao dịch với thajbjnh1st || Time : 2022-11-10 18:21:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 907 Số lượng : 3459;  638 Số lượng : 4479;  639 Số lượng : 3370;  769 Số lượng : 6949;  642 Số lượng : 3338;  987 Số lượng : 4375;  770 Số lượng : 5957;  641 Số lượng : 3245; ] Xu nhận :0
+
+Name : thajbjnh1st giao dịch với hellokittyz || Time : 2022-11-10 18:21:07 || Item chuyển : [ 907 Số lượng : 3459;  638 Số lượng : 4479;  639 Số lượng : 3370;  769 Số lượng : 6949;  642 Số lượng : 3338;  987 Số lượng : 4375;  770 Số lượng : 5957;  641 Số lượng : 3245; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : thajbjnh1st giao dịch với hellokittyz || Time : 2022-11-10 18:21:48 || Item chuyển : [770 Số lượng : 2777;769 Số lượng : 1329;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với thajbjnh1st || Time : 2022-11-10 18:21:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 2777;769 Số lượng : 1329;] Xu nhận :0
+
+Name : hellokittyz giao dịch với hahahah || Time : 2022-11-10 18:23:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 638 Số lượng : 3222;  907 Số lượng : 4539;  770 Số lượng : 5586;  987 Số lượng : 3267;  641 Số lượng : 3248;  639 Số lượng : 3281;  642 Số lượng : 3285; ] Xu nhận :0
+
+Name : hahahah giao dịch với hellokittyz || Time : 2022-11-10 18:23:32 || Item chuyển : [ 638 Số lượng : 3222;  907 Số lượng : 4539;  770 Số lượng : 5586;  987 Số lượng : 3267;  641 Số lượng : 3248;  639 Số lượng : 3281;  642 Số lượng : 3285; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : hellokittyz giao dịch với hahahahs || Time : 2022-11-10 18:24:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 6764;  638 Số lượng : 2174;  907 Số lượng : 2981;  642 Số lượng : 2147;  639 Số lượng : 2169;  987 Số lượng : 2047; ] Xu nhận :0
+
+Name : hahahahs giao dịch với hellokittyz || Time : 2022-11-10 18:24:23 || Item chuyển : [ 770 Số lượng : 6764;  638 Số lượng : 2174;  907 Số lượng : 2981;  642 Số lượng : 2147;  639 Số lượng : 2169;  987 Số lượng : 2047; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : nikora giao dịch với kizmad || Time : 2022-11-10 18:27:31 || Item chuyển : [643 Số lượng : 64;770 Số lượng : 1180;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nikora || Time : 2022-11-10 18:27:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 64;770 Số lượng : 1180;] Xu nhận :0
+
+Name : mikaro giao dịch với kizmad || Time : 2022-11-10 18:28:15 || Item chuyển : [643 Số lượng : 29;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với mikaro || Time : 2022-11-10 18:28:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 29;] Xu nhận :0
+
+Name : mikara giao dịch với kizmad || Time : 2022-11-10 18:30:10 || Item chuyển : [770 Số lượng : 1887;643 Số lượng : 130;987 Số lượng : 790;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với mikara || Time : 2022-11-10 18:30:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[770 Số lượng : 1887;643 Số lượng : 130;987 Số lượng : 790;] Xu nhận :0
+
+Name : kizmad giao dịch với nikora || Time : 2022-11-10 18:30:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 987 Số lượng : 680; ] Xu nhận :0
+
+Name : nikora giao dịch với kizmad || Time : 2022-11-10 18:30:28 || Item chuyển : [ 987 Số lượng : 680; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với mikaro || Time : 2022-11-10 18:30:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 987 Số lượng : 359; ] Xu nhận :0
+
+Name : mikaro giao dịch với kizmad || Time : 2022-11-10 18:30:43 || Item chuyển : [ 987 Số lượng : 359; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nakiro || Time : 2022-11-10 18:31:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 770 Số lượng : 860;  987 Số lượng : 327; ] Xu nhận :0
+
+Name : nakiro giao dịch với kizmad || Time : 2022-11-10 18:31:52 || Item chuyển : [ 770 Số lượng : 860;  987 Số lượng : 327; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+
+Name : kizmad giao dịch với nikaro || Time : 2022-11-10 18:33:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 987 Số lượng : 104;  770 Số lượng : 411; ] Xu nhận :0
+
+Name : nikaro giao dịch với kizmad || Time : 2022-11-10 18:33:14 || Item chuyển : [ 987 Số lượng : 104;  770 Số lượng : 411; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

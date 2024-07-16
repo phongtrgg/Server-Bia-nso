@@ -1,0 +1,2 @@
+
+ Name : admin789 đã tách vật phẩm || Vật phẩm tách: 13 || Số lượng vật phẩm ban đầu 30000 || Số lượng tách: 15000 || Số lượng vật phẩm sau khi tách: 15000 và 15000|| Thời gian tách : 2022-10-27 11:31:58

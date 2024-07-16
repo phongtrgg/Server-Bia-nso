@@ -1,0 +1,18 @@
+
+Name : baymax bán đồ vào Shinwa   || Time : 2022-05-05 10:25:16 || Giá bán :1000000 || Vật phẩm bán :443 || Số lượng vật phẩm bán : 1
+
+Name : haohan bán đồ vào Shinwa   || Time : 2022-05-05 10:29:22 || Giá bán :5000000 || Vật phẩm bán :442 || Số lượng vật phẩm bán : 1
+
+Name : haohan bán đồ vào Shinwa   || Time : 2022-05-05 10:29:37 || Giá bán :5000000 || Vật phẩm bán :488 || Số lượng vật phẩm bán : 1
+
+Name : haohan bán đồ vào Shinwa   || Time : 2022-05-05 10:29:56 || Giá bán :5000000 || Vật phẩm bán :440 || Số lượng vật phẩm bán : 1
+
+Name : haohan bán đồ vào Shinwa   || Time : 2022-05-05 10:30:12 || Giá bán :500000 || Vật phẩm bán :524 || Số lượng vật phẩm bán : 1
+
+Name : haohan bán đồ vào Shinwa   || Time : 2022-05-05 16:06:09 || Giá bán :200000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 6
+
+Name : deckcanvip bán đồ vào Shinwa   || Time : 2022-05-05 18:38:14 || Giá bán :280000000 || Vật phẩm bán :959 || Số lượng vật phẩm bán : 50
+
+Name : sakura1 bán đồ vào Shinwa   || Time : 2022-05-05 22:15:11 || Giá bán :50000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 1
+
+Name : sakura1 bán đồ vào Shinwa   || Time : 2022-05-05 22:15:25 || Giá bán :50000000 || Vật phẩm bán :601 || Số lượng vật phẩm bán : 1
